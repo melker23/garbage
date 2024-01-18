@@ -1,6 +1,7 @@
 
 def generate_garbage(n):
     with open("garbage.py", "w") as file:
+        file.write(f"num = int(input())\n")
         for num in range(1, n + 1):
             file.write(f"if num == {num}:\n")
             if num % 2 == 1:
