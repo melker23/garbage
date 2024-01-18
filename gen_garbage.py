@@ -1,4 +1,4 @@
-# generates garbage, what does % even mean??
+# generates garbage, wtf is % ever??
 def generate_garbage(n):
     with open("garbage.py", "w") as file:
         file.write(f"num = int(input())\n")
