@@ -1,4 +1,3 @@
-
 def generate_garbage(n):
     with open("garbage.py", "w") as file:
         file.write(f"num = int(input())\n")
