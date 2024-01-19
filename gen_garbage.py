@@ -5,8 +5,11 @@ def generate_garbage(n):
             file.write(f"if num == {num}:\n")
             if num % 2 == 1:
                 file.write(f"    print('odd')\n")
+                print(f"Number {num} written.")
             elif num % 2 == 0:
                 file.write(f"    print('even')\n")
+                print(f"Number {num} written.")
+
 
 def main():
     n = int(input("Enter the value of n: "))
