@@ -19999,3 +19999,20003 @@ if num == 9999:
     print('odd')
 if num == 10000:
     print('even')
+if num == 10001:
+    print('odd')
+if num == 10002:
+    print('even')
+if num == 10003:
+    print('odd')
+if num == 10004:
+    print('even')
+if num == 10005:
+    print('odd')
+if num == 10006:
+    print('even')
+if num == 10007:
+    print('odd')
+if num == 10008:
+    print('even')
+if num == 10009:
+    print('odd')
+if num == 10010:
+    print('even')
+if num == 10011:
+    print('odd')
+if num == 10012:
+    print('even')
+if num == 10013:
+    print('odd')
+if num == 10014:
+    print('even')
+if num == 10015:
+    print('odd')
+if num == 10016:
+    print('even')
+if num == 10017:
+    print('odd')
+if num == 10018:
+    print('even')
+if num == 10019:
+    print('odd')
+if num == 10020:
+    print('even')
+if num == 10021:
+    print('odd')
+if num == 10022:
+    print('even')
+if num == 10023:
+    print('odd')
+if num == 10024:
+    print('even')
+if num == 10025:
+    print('odd')
+if num == 10026:
+    print('even')
+if num == 10027:
+    print('odd')
+if num == 10028:
+    print('even')
+if num == 10029:
+    print('odd')
+if num == 10030:
+    print('even')
+if num == 10031:
+    print('odd')
+if num == 10032:
+    print('even')
+if num == 10033:
+    print('odd')
+if num == 10034:
+    print('even')
+if num == 10035:
+    print('odd')
+if num == 10036:
+    print('even')
+if num == 10037:
+    print('odd')
+if num == 10038:
+    print('even')
+if num == 10039:
+    print('odd')
+if num == 10040:
+    print('even')
+if num == 10041:
+    print('odd')
+if num == 10042:
+    print('even')
+if num == 10043:
+    print('odd')
+if num == 10044:
+    print('even')
+if num == 10045:
+    print('odd')
+if num == 10046:
+    print('even')
+if num == 10047:
+    print('odd')
+if num == 10048:
+    print('even')
+if num == 10049:
+    print('odd')
+if num == 10050:
+    print('even')
+if num == 10051:
+    print('odd')
+if num == 10052:
+    print('even')
+if num == 10053:
+    print('odd')
+if num == 10054:
+    print('even')
+if num == 10055:
+    print('odd')
+if num == 10056:
+    print('even')
+if num == 10057:
+    print('odd')
+if num == 10058:
+    print('even')
+if num == 10059:
+    print('odd')
+if num == 10060:
+    print('even')
+if num == 10061:
+    print('odd')
+if num == 10062:
+    print('even')
+if num == 10063:
+    print('odd')
+if num == 10064:
+    print('even')
+if num == 10065:
+    print('odd')
+if num == 10066:
+    print('even')
+if num == 10067:
+    print('odd')
+if num == 10068:
+    print('even')
+if num == 10069:
+    print('odd')
+if num == 10070:
+    print('even')
+if num == 10071:
+    print('odd')
+if num == 10072:
+    print('even')
+if num == 10073:
+    print('odd')
+if num == 10074:
+    print('even')
+if num == 10075:
+    print('odd')
+if num == 10076:
+    print('even')
+if num == 10077:
+    print('odd')
+if num == 10078:
+    print('even')
+if num == 10079:
+    print('odd')
+if num == 10080:
+    print('even')
+if num == 10081:
+    print('odd')
+if num == 10082:
+    print('even')
+if num == 10083:
+    print('odd')
+if num == 10084:
+    print('even')
+if num == 10085:
+    print('odd')
+if num == 10086:
+    print('even')
+if num == 10087:
+    print('odd')
+if num == 10088:
+    print('even')
+if num == 10089:
+    print('odd')
+if num == 10090:
+    print('even')
+if num == 10091:
+    print('odd')
+if num == 10092:
+    print('even')
+if num == 10093:
+    print('odd')
+if num == 10094:
+    print('even')
+if num == 10095:
+    print('odd')
+if num == 10096:
+    print('even')
+if num == 10097:
+    print('odd')
+if num == 10098:
+    print('even')
+if num == 10099:
+    print('odd')
+if num == 10100:
+    print('even')
+if num == 10101:
+    print('odd')
+if num == 10102:
+    print('even')
+if num == 10103:
+    print('odd')
+if num == 10104:
+    print('even')
+if num == 10105:
+    print('odd')
+if num == 10106:
+    print('even')
+if num == 10107:
+    print('odd')
+if num == 10108:
+    print('even')
+if num == 10109:
+    print('odd')
+if num == 10110:
+    print('even')
+if num == 10111:
+    print('odd')
+if num == 10112:
+    print('even')
+if num == 10113:
+    print('odd')
+if num == 10114:
+    print('even')
+if num == 10115:
+    print('odd')
+if num == 10116:
+    print('even')
+if num == 10117:
+    print('odd')
+if num == 10118:
+    print('even')
+if num == 10119:
+    print('odd')
+if num == 10120:
+    print('even')
+if num == 10121:
+    print('odd')
+if num == 10122:
+    print('even')
+if num == 10123:
+    print('odd')
+if num == 10124:
+    print('even')
+if num == 10125:
+    print('odd')
+if num == 10126:
+    print('even')
+if num == 10127:
+    print('odd')
+if num == 10128:
+    print('even')
+if num == 10129:
+    print('odd')
+if num == 10130:
+    print('even')
+if num == 10131:
+    print('odd')
+if num == 10132:
+    print('even')
+if num == 10133:
+    print('odd')
+if num == 10134:
+    print('even')
+if num == 10135:
+    print('odd')
+if num == 10136:
+    print('even')
+if num == 10137:
+    print('odd')
+if num == 10138:
+    print('even')
+if num == 10139:
+    print('odd')
+if num == 10140:
+    print('even')
+if num == 10141:
+    print('odd')
+if num == 10142:
+    print('even')
+if num == 10143:
+    print('odd')
+if num == 10144:
+    print('even')
+if num == 10145:
+    print('odd')
+if num == 10146:
+    print('even')
+if num == 10147:
+    print('odd')
+if num == 10148:
+    print('even')
+if num == 10149:
+    print('odd')
+if num == 10150:
+    print('even')
+if num == 10151:
+    print('odd')
+if num == 10152:
+    print('even')
+if num == 10153:
+    print('odd')
+if num == 10154:
+    print('even')
+if num == 10155:
+    print('odd')
+if num == 10156:
+    print('even')
+if num == 10157:
+    print('odd')
+if num == 10158:
+    print('even')
+if num == 10159:
+    print('odd')
+if num == 10160:
+    print('even')
+if num == 10161:
+    print('odd')
+if num == 10162:
+    print('even')
+if num == 10163:
+    print('odd')
+if num == 10164:
+    print('even')
+if num == 10165:
+    print('odd')
+if num == 10166:
+    print('even')
+if num == 10167:
+    print('odd')
+if num == 10168:
+    print('even')
+if num == 10169:
+    print('odd')
+if num == 10170:
+    print('even')
+if num == 10171:
+    print('odd')
+if num == 10172:
+    print('even')
+if num == 10173:
+    print('odd')
+if num == 10174:
+    print('even')
+if num == 10175:
+    print('odd')
+if num == 10176:
+    print('even')
+if num == 10177:
+    print('odd')
+if num == 10178:
+    print('even')
+if num == 10179:
+    print('odd')
+if num == 10180:
+    print('even')
+if num == 10181:
+    print('odd')
+if num == 10182:
+    print('even')
+if num == 10183:
+    print('odd')
+if num == 10184:
+    print('even')
+if num == 10185:
+    print('odd')
+if num == 10186:
+    print('even')
+if num == 10187:
+    print('odd')
+if num == 10188:
+    print('even')
+if num == 10189:
+    print('odd')
+if num == 10190:
+    print('even')
+if num == 10191:
+    print('odd')
+if num == 10192:
+    print('even')
+if num == 10193:
+    print('odd')
+if num == 10194:
+    print('even')
+if num == 10195:
+    print('odd')
+if num == 10196:
+    print('even')
+if num == 10197:
+    print('odd')
+if num == 10198:
+    print('even')
+if num == 10199:
+    print('odd')
+if num == 10200:
+    print('even')
+if num == 10201:
+    print('odd')
+if num == 10202:
+    print('even')
+if num == 10203:
+    print('odd')
+if num == 10204:
+    print('even')
+if num == 10205:
+    print('odd')
+if num == 10206:
+    print('even')
+if num == 10207:
+    print('odd')
+if num == 10208:
+    print('even')
+if num == 10209:
+    print('odd')
+if num == 10210:
+    print('even')
+if num == 10211:
+    print('odd')
+if num == 10212:
+    print('even')
+if num == 10213:
+    print('odd')
+if num == 10214:
+    print('even')
+if num == 10215:
+    print('odd')
+if num == 10216:
+    print('even')
+if num == 10217:
+    print('odd')
+if num == 10218:
+    print('even')
+if num == 10219:
+    print('odd')
+if num == 10220:
+    print('even')
+if num == 10221:
+    print('odd')
+if num == 10222:
+    print('even')
+if num == 10223:
+    print('odd')
+if num == 10224:
+    print('even')
+if num == 10225:
+    print('odd')
+if num == 10226:
+    print('even')
+if num == 10227:
+    print('odd')
+if num == 10228:
+    print('even')
+if num == 10229:
+    print('odd')
+if num == 10230:
+    print('even')
+if num == 10231:
+    print('odd')
+if num == 10232:
+    print('even')
+if num == 10233:
+    print('odd')
+if num == 10234:
+    print('even')
+if num == 10235:
+    print('odd')
+if num == 10236:
+    print('even')
+if num == 10237:
+    print('odd')
+if num == 10238:
+    print('even')
+if num == 10239:
+    print('odd')
+if num == 10240:
+    print('even')
+if num == 10241:
+    print('odd')
+if num == 10242:
+    print('even')
+if num == 10243:
+    print('odd')
+if num == 10244:
+    print('even')
+if num == 10245:
+    print('odd')
+if num == 10246:
+    print('even')
+if num == 10247:
+    print('odd')
+if num == 10248:
+    print('even')
+if num == 10249:
+    print('odd')
+if num == 10250:
+    print('even')
+if num == 10251:
+    print('odd')
+if num == 10252:
+    print('even')
+if num == 10253:
+    print('odd')
+if num == 10254:
+    print('even')
+if num == 10255:
+    print('odd')
+if num == 10256:
+    print('even')
+if num == 10257:
+    print('odd')
+if num == 10258:
+    print('even')
+if num == 10259:
+    print('odd')
+if num == 10260:
+    print('even')
+if num == 10261:
+    print('odd')
+if num == 10262:
+    print('even')
+if num == 10263:
+    print('odd')
+if num == 10264:
+    print('even')
+if num == 10265:
+    print('odd')
+if num == 10266:
+    print('even')
+if num == 10267:
+    print('odd')
+if num == 10268:
+    print('even')
+if num == 10269:
+    print('odd')
+if num == 10270:
+    print('even')
+if num == 10271:
+    print('odd')
+if num == 10272:
+    print('even')
+if num == 10273:
+    print('odd')
+if num == 10274:
+    print('even')
+if num == 10275:
+    print('odd')
+if num == 10276:
+    print('even')
+if num == 10277:
+    print('odd')
+if num == 10278:
+    print('even')
+if num == 10279:
+    print('odd')
+if num == 10280:
+    print('even')
+if num == 10281:
+    print('odd')
+if num == 10282:
+    print('even')
+if num == 10283:
+    print('odd')
+if num == 10284:
+    print('even')
+if num == 10285:
+    print('odd')
+if num == 10286:
+    print('even')
+if num == 10287:
+    print('odd')
+if num == 10288:
+    print('even')
+if num == 10289:
+    print('odd')
+if num == 10290:
+    print('even')
+if num == 10291:
+    print('odd')
+if num == 10292:
+    print('even')
+if num == 10293:
+    print('odd')
+if num == 10294:
+    print('even')
+if num == 10295:
+    print('odd')
+if num == 10296:
+    print('even')
+if num == 10297:
+    print('odd')
+if num == 10298:
+    print('even')
+if num == 10299:
+    print('odd')
+if num == 10300:
+    print('even')
+if num == 10301:
+    print('odd')
+if num == 10302:
+    print('even')
+if num == 10303:
+    print('odd')
+if num == 10304:
+    print('even')
+if num == 10305:
+    print('odd')
+if num == 10306:
+    print('even')
+if num == 10307:
+    print('odd')
+if num == 10308:
+    print('even')
+if num == 10309:
+    print('odd')
+if num == 10310:
+    print('even')
+if num == 10311:
+    print('odd')
+if num == 10312:
+    print('even')
+if num == 10313:
+    print('odd')
+if num == 10314:
+    print('even')
+if num == 10315:
+    print('odd')
+if num == 10316:
+    print('even')
+if num == 10317:
+    print('odd')
+if num == 10318:
+    print('even')
+if num == 10319:
+    print('odd')
+if num == 10320:
+    print('even')
+if num == 10321:
+    print('odd')
+if num == 10322:
+    print('even')
+if num == 10323:
+    print('odd')
+if num == 10324:
+    print('even')
+if num == 10325:
+    print('odd')
+if num == 10326:
+    print('even')
+if num == 10327:
+    print('odd')
+if num == 10328:
+    print('even')
+if num == 10329:
+    print('odd')
+if num == 10330:
+    print('even')
+if num == 10331:
+    print('odd')
+if num == 10332:
+    print('even')
+if num == 10333:
+    print('odd')
+if num == 10334:
+    print('even')
+if num == 10335:
+    print('odd')
+if num == 10336:
+    print('even')
+if num == 10337:
+    print('odd')
+if num == 10338:
+    print('even')
+if num == 10339:
+    print('odd')
+if num == 10340:
+    print('even')
+if num == 10341:
+    print('odd')
+if num == 10342:
+    print('even')
+if num == 10343:
+    print('odd')
+if num == 10344:
+    print('even')
+if num == 10345:
+    print('odd')
+if num == 10346:
+    print('even')
+if num == 10347:
+    print('odd')
+if num == 10348:
+    print('even')
+if num == 10349:
+    print('odd')
+if num == 10350:
+    print('even')
+if num == 10351:
+    print('odd')
+if num == 10352:
+    print('even')
+if num == 10353:
+    print('odd')
+if num == 10354:
+    print('even')
+if num == 10355:
+    print('odd')
+if num == 10356:
+    print('even')
+if num == 10357:
+    print('odd')
+if num == 10358:
+    print('even')
+if num == 10359:
+    print('odd')
+if num == 10360:
+    print('even')
+if num == 10361:
+    print('odd')
+if num == 10362:
+    print('even')
+if num == 10363:
+    print('odd')
+if num == 10364:
+    print('even')
+if num == 10365:
+    print('odd')
+if num == 10366:
+    print('even')
+if num == 10367:
+    print('odd')
+if num == 10368:
+    print('even')
+if num == 10369:
+    print('odd')
+if num == 10370:
+    print('even')
+if num == 10371:
+    print('odd')
+if num == 10372:
+    print('even')
+if num == 10373:
+    print('odd')
+if num == 10374:
+    print('even')
+if num == 10375:
+    print('odd')
+if num == 10376:
+    print('even')
+if num == 10377:
+    print('odd')
+if num == 10378:
+    print('even')
+if num == 10379:
+    print('odd')
+if num == 10380:
+    print('even')
+if num == 10381:
+    print('odd')
+if num == 10382:
+    print('even')
+if num == 10383:
+    print('odd')
+if num == 10384:
+    print('even')
+if num == 10385:
+    print('odd')
+if num == 10386:
+    print('even')
+if num == 10387:
+    print('odd')
+if num == 10388:
+    print('even')
+if num == 10389:
+    print('odd')
+if num == 10390:
+    print('even')
+if num == 10391:
+    print('odd')
+if num == 10392:
+    print('even')
+if num == 10393:
+    print('odd')
+if num == 10394:
+    print('even')
+if num == 10395:
+    print('odd')
+if num == 10396:
+    print('even')
+if num == 10397:
+    print('odd')
+if num == 10398:
+    print('even')
+if num == 10399:
+    print('odd')
+if num == 10400:
+    print('even')
+if num == 10401:
+    print('odd')
+if num == 10402:
+    print('even')
+if num == 10403:
+    print('odd')
+if num == 10404:
+    print('even')
+if num == 10405:
+    print('odd')
+if num == 10406:
+    print('even')
+if num == 10407:
+    print('odd')
+if num == 10408:
+    print('even')
+if num == 10409:
+    print('odd')
+if num == 10410:
+    print('even')
+if num == 10411:
+    print('odd')
+if num == 10412:
+    print('even')
+if num == 10413:
+    print('odd')
+if num == 10414:
+    print('even')
+if num == 10415:
+    print('odd')
+if num == 10416:
+    print('even')
+if num == 10417:
+    print('odd')
+if num == 10418:
+    print('even')
+if num == 10419:
+    print('odd')
+if num == 10420:
+    print('even')
+if num == 10421:
+    print('odd')
+if num == 10422:
+    print('even')
+if num == 10423:
+    print('odd')
+if num == 10424:
+    print('even')
+if num == 10425:
+    print('odd')
+if num == 10426:
+    print('even')
+if num == 10427:
+    print('odd')
+if num == 10428:
+    print('even')
+if num == 10429:
+    print('odd')
+if num == 10430:
+    print('even')
+if num == 10431:
+    print('odd')
+if num == 10432:
+    print('even')
+if num == 10433:
+    print('odd')
+if num == 10434:
+    print('even')
+if num == 10435:
+    print('odd')
+if num == 10436:
+    print('even')
+if num == 10437:
+    print('odd')
+if num == 10438:
+    print('even')
+if num == 10439:
+    print('odd')
+if num == 10440:
+    print('even')
+if num == 10441:
+    print('odd')
+if num == 10442:
+    print('even')
+if num == 10443:
+    print('odd')
+if num == 10444:
+    print('even')
+if num == 10445:
+    print('odd')
+if num == 10446:
+    print('even')
+if num == 10447:
+    print('odd')
+if num == 10448:
+    print('even')
+if num == 10449:
+    print('odd')
+if num == 10450:
+    print('even')
+if num == 10451:
+    print('odd')
+if num == 10452:
+    print('even')
+if num == 10453:
+    print('odd')
+if num == 10454:
+    print('even')
+if num == 10455:
+    print('odd')
+if num == 10456:
+    print('even')
+if num == 10457:
+    print('odd')
+if num == 10458:
+    print('even')
+if num == 10459:
+    print('odd')
+if num == 10460:
+    print('even')
+if num == 10461:
+    print('odd')
+if num == 10462:
+    print('even')
+if num == 10463:
+    print('odd')
+if num == 10464:
+    print('even')
+if num == 10465:
+    print('odd')
+if num == 10466:
+    print('even')
+if num == 10467:
+    print('odd')
+if num == 10468:
+    print('even')
+if num == 10469:
+    print('odd')
+if num == 10470:
+    print('even')
+if num == 10471:
+    print('odd')
+if num == 10472:
+    print('even')
+if num == 10473:
+    print('odd')
+if num == 10474:
+    print('even')
+if num == 10475:
+    print('odd')
+if num == 10476:
+    print('even')
+if num == 10477:
+    print('odd')
+if num == 10478:
+    print('even')
+if num == 10479:
+    print('odd')
+if num == 10480:
+    print('even')
+if num == 10481:
+    print('odd')
+if num == 10482:
+    print('even')
+if num == 10483:
+    print('odd')
+if num == 10484:
+    print('even')
+if num == 10485:
+    print('odd')
+if num == 10486:
+    print('even')
+if num == 10487:
+    print('odd')
+if num == 10488:
+    print('even')
+if num == 10489:
+    print('odd')
+if num == 10490:
+    print('even')
+if num == 10491:
+    print('odd')
+if num == 10492:
+    print('even')
+if num == 10493:
+    print('odd')
+if num == 10494:
+    print('even')
+if num == 10495:
+    print('odd')
+if num == 10496:
+    print('even')
+if num == 10497:
+    print('odd')
+if num == 10498:
+    print('even')
+if num == 10499:
+    print('odd')
+if num == 10500:
+    print('even')
+if num == 10501:
+    print('odd')
+if num == 10502:
+    print('even')
+if num == 10503:
+    print('odd')
+if num == 10504:
+    print('even')
+if num == 10505:
+    print('odd')
+if num == 10506:
+    print('even')
+if num == 10507:
+    print('odd')
+if num == 10508:
+    print('even')
+if num == 10509:
+    print('odd')
+if num == 10510:
+    print('even')
+if num == 10511:
+    print('odd')
+if num == 10512:
+    print('even')
+if num == 10513:
+    print('odd')
+if num == 10514:
+    print('even')
+if num == 10515:
+    print('odd')
+if num == 10516:
+    print('even')
+if num == 10517:
+    print('odd')
+if num == 10518:
+    print('even')
+if num == 10519:
+    print('odd')
+if num == 10520:
+    print('even')
+if num == 10521:
+    print('odd')
+if num == 10522:
+    print('even')
+if num == 10523:
+    print('odd')
+if num == 10524:
+    print('even')
+if num == 10525:
+    print('odd')
+if num == 10526:
+    print('even')
+if num == 10527:
+    print('odd')
+if num == 10528:
+    print('even')
+if num == 10529:
+    print('odd')
+if num == 10530:
+    print('even')
+if num == 10531:
+    print('odd')
+if num == 10532:
+    print('even')
+if num == 10533:
+    print('odd')
+if num == 10534:
+    print('even')
+if num == 10535:
+    print('odd')
+if num == 10536:
+    print('even')
+if num == 10537:
+    print('odd')
+if num == 10538:
+    print('even')
+if num == 10539:
+    print('odd')
+if num == 10540:
+    print('even')
+if num == 10541:
+    print('odd')
+if num == 10542:
+    print('even')
+if num == 10543:
+    print('odd')
+if num == 10544:
+    print('even')
+if num == 10545:
+    print('odd')
+if num == 10546:
+    print('even')
+if num == 10547:
+    print('odd')
+if num == 10548:
+    print('even')
+if num == 10549:
+    print('odd')
+if num == 10550:
+    print('even')
+if num == 10551:
+    print('odd')
+if num == 10552:
+    print('even')
+if num == 10553:
+    print('odd')
+if num == 10554:
+    print('even')
+if num == 10555:
+    print('odd')
+if num == 10556:
+    print('even')
+if num == 10557:
+    print('odd')
+if num == 10558:
+    print('even')
+if num == 10559:
+    print('odd')
+if num == 10560:
+    print('even')
+if num == 10561:
+    print('odd')
+if num == 10562:
+    print('even')
+if num == 10563:
+    print('odd')
+if num == 10564:
+    print('even')
+if num == 10565:
+    print('odd')
+if num == 10566:
+    print('even')
+if num == 10567:
+    print('odd')
+if num == 10568:
+    print('even')
+if num == 10569:
+    print('odd')
+if num == 10570:
+    print('even')
+if num == 10571:
+    print('odd')
+if num == 10572:
+    print('even')
+if num == 10573:
+    print('odd')
+if num == 10574:
+    print('even')
+if num == 10575:
+    print('odd')
+if num == 10576:
+    print('even')
+if num == 10577:
+    print('odd')
+if num == 10578:
+    print('even')
+if num == 10579:
+    print('odd')
+if num == 10580:
+    print('even')
+if num == 10581:
+    print('odd')
+if num == 10582:
+    print('even')
+if num == 10583:
+    print('odd')
+if num == 10584:
+    print('even')
+if num == 10585:
+    print('odd')
+if num == 10586:
+    print('even')
+if num == 10587:
+    print('odd')
+if num == 10588:
+    print('even')
+if num == 10589:
+    print('odd')
+if num == 10590:
+    print('even')
+if num == 10591:
+    print('odd')
+if num == 10592:
+    print('even')
+if num == 10593:
+    print('odd')
+if num == 10594:
+    print('even')
+if num == 10595:
+    print('odd')
+if num == 10596:
+    print('even')
+if num == 10597:
+    print('odd')
+if num == 10598:
+    print('even')
+if num == 10599:
+    print('odd')
+if num == 10600:
+    print('even')
+if num == 10601:
+    print('odd')
+if num == 10602:
+    print('even')
+if num == 10603:
+    print('odd')
+if num == 10604:
+    print('even')
+if num == 10605:
+    print('odd')
+if num == 10606:
+    print('even')
+if num == 10607:
+    print('odd')
+if num == 10608:
+    print('even')
+if num == 10609:
+    print('odd')
+if num == 10610:
+    print('even')
+if num == 10611:
+    print('odd')
+if num == 10612:
+    print('even')
+if num == 10613:
+    print('odd')
+if num == 10614:
+    print('even')
+if num == 10615:
+    print('odd')
+if num == 10616:
+    print('even')
+if num == 10617:
+    print('odd')
+if num == 10618:
+    print('even')
+if num == 10619:
+    print('odd')
+if num == 10620:
+    print('even')
+if num == 10621:
+    print('odd')
+if num == 10622:
+    print('even')
+if num == 10623:
+    print('odd')
+if num == 10624:
+    print('even')
+if num == 10625:
+    print('odd')
+if num == 10626:
+    print('even')
+if num == 10627:
+    print('odd')
+if num == 10628:
+    print('even')
+if num == 10629:
+    print('odd')
+if num == 10630:
+    print('even')
+if num == 10631:
+    print('odd')
+if num == 10632:
+    print('even')
+if num == 10633:
+    print('odd')
+if num == 10634:
+    print('even')
+if num == 10635:
+    print('odd')
+if num == 10636:
+    print('even')
+if num == 10637:
+    print('odd')
+if num == 10638:
+    print('even')
+if num == 10639:
+    print('odd')
+if num == 10640:
+    print('even')
+if num == 10641:
+    print('odd')
+if num == 10642:
+    print('even')
+if num == 10643:
+    print('odd')
+if num == 10644:
+    print('even')
+if num == 10645:
+    print('odd')
+if num == 10646:
+    print('even')
+if num == 10647:
+    print('odd')
+if num == 10648:
+    print('even')
+if num == 10649:
+    print('odd')
+if num == 10650:
+    print('even')
+if num == 10651:
+    print('odd')
+if num == 10652:
+    print('even')
+if num == 10653:
+    print('odd')
+if num == 10654:
+    print('even')
+if num == 10655:
+    print('odd')
+if num == 10656:
+    print('even')
+if num == 10657:
+    print('odd')
+if num == 10658:
+    print('even')
+if num == 10659:
+    print('odd')
+if num == 10660:
+    print('even')
+if num == 10661:
+    print('odd')
+if num == 10662:
+    print('even')
+if num == 10663:
+    print('odd')
+if num == 10664:
+    print('even')
+if num == 10665:
+    print('odd')
+if num == 10666:
+    print('even')
+if num == 10667:
+    print('odd')
+if num == 10668:
+    print('even')
+if num == 10669:
+    print('odd')
+if num == 10670:
+    print('even')
+if num == 10671:
+    print('odd')
+if num == 10672:
+    print('even')
+if num == 10673:
+    print('odd')
+if num == 10674:
+    print('even')
+if num == 10675:
+    print('odd')
+if num == 10676:
+    print('even')
+if num == 10677:
+    print('odd')
+if num == 10678:
+    print('even')
+if num == 10679:
+    print('odd')
+if num == 10680:
+    print('even')
+if num == 10681:
+    print('odd')
+if num == 10682:
+    print('even')
+if num == 10683:
+    print('odd')
+if num == 10684:
+    print('even')
+if num == 10685:
+    print('odd')
+if num == 10686:
+    print('even')
+if num == 10687:
+    print('odd')
+if num == 10688:
+    print('even')
+if num == 10689:
+    print('odd')
+if num == 10690:
+    print('even')
+if num == 10691:
+    print('odd')
+if num == 10692:
+    print('even')
+if num == 10693:
+    print('odd')
+if num == 10694:
+    print('even')
+if num == 10695:
+    print('odd')
+if num == 10696:
+    print('even')
+if num == 10697:
+    print('odd')
+if num == 10698:
+    print('even')
+if num == 10699:
+    print('odd')
+if num == 10700:
+    print('even')
+if num == 10701:
+    print('odd')
+if num == 10702:
+    print('even')
+if num == 10703:
+    print('odd')
+if num == 10704:
+    print('even')
+if num == 10705:
+    print('odd')
+if num == 10706:
+    print('even')
+if num == 10707:
+    print('odd')
+if num == 10708:
+    print('even')
+if num == 10709:
+    print('odd')
+if num == 10710:
+    print('even')
+if num == 10711:
+    print('odd')
+if num == 10712:
+    print('even')
+if num == 10713:
+    print('odd')
+if num == 10714:
+    print('even')
+if num == 10715:
+    print('odd')
+if num == 10716:
+    print('even')
+if num == 10717:
+    print('odd')
+if num == 10718:
+    print('even')
+if num == 10719:
+    print('odd')
+if num == 10720:
+    print('even')
+if num == 10721:
+    print('odd')
+if num == 10722:
+    print('even')
+if num == 10723:
+    print('odd')
+if num == 10724:
+    print('even')
+if num == 10725:
+    print('odd')
+if num == 10726:
+    print('even')
+if num == 10727:
+    print('odd')
+if num == 10728:
+    print('even')
+if num == 10729:
+    print('odd')
+if num == 10730:
+    print('even')
+if num == 10731:
+    print('odd')
+if num == 10732:
+    print('even')
+if num == 10733:
+    print('odd')
+if num == 10734:
+    print('even')
+if num == 10735:
+    print('odd')
+if num == 10736:
+    print('even')
+if num == 10737:
+    print('odd')
+if num == 10738:
+    print('even')
+if num == 10739:
+    print('odd')
+if num == 10740:
+    print('even')
+if num == 10741:
+    print('odd')
+if num == 10742:
+    print('even')
+if num == 10743:
+    print('odd')
+if num == 10744:
+    print('even')
+if num == 10745:
+    print('odd')
+if num == 10746:
+    print('even')
+if num == 10747:
+    print('odd')
+if num == 10748:
+    print('even')
+if num == 10749:
+    print('odd')
+if num == 10750:
+    print('even')
+if num == 10751:
+    print('odd')
+if num == 10752:
+    print('even')
+if num == 10753:
+    print('odd')
+if num == 10754:
+    print('even')
+if num == 10755:
+    print('odd')
+if num == 10756:
+    print('even')
+if num == 10757:
+    print('odd')
+if num == 10758:
+    print('even')
+if num == 10759:
+    print('odd')
+if num == 10760:
+    print('even')
+if num == 10761:
+    print('odd')
+if num == 10762:
+    print('even')
+if num == 10763:
+    print('odd')
+if num == 10764:
+    print('even')
+if num == 10765:
+    print('odd')
+if num == 10766:
+    print('even')
+if num == 10767:
+    print('odd')
+if num == 10768:
+    print('even')
+if num == 10769:
+    print('odd')
+if num == 10770:
+    print('even')
+if num == 10771:
+    print('odd')
+if num == 10772:
+    print('even')
+if num == 10773:
+    print('odd')
+if num == 10774:
+    print('even')
+if num == 10775:
+    print('odd')
+if num == 10776:
+    print('even')
+if num == 10777:
+    print('odd')
+if num == 10778:
+    print('even')
+if num == 10779:
+    print('odd')
+if num == 10780:
+    print('even')
+if num == 10781:
+    print('odd')
+if num == 10782:
+    print('even')
+if num == 10783:
+    print('odd')
+if num == 10784:
+    print('even')
+if num == 10785:
+    print('odd')
+if num == 10786:
+    print('even')
+if num == 10787:
+    print('odd')
+if num == 10788:
+    print('even')
+if num == 10789:
+    print('odd')
+if num == 10790:
+    print('even')
+if num == 10791:
+    print('odd')
+if num == 10792:
+    print('even')
+if num == 10793:
+    print('odd')
+if num == 10794:
+    print('even')
+if num == 10795:
+    print('odd')
+if num == 10796:
+    print('even')
+if num == 10797:
+    print('odd')
+if num == 10798:
+    print('even')
+if num == 10799:
+    print('odd')
+if num == 10800:
+    print('even')
+if num == 10801:
+    print('odd')
+if num == 10802:
+    print('even')
+if num == 10803:
+    print('odd')
+if num == 10804:
+    print('even')
+if num == 10805:
+    print('odd')
+if num == 10806:
+    print('even')
+if num == 10807:
+    print('odd')
+if num == 10808:
+    print('even')
+if num == 10809:
+    print('odd')
+if num == 10810:
+    print('even')
+if num == 10811:
+    print('odd')
+if num == 10812:
+    print('even')
+if num == 10813:
+    print('odd')
+if num == 10814:
+    print('even')
+if num == 10815:
+    print('odd')
+if num == 10816:
+    print('even')
+if num == 10817:
+    print('odd')
+if num == 10818:
+    print('even')
+if num == 10819:
+    print('odd')
+if num == 10820:
+    print('even')
+if num == 10821:
+    print('odd')
+if num == 10822:
+    print('even')
+if num == 10823:
+    print('odd')
+if num == 10824:
+    print('even')
+if num == 10825:
+    print('odd')
+if num == 10826:
+    print('even')
+if num == 10827:
+    print('odd')
+if num == 10828:
+    print('even')
+if num == 10829:
+    print('odd')
+if num == 10830:
+    print('even')
+if num == 10831:
+    print('odd')
+if num == 10832:
+    print('even')
+if num == 10833:
+    print('odd')
+if num == 10834:
+    print('even')
+if num == 10835:
+    print('odd')
+if num == 10836:
+    print('even')
+if num == 10837:
+    print('odd')
+if num == 10838:
+    print('even')
+if num == 10839:
+    print('odd')
+if num == 10840:
+    print('even')
+if num == 10841:
+    print('odd')
+if num == 10842:
+    print('even')
+if num == 10843:
+    print('odd')
+if num == 10844:
+    print('even')
+if num == 10845:
+    print('odd')
+if num == 10846:
+    print('even')
+if num == 10847:
+    print('odd')
+if num == 10848:
+    print('even')
+if num == 10849:
+    print('odd')
+if num == 10850:
+    print('even')
+if num == 10851:
+    print('odd')
+if num == 10852:
+    print('even')
+if num == 10853:
+    print('odd')
+if num == 10854:
+    print('even')
+if num == 10855:
+    print('odd')
+if num == 10856:
+    print('even')
+if num == 10857:
+    print('odd')
+if num == 10858:
+    print('even')
+if num == 10859:
+    print('odd')
+if num == 10860:
+    print('even')
+if num == 10861:
+    print('odd')
+if num == 10862:
+    print('even')
+if num == 10863:
+    print('odd')
+if num == 10864:
+    print('even')
+if num == 10865:
+    print('odd')
+if num == 10866:
+    print('even')
+if num == 10867:
+    print('odd')
+if num == 10868:
+    print('even')
+if num == 10869:
+    print('odd')
+if num == 10870:
+    print('even')
+if num == 10871:
+    print('odd')
+if num == 10872:
+    print('even')
+if num == 10873:
+    print('odd')
+if num == 10874:
+    print('even')
+if num == 10875:
+    print('odd')
+if num == 10876:
+    print('even')
+if num == 10877:
+    print('odd')
+if num == 10878:
+    print('even')
+if num == 10879:
+    print('odd')
+if num == 10880:
+    print('even')
+if num == 10881:
+    print('odd')
+if num == 10882:
+    print('even')
+if num == 10883:
+    print('odd')
+if num == 10884:
+    print('even')
+if num == 10885:
+    print('odd')
+if num == 10886:
+    print('even')
+if num == 10887:
+    print('odd')
+if num == 10888:
+    print('even')
+if num == 10889:
+    print('odd')
+if num == 10890:
+    print('even')
+if num == 10891:
+    print('odd')
+if num == 10892:
+    print('even')
+if num == 10893:
+    print('odd')
+if num == 10894:
+    print('even')
+if num == 10895:
+    print('odd')
+if num == 10896:
+    print('even')
+if num == 10897:
+    print('odd')
+if num == 10898:
+    print('even')
+if num == 10899:
+    print('odd')
+if num == 10900:
+    print('even')
+if num == 10901:
+    print('odd')
+if num == 10902:
+    print('even')
+if num == 10903:
+    print('odd')
+if num == 10904:
+    print('even')
+if num == 10905:
+    print('odd')
+if num == 10906:
+    print('even')
+if num == 10907:
+    print('odd')
+if num == 10908:
+    print('even')
+if num == 10909:
+    print('odd')
+if num == 10910:
+    print('even')
+if num == 10911:
+    print('odd')
+if num == 10912:
+    print('even')
+if num == 10913:
+    print('odd')
+if num == 10914:
+    print('even')
+if num == 10915:
+    print('odd')
+if num == 10916:
+    print('even')
+if num == 10917:
+    print('odd')
+if num == 10918:
+    print('even')
+if num == 10919:
+    print('odd')
+if num == 10920:
+    print('even')
+if num == 10921:
+    print('odd')
+if num == 10922:
+    print('even')
+if num == 10923:
+    print('odd')
+if num == 10924:
+    print('even')
+if num == 10925:
+    print('odd')
+if num == 10926:
+    print('even')
+if num == 10927:
+    print('odd')
+if num == 10928:
+    print('even')
+if num == 10929:
+    print('odd')
+if num == 10930:
+    print('even')
+if num == 10931:
+    print('odd')
+if num == 10932:
+    print('even')
+if num == 10933:
+    print('odd')
+if num == 10934:
+    print('even')
+if num == 10935:
+    print('odd')
+if num == 10936:
+    print('even')
+if num == 10937:
+    print('odd')
+if num == 10938:
+    print('even')
+if num == 10939:
+    print('odd')
+if num == 10940:
+    print('even')
+if num == 10941:
+    print('odd')
+if num == 10942:
+    print('even')
+if num == 10943:
+    print('odd')
+if num == 10944:
+    print('even')
+if num == 10945:
+    print('odd')
+if num == 10946:
+    print('even')
+if num == 10947:
+    print('odd')
+if num == 10948:
+    print('even')
+if num == 10949:
+    print('odd')
+if num == 10950:
+    print('even')
+if num == 10951:
+    print('odd')
+if num == 10952:
+    print('even')
+if num == 10953:
+    print('odd')
+if num == 10954:
+    print('even')
+if num == 10955:
+    print('odd')
+if num == 10956:
+    print('even')
+if num == 10957:
+    print('odd')
+if num == 10958:
+    print('even')
+if num == 10959:
+    print('odd')
+if num == 10960:
+    print('even')
+if num == 10961:
+    print('odd')
+if num == 10962:
+    print('even')
+if num == 10963:
+    print('odd')
+if num == 10964:
+    print('even')
+if num == 10965:
+    print('odd')
+if num == 10966:
+    print('even')
+if num == 10967:
+    print('odd')
+if num == 10968:
+    print('even')
+if num == 10969:
+    print('odd')
+if num == 10970:
+    print('even')
+if num == 10971:
+    print('odd')
+if num == 10972:
+    print('even')
+if num == 10973:
+    print('odd')
+if num == 10974:
+    print('even')
+if num == 10975:
+    print('odd')
+if num == 10976:
+    print('even')
+if num == 10977:
+    print('odd')
+if num == 10978:
+    print('even')
+if num == 10979:
+    print('odd')
+if num == 10980:
+    print('even')
+if num == 10981:
+    print('odd')
+if num == 10982:
+    print('even')
+if num == 10983:
+    print('odd')
+if num == 10984:
+    print('even')
+if num == 10985:
+    print('odd')
+if num == 10986:
+    print('even')
+if num == 10987:
+    print('odd')
+if num == 10988:
+    print('even')
+if num == 10989:
+    print('odd')
+if num == 10990:
+    print('even')
+if num == 10991:
+    print('odd')
+if num == 10992:
+    print('even')
+if num == 10993:
+    print('odd')
+if num == 10994:
+    print('even')
+if num == 10995:
+    print('odd')
+if num == 10996:
+    print('even')
+if num == 10997:
+    print('odd')
+if num == 10998:
+    print('even')
+if num == 10999:
+    print('odd')
+if num == 11000:
+    print('even')
+if num == 11001:
+    print('odd')
+if num == 11002:
+    print('even')
+if num == 11003:
+    print('odd')
+if num == 11004:
+    print('even')
+if num == 11005:
+    print('odd')
+if num == 11006:
+    print('even')
+if num == 11007:
+    print('odd')
+if num == 11008:
+    print('even')
+if num == 11009:
+    print('odd')
+if num == 11010:
+    print('even')
+if num == 11011:
+    print('odd')
+if num == 11012:
+    print('even')
+if num == 11013:
+    print('odd')
+if num == 11014:
+    print('even')
+if num == 11015:
+    print('odd')
+if num == 11016:
+    print('even')
+if num == 11017:
+    print('odd')
+if num == 11018:
+    print('even')
+if num == 11019:
+    print('odd')
+if num == 11020:
+    print('even')
+if num == 11021:
+    print('odd')
+if num == 11022:
+    print('even')
+if num == 11023:
+    print('odd')
+if num == 11024:
+    print('even')
+if num == 11025:
+    print('odd')
+if num == 11026:
+    print('even')
+if num == 11027:
+    print('odd')
+if num == 11028:
+    print('even')
+if num == 11029:
+    print('odd')
+if num == 11030:
+    print('even')
+if num == 11031:
+    print('odd')
+if num == 11032:
+    print('even')
+if num == 11033:
+    print('odd')
+if num == 11034:
+    print('even')
+if num == 11035:
+    print('odd')
+if num == 11036:
+    print('even')
+if num == 11037:
+    print('odd')
+if num == 11038:
+    print('even')
+if num == 11039:
+    print('odd')
+if num == 11040:
+    print('even')
+if num == 11041:
+    print('odd')
+if num == 11042:
+    print('even')
+if num == 11043:
+    print('odd')
+if num == 11044:
+    print('even')
+if num == 11045:
+    print('odd')
+if num == 11046:
+    print('even')
+if num == 11047:
+    print('odd')
+if num == 11048:
+    print('even')
+if num == 11049:
+    print('odd')
+if num == 11050:
+    print('even')
+if num == 11051:
+    print('odd')
+if num == 11052:
+    print('even')
+if num == 11053:
+    print('odd')
+if num == 11054:
+    print('even')
+if num == 11055:
+    print('odd')
+if num == 11056:
+    print('even')
+if num == 11057:
+    print('odd')
+if num == 11058:
+    print('even')
+if num == 11059:
+    print('odd')
+if num == 11060:
+    print('even')
+if num == 11061:
+    print('odd')
+if num == 11062:
+    print('even')
+if num == 11063:
+    print('odd')
+if num == 11064:
+    print('even')
+if num == 11065:
+    print('odd')
+if num == 11066:
+    print('even')
+if num == 11067:
+    print('odd')
+if num == 11068:
+    print('even')
+if num == 11069:
+    print('odd')
+if num == 11070:
+    print('even')
+if num == 11071:
+    print('odd')
+if num == 11072:
+    print('even')
+if num == 11073:
+    print('odd')
+if num == 11074:
+    print('even')
+if num == 11075:
+    print('odd')
+if num == 11076:
+    print('even')
+if num == 11077:
+    print('odd')
+if num == 11078:
+    print('even')
+if num == 11079:
+    print('odd')
+if num == 11080:
+    print('even')
+if num == 11081:
+    print('odd')
+if num == 11082:
+    print('even')
+if num == 11083:
+    print('odd')
+if num == 11084:
+    print('even')
+if num == 11085:
+    print('odd')
+if num == 11086:
+    print('even')
+if num == 11087:
+    print('odd')
+if num == 11088:
+    print('even')
+if num == 11089:
+    print('odd')
+if num == 11090:
+    print('even')
+if num == 11091:
+    print('odd')
+if num == 11092:
+    print('even')
+if num == 11093:
+    print('odd')
+if num == 11094:
+    print('even')
+if num == 11095:
+    print('odd')
+if num == 11096:
+    print('even')
+if num == 11097:
+    print('odd')
+if num == 11098:
+    print('even')
+if num == 11099:
+    print('odd')
+if num == 11100:
+    print('even')
+if num == 11101:
+    print('odd')
+if num == 11102:
+    print('even')
+if num == 11103:
+    print('odd')
+if num == 11104:
+    print('even')
+if num == 11105:
+    print('odd')
+if num == 11106:
+    print('even')
+if num == 11107:
+    print('odd')
+if num == 11108:
+    print('even')
+if num == 11109:
+    print('odd')
+if num == 11110:
+    print('even')
+if num == 11111:
+    print('odd')
+if num == 11112:
+    print('even')
+if num == 11113:
+    print('odd')
+if num == 11114:
+    print('even')
+if num == 11115:
+    print('odd')
+if num == 11116:
+    print('even')
+if num == 11117:
+    print('odd')
+if num == 11118:
+    print('even')
+if num == 11119:
+    print('odd')
+if num == 11120:
+    print('even')
+if num == 11121:
+    print('odd')
+if num == 11122:
+    print('even')
+if num == 11123:
+    print('odd')
+if num == 11124:
+    print('even')
+if num == 11125:
+    print('odd')
+if num == 11126:
+    print('even')
+if num == 11127:
+    print('odd')
+if num == 11128:
+    print('even')
+if num == 11129:
+    print('odd')
+if num == 11130:
+    print('even')
+if num == 11131:
+    print('odd')
+if num == 11132:
+    print('even')
+if num == 11133:
+    print('odd')
+if num == 11134:
+    print('even')
+if num == 11135:
+    print('odd')
+if num == 11136:
+    print('even')
+if num == 11137:
+    print('odd')
+if num == 11138:
+    print('even')
+if num == 11139:
+    print('odd')
+if num == 11140:
+    print('even')
+if num == 11141:
+    print('odd')
+if num == 11142:
+    print('even')
+if num == 11143:
+    print('odd')
+if num == 11144:
+    print('even')
+if num == 11145:
+    print('odd')
+if num == 11146:
+    print('even')
+if num == 11147:
+    print('odd')
+if num == 11148:
+    print('even')
+if num == 11149:
+    print('odd')
+if num == 11150:
+    print('even')
+if num == 11151:
+    print('odd')
+if num == 11152:
+    print('even')
+if num == 11153:
+    print('odd')
+if num == 11154:
+    print('even')
+if num == 11155:
+    print('odd')
+if num == 11156:
+    print('even')
+if num == 11157:
+    print('odd')
+if num == 11158:
+    print('even')
+if num == 11159:
+    print('odd')
+if num == 11160:
+    print('even')
+if num == 11161:
+    print('odd')
+if num == 11162:
+    print('even')
+if num == 11163:
+    print('odd')
+if num == 11164:
+    print('even')
+if num == 11165:
+    print('odd')
+if num == 11166:
+    print('even')
+if num == 11167:
+    print('odd')
+if num == 11168:
+    print('even')
+if num == 11169:
+    print('odd')
+if num == 11170:
+    print('even')
+if num == 11171:
+    print('odd')
+if num == 11172:
+    print('even')
+if num == 11173:
+    print('odd')
+if num == 11174:
+    print('even')
+if num == 11175:
+    print('odd')
+if num == 11176:
+    print('even')
+if num == 11177:
+    print('odd')
+if num == 11178:
+    print('even')
+if num == 11179:
+    print('odd')
+if num == 11180:
+    print('even')
+if num == 11181:
+    print('odd')
+if num == 11182:
+    print('even')
+if num == 11183:
+    print('odd')
+if num == 11184:
+    print('even')
+if num == 11185:
+    print('odd')
+if num == 11186:
+    print('even')
+if num == 11187:
+    print('odd')
+if num == 11188:
+    print('even')
+if num == 11189:
+    print('odd')
+if num == 11190:
+    print('even')
+if num == 11191:
+    print('odd')
+if num == 11192:
+    print('even')
+if num == 11193:
+    print('odd')
+if num == 11194:
+    print('even')
+if num == 11195:
+    print('odd')
+if num == 11196:
+    print('even')
+if num == 11197:
+    print('odd')
+if num == 11198:
+    print('even')
+if num == 11199:
+    print('odd')
+if num == 11200:
+    print('even')
+if num == 11201:
+    print('odd')
+if num == 11202:
+    print('even')
+if num == 11203:
+    print('odd')
+if num == 11204:
+    print('even')
+if num == 11205:
+    print('odd')
+if num == 11206:
+    print('even')
+if num == 11207:
+    print('odd')
+if num == 11208:
+    print('even')
+if num == 11209:
+    print('odd')
+if num == 11210:
+    print('even')
+if num == 11211:
+    print('odd')
+if num == 11212:
+    print('even')
+if num == 11213:
+    print('odd')
+if num == 11214:
+    print('even')
+if num == 11215:
+    print('odd')
+if num == 11216:
+    print('even')
+if num == 11217:
+    print('odd')
+if num == 11218:
+    print('even')
+if num == 11219:
+    print('odd')
+if num == 11220:
+    print('even')
+if num == 11221:
+    print('odd')
+if num == 11222:
+    print('even')
+if num == 11223:
+    print('odd')
+if num == 11224:
+    print('even')
+if num == 11225:
+    print('odd')
+if num == 11226:
+    print('even')
+if num == 11227:
+    print('odd')
+if num == 11228:
+    print('even')
+if num == 11229:
+    print('odd')
+if num == 11230:
+    print('even')
+if num == 11231:
+    print('odd')
+if num == 11232:
+    print('even')
+if num == 11233:
+    print('odd')
+if num == 11234:
+    print('even')
+if num == 11235:
+    print('odd')
+if num == 11236:
+    print('even')
+if num == 11237:
+    print('odd')
+if num == 11238:
+    print('even')
+if num == 11239:
+    print('odd')
+if num == 11240:
+    print('even')
+if num == 11241:
+    print('odd')
+if num == 11242:
+    print('even')
+if num == 11243:
+    print('odd')
+if num == 11244:
+    print('even')
+if num == 11245:
+    print('odd')
+if num == 11246:
+    print('even')
+if num == 11247:
+    print('odd')
+if num == 11248:
+    print('even')
+if num == 11249:
+    print('odd')
+if num == 11250:
+    print('even')
+if num == 11251:
+    print('odd')
+if num == 11252:
+    print('even')
+if num == 11253:
+    print('odd')
+if num == 11254:
+    print('even')
+if num == 11255:
+    print('odd')
+if num == 11256:
+    print('even')
+if num == 11257:
+    print('odd')
+if num == 11258:
+    print('even')
+if num == 11259:
+    print('odd')
+if num == 11260:
+    print('even')
+if num == 11261:
+    print('odd')
+if num == 11262:
+    print('even')
+if num == 11263:
+    print('odd')
+if num == 11264:
+    print('even')
+if num == 11265:
+    print('odd')
+if num == 11266:
+    print('even')
+if num == 11267:
+    print('odd')
+if num == 11268:
+    print('even')
+if num == 11269:
+    print('odd')
+if num == 11270:
+    print('even')
+if num == 11271:
+    print('odd')
+if num == 11272:
+    print('even')
+if num == 11273:
+    print('odd')
+if num == 11274:
+    print('even')
+if num == 11275:
+    print('odd')
+if num == 11276:
+    print('even')
+if num == 11277:
+    print('odd')
+if num == 11278:
+    print('even')
+if num == 11279:
+    print('odd')
+if num == 11280:
+    print('even')
+if num == 11281:
+    print('odd')
+if num == 11282:
+    print('even')
+if num == 11283:
+    print('odd')
+if num == 11284:
+    print('even')
+if num == 11285:
+    print('odd')
+if num == 11286:
+    print('even')
+if num == 11287:
+    print('odd')
+if num == 11288:
+    print('even')
+if num == 11289:
+    print('odd')
+if num == 11290:
+    print('even')
+if num == 11291:
+    print('odd')
+if num == 11292:
+    print('even')
+if num == 11293:
+    print('odd')
+if num == 11294:
+    print('even')
+if num == 11295:
+    print('odd')
+if num == 11296:
+    print('even')
+if num == 11297:
+    print('odd')
+if num == 11298:
+    print('even')
+if num == 11299:
+    print('odd')
+if num == 11300:
+    print('even')
+if num == 11301:
+    print('odd')
+if num == 11302:
+    print('even')
+if num == 11303:
+    print('odd')
+if num == 11304:
+    print('even')
+if num == 11305:
+    print('odd')
+if num == 11306:
+    print('even')
+if num == 11307:
+    print('odd')
+if num == 11308:
+    print('even')
+if num == 11309:
+    print('odd')
+if num == 11310:
+    print('even')
+if num == 11311:
+    print('odd')
+if num == 11312:
+    print('even')
+if num == 11313:
+    print('odd')
+if num == 11314:
+    print('even')
+if num == 11315:
+    print('odd')
+if num == 11316:
+    print('even')
+if num == 11317:
+    print('odd')
+if num == 11318:
+    print('even')
+if num == 11319:
+    print('odd')
+if num == 11320:
+    print('even')
+if num == 11321:
+    print('odd')
+if num == 11322:
+    print('even')
+if num == 11323:
+    print('odd')
+if num == 11324:
+    print('even')
+if num == 11325:
+    print('odd')
+if num == 11326:
+    print('even')
+if num == 11327:
+    print('odd')
+if num == 11328:
+    print('even')
+if num == 11329:
+    print('odd')
+if num == 11330:
+    print('even')
+if num == 11331:
+    print('odd')
+if num == 11332:
+    print('even')
+if num == 11333:
+    print('odd')
+if num == 11334:
+    print('even')
+if num == 11335:
+    print('odd')
+if num == 11336:
+    print('even')
+if num == 11337:
+    print('odd')
+if num == 11338:
+    print('even')
+if num == 11339:
+    print('odd')
+if num == 11340:
+    print('even')
+if num == 11341:
+    print('odd')
+if num == 11342:
+    print('even')
+if num == 11343:
+    print('odd')
+if num == 11344:
+    print('even')
+if num == 11345:
+    print('odd')
+if num == 11346:
+    print('even')
+if num == 11347:
+    print('odd')
+if num == 11348:
+    print('even')
+if num == 11349:
+    print('odd')
+if num == 11350:
+    print('even')
+if num == 11351:
+    print('odd')
+if num == 11352:
+    print('even')
+if num == 11353:
+    print('odd')
+if num == 11354:
+    print('even')
+if num == 11355:
+    print('odd')
+if num == 11356:
+    print('even')
+if num == 11357:
+    print('odd')
+if num == 11358:
+    print('even')
+if num == 11359:
+    print('odd')
+if num == 11360:
+    print('even')
+if num == 11361:
+    print('odd')
+if num == 11362:
+    print('even')
+if num == 11363:
+    print('odd')
+if num == 11364:
+    print('even')
+if num == 11365:
+    print('odd')
+if num == 11366:
+    print('even')
+if num == 11367:
+    print('odd')
+if num == 11368:
+    print('even')
+if num == 11369:
+    print('odd')
+if num == 11370:
+    print('even')
+if num == 11371:
+    print('odd')
+if num == 11372:
+    print('even')
+if num == 11373:
+    print('odd')
+if num == 11374:
+    print('even')
+if num == 11375:
+    print('odd')
+if num == 11376:
+    print('even')
+if num == 11377:
+    print('odd')
+if num == 11378:
+    print('even')
+if num == 11379:
+    print('odd')
+if num == 11380:
+    print('even')
+if num == 11381:
+    print('odd')
+if num == 11382:
+    print('even')
+if num == 11383:
+    print('odd')
+if num == 11384:
+    print('even')
+if num == 11385:
+    print('odd')
+if num == 11386:
+    print('even')
+if num == 11387:
+    print('odd')
+if num == 11388:
+    print('even')
+if num == 11389:
+    print('odd')
+if num == 11390:
+    print('even')
+if num == 11391:
+    print('odd')
+if num == 11392:
+    print('even')
+if num == 11393:
+    print('odd')
+if num == 11394:
+    print('even')
+if num == 11395:
+    print('odd')
+if num == 11396:
+    print('even')
+if num == 11397:
+    print('odd')
+if num == 11398:
+    print('even')
+if num == 11399:
+    print('odd')
+if num == 11400:
+    print('even')
+if num == 11401:
+    print('odd')
+if num == 11402:
+    print('even')
+if num == 11403:
+    print('odd')
+if num == 11404:
+    print('even')
+if num == 11405:
+    print('odd')
+if num == 11406:
+    print('even')
+if num == 11407:
+    print('odd')
+if num == 11408:
+    print('even')
+if num == 11409:
+    print('odd')
+if num == 11410:
+    print('even')
+if num == 11411:
+    print('odd')
+if num == 11412:
+    print('even')
+if num == 11413:
+    print('odd')
+if num == 11414:
+    print('even')
+if num == 11415:
+    print('odd')
+if num == 11416:
+    print('even')
+if num == 11417:
+    print('odd')
+if num == 11418:
+    print('even')
+if num == 11419:
+    print('odd')
+if num == 11420:
+    print('even')
+if num == 11421:
+    print('odd')
+if num == 11422:
+    print('even')
+if num == 11423:
+    print('odd')
+if num == 11424:
+    print('even')
+if num == 11425:
+    print('odd')
+if num == 11426:
+    print('even')
+if num == 11427:
+    print('odd')
+if num == 11428:
+    print('even')
+if num == 11429:
+    print('odd')
+if num == 11430:
+    print('even')
+if num == 11431:
+    print('odd')
+if num == 11432:
+    print('even')
+if num == 11433:
+    print('odd')
+if num == 11434:
+    print('even')
+if num == 11435:
+    print('odd')
+if num == 11436:
+    print('even')
+if num == 11437:
+    print('odd')
+if num == 11438:
+    print('even')
+if num == 11439:
+    print('odd')
+if num == 11440:
+    print('even')
+if num == 11441:
+    print('odd')
+if num == 11442:
+    print('even')
+if num == 11443:
+    print('odd')
+if num == 11444:
+    print('even')
+if num == 11445:
+    print('odd')
+if num == 11446:
+    print('even')
+if num == 11447:
+    print('odd')
+if num == 11448:
+    print('even')
+if num == 11449:
+    print('odd')
+if num == 11450:
+    print('even')
+if num == 11451:
+    print('odd')
+if num == 11452:
+    print('even')
+if num == 11453:
+    print('odd')
+if num == 11454:
+    print('even')
+if num == 11455:
+    print('odd')
+if num == 11456:
+    print('even')
+if num == 11457:
+    print('odd')
+if num == 11458:
+    print('even')
+if num == 11459:
+    print('odd')
+if num == 11460:
+    print('even')
+if num == 11461:
+    print('odd')
+if num == 11462:
+    print('even')
+if num == 11463:
+    print('odd')
+if num == 11464:
+    print('even')
+if num == 11465:
+    print('odd')
+if num == 11466:
+    print('even')
+if num == 11467:
+    print('odd')
+if num == 11468:
+    print('even')
+if num == 11469:
+    print('odd')
+if num == 11470:
+    print('even')
+if num == 11471:
+    print('odd')
+if num == 11472:
+    print('even')
+if num == 11473:
+    print('odd')
+if num == 11474:
+    print('even')
+if num == 11475:
+    print('odd')
+if num == 11476:
+    print('even')
+if num == 11477:
+    print('odd')
+if num == 11478:
+    print('even')
+if num == 11479:
+    print('odd')
+if num == 11480:
+    print('even')
+if num == 11481:
+    print('odd')
+if num == 11482:
+    print('even')
+if num == 11483:
+    print('odd')
+if num == 11484:
+    print('even')
+if num == 11485:
+    print('odd')
+if num == 11486:
+    print('even')
+if num == 11487:
+    print('odd')
+if num == 11488:
+    print('even')
+if num == 11489:
+    print('odd')
+if num == 11490:
+    print('even')
+if num == 11491:
+    print('odd')
+if num == 11492:
+    print('even')
+if num == 11493:
+    print('odd')
+if num == 11494:
+    print('even')
+if num == 11495:
+    print('odd')
+if num == 11496:
+    print('even')
+if num == 11497:
+    print('odd')
+if num == 11498:
+    print('even')
+if num == 11499:
+    print('odd')
+if num == 11500:
+    print('even')
+if num == 11501:
+    print('odd')
+if num == 11502:
+    print('even')
+if num == 11503:
+    print('odd')
+if num == 11504:
+    print('even')
+if num == 11505:
+    print('odd')
+if num == 11506:
+    print('even')
+if num == 11507:
+    print('odd')
+if num == 11508:
+    print('even')
+if num == 11509:
+    print('odd')
+if num == 11510:
+    print('even')
+if num == 11511:
+    print('odd')
+if num == 11512:
+    print('even')
+if num == 11513:
+    print('odd')
+if num == 11514:
+    print('even')
+if num == 11515:
+    print('odd')
+if num == 11516:
+    print('even')
+if num == 11517:
+    print('odd')
+if num == 11518:
+    print('even')
+if num == 11519:
+    print('odd')
+if num == 11520:
+    print('even')
+if num == 11521:
+    print('odd')
+if num == 11522:
+    print('even')
+if num == 11523:
+    print('odd')
+if num == 11524:
+    print('even')
+if num == 11525:
+    print('odd')
+if num == 11526:
+    print('even')
+if num == 11527:
+    print('odd')
+if num == 11528:
+    print('even')
+if num == 11529:
+    print('odd')
+if num == 11530:
+    print('even')
+if num == 11531:
+    print('odd')
+if num == 11532:
+    print('even')
+if num == 11533:
+    print('odd')
+if num == 11534:
+    print('even')
+if num == 11535:
+    print('odd')
+if num == 11536:
+    print('even')
+if num == 11537:
+    print('odd')
+if num == 11538:
+    print('even')
+if num == 11539:
+    print('odd')
+if num == 11540:
+    print('even')
+if num == 11541:
+    print('odd')
+if num == 11542:
+    print('even')
+if num == 11543:
+    print('odd')
+if num == 11544:
+    print('even')
+if num == 11545:
+    print('odd')
+if num == 11546:
+    print('even')
+if num == 11547:
+    print('odd')
+if num == 11548:
+    print('even')
+if num == 11549:
+    print('odd')
+if num == 11550:
+    print('even')
+if num == 11551:
+    print('odd')
+if num == 11552:
+    print('even')
+if num == 11553:
+    print('odd')
+if num == 11554:
+    print('even')
+if num == 11555:
+    print('odd')
+if num == 11556:
+    print('even')
+if num == 11557:
+    print('odd')
+if num == 11558:
+    print('even')
+if num == 11559:
+    print('odd')
+if num == 11560:
+    print('even')
+if num == 11561:
+    print('odd')
+if num == 11562:
+    print('even')
+if num == 11563:
+    print('odd')
+if num == 11564:
+    print('even')
+if num == 11565:
+    print('odd')
+if num == 11566:
+    print('even')
+if num == 11567:
+    print('odd')
+if num == 11568:
+    print('even')
+if num == 11569:
+    print('odd')
+if num == 11570:
+    print('even')
+if num == 11571:
+    print('odd')
+if num == 11572:
+    print('even')
+if num == 11573:
+    print('odd')
+if num == 11574:
+    print('even')
+if num == 11575:
+    print('odd')
+if num == 11576:
+    print('even')
+if num == 11577:
+    print('odd')
+if num == 11578:
+    print('even')
+if num == 11579:
+    print('odd')
+if num == 11580:
+    print('even')
+if num == 11581:
+    print('odd')
+if num == 11582:
+    print('even')
+if num == 11583:
+    print('odd')
+if num == 11584:
+    print('even')
+if num == 11585:
+    print('odd')
+if num == 11586:
+    print('even')
+if num == 11587:
+    print('odd')
+if num == 11588:
+    print('even')
+if num == 11589:
+    print('odd')
+if num == 11590:
+    print('even')
+if num == 11591:
+    print('odd')
+if num == 11592:
+    print('even')
+if num == 11593:
+    print('odd')
+if num == 11594:
+    print('even')
+if num == 11595:
+    print('odd')
+if num == 11596:
+    print('even')
+if num == 11597:
+    print('odd')
+if num == 11598:
+    print('even')
+if num == 11599:
+    print('odd')
+if num == 11600:
+    print('even')
+if num == 11601:
+    print('odd')
+if num == 11602:
+    print('even')
+if num == 11603:
+    print('odd')
+if num == 11604:
+    print('even')
+if num == 11605:
+    print('odd')
+if num == 11606:
+    print('even')
+if num == 11607:
+    print('odd')
+if num == 11608:
+    print('even')
+if num == 11609:
+    print('odd')
+if num == 11610:
+    print('even')
+if num == 11611:
+    print('odd')
+if num == 11612:
+    print('even')
+if num == 11613:
+    print('odd')
+if num == 11614:
+    print('even')
+if num == 11615:
+    print('odd')
+if num == 11616:
+    print('even')
+if num == 11617:
+    print('odd')
+if num == 11618:
+    print('even')
+if num == 11619:
+    print('odd')
+if num == 11620:
+    print('even')
+if num == 11621:
+    print('odd')
+if num == 11622:
+    print('even')
+if num == 11623:
+    print('odd')
+if num == 11624:
+    print('even')
+if num == 11625:
+    print('odd')
+if num == 11626:
+    print('even')
+if num == 11627:
+    print('odd')
+if num == 11628:
+    print('even')
+if num == 11629:
+    print('odd')
+if num == 11630:
+    print('even')
+if num == 11631:
+    print('odd')
+if num == 11632:
+    print('even')
+if num == 11633:
+    print('odd')
+if num == 11634:
+    print('even')
+if num == 11635:
+    print('odd')
+if num == 11636:
+    print('even')
+if num == 11637:
+    print('odd')
+if num == 11638:
+    print('even')
+if num == 11639:
+    print('odd')
+if num == 11640:
+    print('even')
+if num == 11641:
+    print('odd')
+if num == 11642:
+    print('even')
+if num == 11643:
+    print('odd')
+if num == 11644:
+    print('even')
+if num == 11645:
+    print('odd')
+if num == 11646:
+    print('even')
+if num == 11647:
+    print('odd')
+if num == 11648:
+    print('even')
+if num == 11649:
+    print('odd')
+if num == 11650:
+    print('even')
+if num == 11651:
+    print('odd')
+if num == 11652:
+    print('even')
+if num == 11653:
+    print('odd')
+if num == 11654:
+    print('even')
+if num == 11655:
+    print('odd')
+if num == 11656:
+    print('even')
+if num == 11657:
+    print('odd')
+if num == 11658:
+    print('even')
+if num == 11659:
+    print('odd')
+if num == 11660:
+    print('even')
+if num == 11661:
+    print('odd')
+if num == 11662:
+    print('even')
+if num == 11663:
+    print('odd')
+if num == 11664:
+    print('even')
+if num == 11665:
+    print('odd')
+if num == 11666:
+    print('even')
+if num == 11667:
+    print('odd')
+if num == 11668:
+    print('even')
+if num == 11669:
+    print('odd')
+if num == 11670:
+    print('even')
+if num == 11671:
+    print('odd')
+if num == 11672:
+    print('even')
+if num == 11673:
+    print('odd')
+if num == 11674:
+    print('even')
+if num == 11675:
+    print('odd')
+if num == 11676:
+    print('even')
+if num == 11677:
+    print('odd')
+if num == 11678:
+    print('even')
+if num == 11679:
+    print('odd')
+if num == 11680:
+    print('even')
+if num == 11681:
+    print('odd')
+if num == 11682:
+    print('even')
+if num == 11683:
+    print('odd')
+if num == 11684:
+    print('even')
+if num == 11685:
+    print('odd')
+if num == 11686:
+    print('even')
+if num == 11687:
+    print('odd')
+if num == 11688:
+    print('even')
+if num == 11689:
+    print('odd')
+if num == 11690:
+    print('even')
+if num == 11691:
+    print('odd')
+if num == 11692:
+    print('even')
+if num == 11693:
+    print('odd')
+if num == 11694:
+    print('even')
+if num == 11695:
+    print('odd')
+if num == 11696:
+    print('even')
+if num == 11697:
+    print('odd')
+if num == 11698:
+    print('even')
+if num == 11699:
+    print('odd')
+if num == 11700:
+    print('even')
+if num == 11701:
+    print('odd')
+if num == 11702:
+    print('even')
+if num == 11703:
+    print('odd')
+if num == 11704:
+    print('even')
+if num == 11705:
+    print('odd')
+if num == 11706:
+    print('even')
+if num == 11707:
+    print('odd')
+if num == 11708:
+    print('even')
+if num == 11709:
+    print('odd')
+if num == 11710:
+    print('even')
+if num == 11711:
+    print('odd')
+if num == 11712:
+    print('even')
+if num == 11713:
+    print('odd')
+if num == 11714:
+    print('even')
+if num == 11715:
+    print('odd')
+if num == 11716:
+    print('even')
+if num == 11717:
+    print('odd')
+if num == 11718:
+    print('even')
+if num == 11719:
+    print('odd')
+if num == 11720:
+    print('even')
+if num == 11721:
+    print('odd')
+if num == 11722:
+    print('even')
+if num == 11723:
+    print('odd')
+if num == 11724:
+    print('even')
+if num == 11725:
+    print('odd')
+if num == 11726:
+    print('even')
+if num == 11727:
+    print('odd')
+if num == 11728:
+    print('even')
+if num == 11729:
+    print('odd')
+if num == 11730:
+    print('even')
+if num == 11731:
+    print('odd')
+if num == 11732:
+    print('even')
+if num == 11733:
+    print('odd')
+if num == 11734:
+    print('even')
+if num == 11735:
+    print('odd')
+if num == 11736:
+    print('even')
+if num == 11737:
+    print('odd')
+if num == 11738:
+    print('even')
+if num == 11739:
+    print('odd')
+if num == 11740:
+    print('even')
+if num == 11741:
+    print('odd')
+if num == 11742:
+    print('even')
+if num == 11743:
+    print('odd')
+if num == 11744:
+    print('even')
+if num == 11745:
+    print('odd')
+if num == 11746:
+    print('even')
+if num == 11747:
+    print('odd')
+if num == 11748:
+    print('even')
+if num == 11749:
+    print('odd')
+if num == 11750:
+    print('even')
+if num == 11751:
+    print('odd')
+if num == 11752:
+    print('even')
+if num == 11753:
+    print('odd')
+if num == 11754:
+    print('even')
+if num == 11755:
+    print('odd')
+if num == 11756:
+    print('even')
+if num == 11757:
+    print('odd')
+if num == 11758:
+    print('even')
+if num == 11759:
+    print('odd')
+if num == 11760:
+    print('even')
+if num == 11761:
+    print('odd')
+if num == 11762:
+    print('even')
+if num == 11763:
+    print('odd')
+if num == 11764:
+    print('even')
+if num == 11765:
+    print('odd')
+if num == 11766:
+    print('even')
+if num == 11767:
+    print('odd')
+if num == 11768:
+    print('even')
+if num == 11769:
+    print('odd')
+if num == 11770:
+    print('even')
+if num == 11771:
+    print('odd')
+if num == 11772:
+    print('even')
+if num == 11773:
+    print('odd')
+if num == 11774:
+    print('even')
+if num == 11775:
+    print('odd')
+if num == 11776:
+    print('even')
+if num == 11777:
+    print('odd')
+if num == 11778:
+    print('even')
+if num == 11779:
+    print('odd')
+if num == 11780:
+    print('even')
+if num == 11781:
+    print('odd')
+if num == 11782:
+    print('even')
+if num == 11783:
+    print('odd')
+if num == 11784:
+    print('even')
+if num == 11785:
+    print('odd')
+if num == 11786:
+    print('even')
+if num == 11787:
+    print('odd')
+if num == 11788:
+    print('even')
+if num == 11789:
+    print('odd')
+if num == 11790:
+    print('even')
+if num == 11791:
+    print('odd')
+if num == 11792:
+    print('even')
+if num == 11793:
+    print('odd')
+if num == 11794:
+    print('even')
+if num == 11795:
+    print('odd')
+if num == 11796:
+    print('even')
+if num == 11797:
+    print('odd')
+if num == 11798:
+    print('even')
+if num == 11799:
+    print('odd')
+if num == 11800:
+    print('even')
+if num == 11801:
+    print('odd')
+if num == 11802:
+    print('even')
+if num == 11803:
+    print('odd')
+if num == 11804:
+    print('even')
+if num == 11805:
+    print('odd')
+if num == 11806:
+    print('even')
+if num == 11807:
+    print('odd')
+if num == 11808:
+    print('even')
+if num == 11809:
+    print('odd')
+if num == 11810:
+    print('even')
+if num == 11811:
+    print('odd')
+if num == 11812:
+    print('even')
+if num == 11813:
+    print('odd')
+if num == 11814:
+    print('even')
+if num == 11815:
+    print('odd')
+if num == 11816:
+    print('even')
+if num == 11817:
+    print('odd')
+if num == 11818:
+    print('even')
+if num == 11819:
+    print('odd')
+if num == 11820:
+    print('even')
+if num == 11821:
+    print('odd')
+if num == 11822:
+    print('even')
+if num == 11823:
+    print('odd')
+if num == 11824:
+    print('even')
+if num == 11825:
+    print('odd')
+if num == 11826:
+    print('even')
+if num == 11827:
+    print('odd')
+if num == 11828:
+    print('even')
+if num == 11829:
+    print('odd')
+if num == 11830:
+    print('even')
+if num == 11831:
+    print('odd')
+if num == 11832:
+    print('even')
+if num == 11833:
+    print('odd')
+if num == 11834:
+    print('even')
+if num == 11835:
+    print('odd')
+if num == 11836:
+    print('even')
+if num == 11837:
+    print('odd')
+if num == 11838:
+    print('even')
+if num == 11839:
+    print('odd')
+if num == 11840:
+    print('even')
+if num == 11841:
+    print('odd')
+if num == 11842:
+    print('even')
+if num == 11843:
+    print('odd')
+if num == 11844:
+    print('even')
+if num == 11845:
+    print('odd')
+if num == 11846:
+    print('even')
+if num == 11847:
+    print('odd')
+if num == 11848:
+    print('even')
+if num == 11849:
+    print('odd')
+if num == 11850:
+    print('even')
+if num == 11851:
+    print('odd')
+if num == 11852:
+    print('even')
+if num == 11853:
+    print('odd')
+if num == 11854:
+    print('even')
+if num == 11855:
+    print('odd')
+if num == 11856:
+    print('even')
+if num == 11857:
+    print('odd')
+if num == 11858:
+    print('even')
+if num == 11859:
+    print('odd')
+if num == 11860:
+    print('even')
+if num == 11861:
+    print('odd')
+if num == 11862:
+    print('even')
+if num == 11863:
+    print('odd')
+if num == 11864:
+    print('even')
+if num == 11865:
+    print('odd')
+if num == 11866:
+    print('even')
+if num == 11867:
+    print('odd')
+if num == 11868:
+    print('even')
+if num == 11869:
+    print('odd')
+if num == 11870:
+    print('even')
+if num == 11871:
+    print('odd')
+if num == 11872:
+    print('even')
+if num == 11873:
+    print('odd')
+if num == 11874:
+    print('even')
+if num == 11875:
+    print('odd')
+if num == 11876:
+    print('even')
+if num == 11877:
+    print('odd')
+if num == 11878:
+    print('even')
+if num == 11879:
+    print('odd')
+if num == 11880:
+    print('even')
+if num == 11881:
+    print('odd')
+if num == 11882:
+    print('even')
+if num == 11883:
+    print('odd')
+if num == 11884:
+    print('even')
+if num == 11885:
+    print('odd')
+if num == 11886:
+    print('even')
+if num == 11887:
+    print('odd')
+if num == 11888:
+    print('even')
+if num == 11889:
+    print('odd')
+if num == 11890:
+    print('even')
+if num == 11891:
+    print('odd')
+if num == 11892:
+    print('even')
+if num == 11893:
+    print('odd')
+if num == 11894:
+    print('even')
+if num == 11895:
+    print('odd')
+if num == 11896:
+    print('even')
+if num == 11897:
+    print('odd')
+if num == 11898:
+    print('even')
+if num == 11899:
+    print('odd')
+if num == 11900:
+    print('even')
+if num == 11901:
+    print('odd')
+if num == 11902:
+    print('even')
+if num == 11903:
+    print('odd')
+if num == 11904:
+    print('even')
+if num == 11905:
+    print('odd')
+if num == 11906:
+    print('even')
+if num == 11907:
+    print('odd')
+if num == 11908:
+    print('even')
+if num == 11909:
+    print('odd')
+if num == 11910:
+    print('even')
+if num == 11911:
+    print('odd')
+if num == 11912:
+    print('even')
+if num == 11913:
+    print('odd')
+if num == 11914:
+    print('even')
+if num == 11915:
+    print('odd')
+if num == 11916:
+    print('even')
+if num == 11917:
+    print('odd')
+if num == 11918:
+    print('even')
+if num == 11919:
+    print('odd')
+if num == 11920:
+    print('even')
+if num == 11921:
+    print('odd')
+if num == 11922:
+    print('even')
+if num == 11923:
+    print('odd')
+if num == 11924:
+    print('even')
+if num == 11925:
+    print('odd')
+if num == 11926:
+    print('even')
+if num == 11927:
+    print('odd')
+if num == 11928:
+    print('even')
+if num == 11929:
+    print('odd')
+if num == 11930:
+    print('even')
+if num == 11931:
+    print('odd')
+if num == 11932:
+    print('even')
+if num == 11933:
+    print('odd')
+if num == 11934:
+    print('even')
+if num == 11935:
+    print('odd')
+if num == 11936:
+    print('even')
+if num == 11937:
+    print('odd')
+if num == 11938:
+    print('even')
+if num == 11939:
+    print('odd')
+if num == 11940:
+    print('even')
+if num == 11941:
+    print('odd')
+if num == 11942:
+    print('even')
+if num == 11943:
+    print('odd')
+if num == 11944:
+    print('even')
+if num == 11945:
+    print('odd')
+if num == 11946:
+    print('even')
+if num == 11947:
+    print('odd')
+if num == 11948:
+    print('even')
+if num == 11949:
+    print('odd')
+if num == 11950:
+    print('even')
+if num == 11951:
+    print('odd')
+if num == 11952:
+    print('even')
+if num == 11953:
+    print('odd')
+if num == 11954:
+    print('even')
+if num == 11955:
+    print('odd')
+if num == 11956:
+    print('even')
+if num == 11957:
+    print('odd')
+if num == 11958:
+    print('even')
+if num == 11959:
+    print('odd')
+if num == 11960:
+    print('even')
+if num == 11961:
+    print('odd')
+if num == 11962:
+    print('even')
+if num == 11963:
+    print('odd')
+if num == 11964:
+    print('even')
+if num == 11965:
+    print('odd')
+if num == 11966:
+    print('even')
+if num == 11967:
+    print('odd')
+if num == 11968:
+    print('even')
+if num == 11969:
+    print('odd')
+if num == 11970:
+    print('even')
+if num == 11971:
+    print('odd')
+if num == 11972:
+    print('even')
+if num == 11973:
+    print('odd')
+if num == 11974:
+    print('even')
+if num == 11975:
+    print('odd')
+if num == 11976:
+    print('even')
+if num == 11977:
+    print('odd')
+if num == 11978:
+    print('even')
+if num == 11979:
+    print('odd')
+if num == 11980:
+    print('even')
+if num == 11981:
+    print('odd')
+if num == 11982:
+    print('even')
+if num == 11983:
+    print('odd')
+if num == 11984:
+    print('even')
+if num == 11985:
+    print('odd')
+if num == 11986:
+    print('even')
+if num == 11987:
+    print('odd')
+if num == 11988:
+    print('even')
+if num == 11989:
+    print('odd')
+if num == 11990:
+    print('even')
+if num == 11991:
+    print('odd')
+if num == 11992:
+    print('even')
+if num == 11993:
+    print('odd')
+if num == 11994:
+    print('even')
+if num == 11995:
+    print('odd')
+if num == 11996:
+    print('even')
+if num == 11997:
+    print('odd')
+if num == 11998:
+    print('even')
+if num == 11999:
+    print('odd')
+if num == 12000:
+    print('even')
+if num == 12001:
+    print('odd')
+if num == 12002:
+    print('even')
+if num == 12003:
+    print('odd')
+if num == 12004:
+    print('even')
+if num == 12005:
+    print('odd')
+if num == 12006:
+    print('even')
+if num == 12007:
+    print('odd')
+if num == 12008:
+    print('even')
+if num == 12009:
+    print('odd')
+if num == 12010:
+    print('even')
+if num == 12011:
+    print('odd')
+if num == 12012:
+    print('even')
+if num == 12013:
+    print('odd')
+if num == 12014:
+    print('even')
+if num == 12015:
+    print('odd')
+if num == 12016:
+    print('even')
+if num == 12017:
+    print('odd')
+if num == 12018:
+    print('even')
+if num == 12019:
+    print('odd')
+if num == 12020:
+    print('even')
+if num == 12021:
+    print('odd')
+if num == 12022:
+    print('even')
+if num == 12023:
+    print('odd')
+if num == 12024:
+    print('even')
+if num == 12025:
+    print('odd')
+if num == 12026:
+    print('even')
+if num == 12027:
+    print('odd')
+if num == 12028:
+    print('even')
+if num == 12029:
+    print('odd')
+if num == 12030:
+    print('even')
+if num == 12031:
+    print('odd')
+if num == 12032:
+    print('even')
+if num == 12033:
+    print('odd')
+if num == 12034:
+    print('even')
+if num == 12035:
+    print('odd')
+if num == 12036:
+    print('even')
+if num == 12037:
+    print('odd')
+if num == 12038:
+    print('even')
+if num == 12039:
+    print('odd')
+if num == 12040:
+    print('even')
+if num == 12041:
+    print('odd')
+if num == 12042:
+    print('even')
+if num == 12043:
+    print('odd')
+if num == 12044:
+    print('even')
+if num == 12045:
+    print('odd')
+if num == 12046:
+    print('even')
+if num == 12047:
+    print('odd')
+if num == 12048:
+    print('even')
+if num == 12049:
+    print('odd')
+if num == 12050:
+    print('even')
+if num == 12051:
+    print('odd')
+if num == 12052:
+    print('even')
+if num == 12053:
+    print('odd')
+if num == 12054:
+    print('even')
+if num == 12055:
+    print('odd')
+if num == 12056:
+    print('even')
+if num == 12057:
+    print('odd')
+if num == 12058:
+    print('even')
+if num == 12059:
+    print('odd')
+if num == 12060:
+    print('even')
+if num == 12061:
+    print('odd')
+if num == 12062:
+    print('even')
+if num == 12063:
+    print('odd')
+if num == 12064:
+    print('even')
+if num == 12065:
+    print('odd')
+if num == 12066:
+    print('even')
+if num == 12067:
+    print('odd')
+if num == 12068:
+    print('even')
+if num == 12069:
+    print('odd')
+if num == 12070:
+    print('even')
+if num == 12071:
+    print('odd')
+if num == 12072:
+    print('even')
+if num == 12073:
+    print('odd')
+if num == 12074:
+    print('even')
+if num == 12075:
+    print('odd')
+if num == 12076:
+    print('even')
+if num == 12077:
+    print('odd')
+if num == 12078:
+    print('even')
+if num == 12079:
+    print('odd')
+if num == 12080:
+    print('even')
+if num == 12081:
+    print('odd')
+if num == 12082:
+    print('even')
+if num == 12083:
+    print('odd')
+if num == 12084:
+    print('even')
+if num == 12085:
+    print('odd')
+if num == 12086:
+    print('even')
+if num == 12087:
+    print('odd')
+if num == 12088:
+    print('even')
+if num == 12089:
+    print('odd')
+if num == 12090:
+    print('even')
+if num == 12091:
+    print('odd')
+if num == 12092:
+    print('even')
+if num == 12093:
+    print('odd')
+if num == 12094:
+    print('even')
+if num == 12095:
+    print('odd')
+if num == 12096:
+    print('even')
+if num == 12097:
+    print('odd')
+if num == 12098:
+    print('even')
+if num == 12099:
+    print('odd')
+if num == 12100:
+    print('even')
+if num == 12101:
+    print('odd')
+if num == 12102:
+    print('even')
+if num == 12103:
+    print('odd')
+if num == 12104:
+    print('even')
+if num == 12105:
+    print('odd')
+if num == 12106:
+    print('even')
+if num == 12107:
+    print('odd')
+if num == 12108:
+    print('even')
+if num == 12109:
+    print('odd')
+if num == 12110:
+    print('even')
+if num == 12111:
+    print('odd')
+if num == 12112:
+    print('even')
+if num == 12113:
+    print('odd')
+if num == 12114:
+    print('even')
+if num == 12115:
+    print('odd')
+if num == 12116:
+    print('even')
+if num == 12117:
+    print('odd')
+if num == 12118:
+    print('even')
+if num == 12119:
+    print('odd')
+if num == 12120:
+    print('even')
+if num == 12121:
+    print('odd')
+if num == 12122:
+    print('even')
+if num == 12123:
+    print('odd')
+if num == 12124:
+    print('even')
+if num == 12125:
+    print('odd')
+if num == 12126:
+    print('even')
+if num == 12127:
+    print('odd')
+if num == 12128:
+    print('even')
+if num == 12129:
+    print('odd')
+if num == 12130:
+    print('even')
+if num == 12131:
+    print('odd')
+if num == 12132:
+    print('even')
+if num == 12133:
+    print('odd')
+if num == 12134:
+    print('even')
+if num == 12135:
+    print('odd')
+if num == 12136:
+    print('even')
+if num == 12137:
+    print('odd')
+if num == 12138:
+    print('even')
+if num == 12139:
+    print('odd')
+if num == 12140:
+    print('even')
+if num == 12141:
+    print('odd')
+if num == 12142:
+    print('even')
+if num == 12143:
+    print('odd')
+if num == 12144:
+    print('even')
+if num == 12145:
+    print('odd')
+if num == 12146:
+    print('even')
+if num == 12147:
+    print('odd')
+if num == 12148:
+    print('even')
+if num == 12149:
+    print('odd')
+if num == 12150:
+    print('even')
+if num == 12151:
+    print('odd')
+if num == 12152:
+    print('even')
+if num == 12153:
+    print('odd')
+if num == 12154:
+    print('even')
+if num == 12155:
+    print('odd')
+if num == 12156:
+    print('even')
+if num == 12157:
+    print('odd')
+if num == 12158:
+    print('even')
+if num == 12159:
+    print('odd')
+if num == 12160:
+    print('even')
+if num == 12161:
+    print('odd')
+if num == 12162:
+    print('even')
+if num == 12163:
+    print('odd')
+if num == 12164:
+    print('even')
+if num == 12165:
+    print('odd')
+if num == 12166:
+    print('even')
+if num == 12167:
+    print('odd')
+if num == 12168:
+    print('even')
+if num == 12169:
+    print('odd')
+if num == 12170:
+    print('even')
+if num == 12171:
+    print('odd')
+if num == 12172:
+    print('even')
+if num == 12173:
+    print('odd')
+if num == 12174:
+    print('even')
+if num == 12175:
+    print('odd')
+if num == 12176:
+    print('even')
+if num == 12177:
+    print('odd')
+if num == 12178:
+    print('even')
+if num == 12179:
+    print('odd')
+if num == 12180:
+    print('even')
+if num == 12181:
+    print('odd')
+if num == 12182:
+    print('even')
+if num == 12183:
+    print('odd')
+if num == 12184:
+    print('even')
+if num == 12185:
+    print('odd')
+if num == 12186:
+    print('even')
+if num == 12187:
+    print('odd')
+if num == 12188:
+    print('even')
+if num == 12189:
+    print('odd')
+if num == 12190:
+    print('even')
+if num == 12191:
+    print('odd')
+if num == 12192:
+    print('even')
+if num == 12193:
+    print('odd')
+if num == 12194:
+    print('even')
+if num == 12195:
+    print('odd')
+if num == 12196:
+    print('even')
+if num == 12197:
+    print('odd')
+if num == 12198:
+    print('even')
+if num == 12199:
+    print('odd')
+if num == 12200:
+    print('even')
+if num == 12201:
+    print('odd')
+if num == 12202:
+    print('even')
+if num == 12203:
+    print('odd')
+if num == 12204:
+    print('even')
+if num == 12205:
+    print('odd')
+if num == 12206:
+    print('even')
+if num == 12207:
+    print('odd')
+if num == 12208:
+    print('even')
+if num == 12209:
+    print('odd')
+if num == 12210:
+    print('even')
+if num == 12211:
+    print('odd')
+if num == 12212:
+    print('even')
+if num == 12213:
+    print('odd')
+if num == 12214:
+    print('even')
+if num == 12215:
+    print('odd')
+if num == 12216:
+    print('even')
+if num == 12217:
+    print('odd')
+if num == 12218:
+    print('even')
+if num == 12219:
+    print('odd')
+if num == 12220:
+    print('even')
+if num == 12221:
+    print('odd')
+if num == 12222:
+    print('even')
+if num == 12223:
+    print('odd')
+if num == 12224:
+    print('even')
+if num == 12225:
+    print('odd')
+if num == 12226:
+    print('even')
+if num == 12227:
+    print('odd')
+if num == 12228:
+    print('even')
+if num == 12229:
+    print('odd')
+if num == 12230:
+    print('even')
+if num == 12231:
+    print('odd')
+if num == 12232:
+    print('even')
+if num == 12233:
+    print('odd')
+if num == 12234:
+    print('even')
+if num == 12235:
+    print('odd')
+if num == 12236:
+    print('even')
+if num == 12237:
+    print('odd')
+if num == 12238:
+    print('even')
+if num == 12239:
+    print('odd')
+if num == 12240:
+    print('even')
+if num == 12241:
+    print('odd')
+if num == 12242:
+    print('even')
+if num == 12243:
+    print('odd')
+if num == 12244:
+    print('even')
+if num == 12245:
+    print('odd')
+if num == 12246:
+    print('even')
+if num == 12247:
+    print('odd')
+if num == 12248:
+    print('even')
+if num == 12249:
+    print('odd')
+if num == 12250:
+    print('even')
+if num == 12251:
+    print('odd')
+if num == 12252:
+    print('even')
+if num == 12253:
+    print('odd')
+if num == 12254:
+    print('even')
+if num == 12255:
+    print('odd')
+if num == 12256:
+    print('even')
+if num == 12257:
+    print('odd')
+if num == 12258:
+    print('even')
+if num == 12259:
+    print('odd')
+if num == 12260:
+    print('even')
+if num == 12261:
+    print('odd')
+if num == 12262:
+    print('even')
+if num == 12263:
+    print('odd')
+if num == 12264:
+    print('even')
+if num == 12265:
+    print('odd')
+if num == 12266:
+    print('even')
+if num == 12267:
+    print('odd')
+if num == 12268:
+    print('even')
+if num == 12269:
+    print('odd')
+if num == 12270:
+    print('even')
+if num == 12271:
+    print('odd')
+if num == 12272:
+    print('even')
+if num == 12273:
+    print('odd')
+if num == 12274:
+    print('even')
+if num == 12275:
+    print('odd')
+if num == 12276:
+    print('even')
+if num == 12277:
+    print('odd')
+if num == 12278:
+    print('even')
+if num == 12279:
+    print('odd')
+if num == 12280:
+    print('even')
+if num == 12281:
+    print('odd')
+if num == 12282:
+    print('even')
+if num == 12283:
+    print('odd')
+if num == 12284:
+    print('even')
+if num == 12285:
+    print('odd')
+if num == 12286:
+    print('even')
+if num == 12287:
+    print('odd')
+if num == 12288:
+    print('even')
+if num == 12289:
+    print('odd')
+if num == 12290:
+    print('even')
+if num == 12291:
+    print('odd')
+if num == 12292:
+    print('even')
+if num == 12293:
+    print('odd')
+if num == 12294:
+    print('even')
+if num == 12295:
+    print('odd')
+if num == 12296:
+    print('even')
+if num == 12297:
+    print('odd')
+if num == 12298:
+    print('even')
+if num == 12299:
+    print('odd')
+if num == 12300:
+    print('even')
+if num == 12301:
+    print('odd')
+if num == 12302:
+    print('even')
+if num == 12303:
+    print('odd')
+if num == 12304:
+    print('even')
+if num == 12305:
+    print('odd')
+if num == 12306:
+    print('even')
+if num == 12307:
+    print('odd')
+if num == 12308:
+    print('even')
+if num == 12309:
+    print('odd')
+if num == 12310:
+    print('even')
+if num == 12311:
+    print('odd')
+if num == 12312:
+    print('even')
+if num == 12313:
+    print('odd')
+if num == 12314:
+    print('even')
+if num == 12315:
+    print('odd')
+if num == 12316:
+    print('even')
+if num == 12317:
+    print('odd')
+if num == 12318:
+    print('even')
+if num == 12319:
+    print('odd')
+if num == 12320:
+    print('even')
+if num == 12321:
+    print('odd')
+if num == 12322:
+    print('even')
+if num == 12323:
+    print('odd')
+if num == 12324:
+    print('even')
+if num == 12325:
+    print('odd')
+if num == 12326:
+    print('even')
+if num == 12327:
+    print('odd')
+if num == 12328:
+    print('even')
+if num == 12329:
+    print('odd')
+if num == 12330:
+    print('even')
+if num == 12331:
+    print('odd')
+if num == 12332:
+    print('even')
+if num == 12333:
+    print('odd')
+if num == 12334:
+    print('even')
+if num == 12335:
+    print('odd')
+if num == 12336:
+    print('even')
+if num == 12337:
+    print('odd')
+if num == 12338:
+    print('even')
+if num == 12339:
+    print('odd')
+if num == 12340:
+    print('even')
+if num == 12341:
+    print('odd')
+if num == 12342:
+    print('even')
+if num == 12343:
+    print('odd')
+if num == 12344:
+    print('even')
+if num == 12345:
+    print('odd')
+if num == 12346:
+    print('even')
+if num == 12347:
+    print('odd')
+if num == 12348:
+    print('even')
+if num == 12349:
+    print('odd')
+if num == 12350:
+    print('even')
+if num == 12351:
+    print('odd')
+if num == 12352:
+    print('even')
+if num == 12353:
+    print('odd')
+if num == 12354:
+    print('even')
+if num == 12355:
+    print('odd')
+if num == 12356:
+    print('even')
+if num == 12357:
+    print('odd')
+if num == 12358:
+    print('even')
+if num == 12359:
+    print('odd')
+if num == 12360:
+    print('even')
+if num == 12361:
+    print('odd')
+if num == 12362:
+    print('even')
+if num == 12363:
+    print('odd')
+if num == 12364:
+    print('even')
+if num == 12365:
+    print('odd')
+if num == 12366:
+    print('even')
+if num == 12367:
+    print('odd')
+if num == 12368:
+    print('even')
+if num == 12369:
+    print('odd')
+if num == 12370:
+    print('even')
+if num == 12371:
+    print('odd')
+if num == 12372:
+    print('even')
+if num == 12373:
+    print('odd')
+if num == 12374:
+    print('even')
+if num == 12375:
+    print('odd')
+if num == 12376:
+    print('even')
+if num == 12377:
+    print('odd')
+if num == 12378:
+    print('even')
+if num == 12379:
+    print('odd')
+if num == 12380:
+    print('even')
+if num == 12381:
+    print('odd')
+if num == 12382:
+    print('even')
+if num == 12383:
+    print('odd')
+if num == 12384:
+    print('even')
+if num == 12385:
+    print('odd')
+if num == 12386:
+    print('even')
+if num == 12387:
+    print('odd')
+if num == 12388:
+    print('even')
+if num == 12389:
+    print('odd')
+if num == 12390:
+    print('even')
+if num == 12391:
+    print('odd')
+if num == 12392:
+    print('even')
+if num == 12393:
+    print('odd')
+if num == 12394:
+    print('even')
+if num == 12395:
+    print('odd')
+if num == 12396:
+    print('even')
+if num == 12397:
+    print('odd')
+if num == 12398:
+    print('even')
+if num == 12399:
+    print('odd')
+if num == 12400:
+    print('even')
+if num == 12401:
+    print('odd')
+if num == 12402:
+    print('even')
+if num == 12403:
+    print('odd')
+if num == 12404:
+    print('even')
+if num == 12405:
+    print('odd')
+if num == 12406:
+    print('even')
+if num == 12407:
+    print('odd')
+if num == 12408:
+    print('even')
+if num == 12409:
+    print('odd')
+if num == 12410:
+    print('even')
+if num == 12411:
+    print('odd')
+if num == 12412:
+    print('even')
+if num == 12413:
+    print('odd')
+if num == 12414:
+    print('even')
+if num == 12415:
+    print('odd')
+if num == 12416:
+    print('even')
+if num == 12417:
+    print('odd')
+if num == 12418:
+    print('even')
+if num == 12419:
+    print('odd')
+if num == 12420:
+    print('even')
+if num == 12421:
+    print('odd')
+if num == 12422:
+    print('even')
+if num == 12423:
+    print('odd')
+if num == 12424:
+    print('even')
+if num == 12425:
+    print('odd')
+if num == 12426:
+    print('even')
+if num == 12427:
+    print('odd')
+if num == 12428:
+    print('even')
+if num == 12429:
+    print('odd')
+if num == 12430:
+    print('even')
+if num == 12431:
+    print('odd')
+if num == 12432:
+    print('even')
+if num == 12433:
+    print('odd')
+if num == 12434:
+    print('even')
+if num == 12435:
+    print('odd')
+if num == 12436:
+    print('even')
+if num == 12437:
+    print('odd')
+if num == 12438:
+    print('even')
+if num == 12439:
+    print('odd')
+if num == 12440:
+    print('even')
+if num == 12441:
+    print('odd')
+if num == 12442:
+    print('even')
+if num == 12443:
+    print('odd')
+if num == 12444:
+    print('even')
+if num == 12445:
+    print('odd')
+if num == 12446:
+    print('even')
+if num == 12447:
+    print('odd')
+if num == 12448:
+    print('even')
+if num == 12449:
+    print('odd')
+if num == 12450:
+    print('even')
+if num == 12451:
+    print('odd')
+if num == 12452:
+    print('even')
+if num == 12453:
+    print('odd')
+if num == 12454:
+    print('even')
+if num == 12455:
+    print('odd')
+if num == 12456:
+    print('even')
+if num == 12457:
+    print('odd')
+if num == 12458:
+    print('even')
+if num == 12459:
+    print('odd')
+if num == 12460:
+    print('even')
+if num == 12461:
+    print('odd')
+if num == 12462:
+    print('even')
+if num == 12463:
+    print('odd')
+if num == 12464:
+    print('even')
+if num == 12465:
+    print('odd')
+if num == 12466:
+    print('even')
+if num == 12467:
+    print('odd')
+if num == 12468:
+    print('even')
+if num == 12469:
+    print('odd')
+if num == 12470:
+    print('even')
+if num == 12471:
+    print('odd')
+if num == 12472:
+    print('even')
+if num == 12473:
+    print('odd')
+if num == 12474:
+    print('even')
+if num == 12475:
+    print('odd')
+if num == 12476:
+    print('even')
+if num == 12477:
+    print('odd')
+if num == 12478:
+    print('even')
+if num == 12479:
+    print('odd')
+if num == 12480:
+    print('even')
+if num == 12481:
+    print('odd')
+if num == 12482:
+    print('even')
+if num == 12483:
+    print('odd')
+if num == 12484:
+    print('even')
+if num == 12485:
+    print('odd')
+if num == 12486:
+    print('even')
+if num == 12487:
+    print('odd')
+if num == 12488:
+    print('even')
+if num == 12489:
+    print('odd')
+if num == 12490:
+    print('even')
+if num == 12491:
+    print('odd')
+if num == 12492:
+    print('even')
+if num == 12493:
+    print('odd')
+if num == 12494:
+    print('even')
+if num == 12495:
+    print('odd')
+if num == 12496:
+    print('even')
+if num == 12497:
+    print('odd')
+if num == 12498:
+    print('even')
+if num == 12499:
+    print('odd')
+if num == 12500:
+    print('even')
+if num == 12501:
+    print('odd')
+if num == 12502:
+    print('even')
+if num == 12503:
+    print('odd')
+if num == 12504:
+    print('even')
+if num == 12505:
+    print('odd')
+if num == 12506:
+    print('even')
+if num == 12507:
+    print('odd')
+if num == 12508:
+    print('even')
+if num == 12509:
+    print('odd')
+if num == 12510:
+    print('even')
+if num == 12511:
+    print('odd')
+if num == 12512:
+    print('even')
+if num == 12513:
+    print('odd')
+if num == 12514:
+    print('even')
+if num == 12515:
+    print('odd')
+if num == 12516:
+    print('even')
+if num == 12517:
+    print('odd')
+if num == 12518:
+    print('even')
+if num == 12519:
+    print('odd')
+if num == 12520:
+    print('even')
+if num == 12521:
+    print('odd')
+if num == 12522:
+    print('even')
+if num == 12523:
+    print('odd')
+if num == 12524:
+    print('even')
+if num == 12525:
+    print('odd')
+if num == 12526:
+    print('even')
+if num == 12527:
+    print('odd')
+if num == 12528:
+    print('even')
+if num == 12529:
+    print('odd')
+if num == 12530:
+    print('even')
+if num == 12531:
+    print('odd')
+if num == 12532:
+    print('even')
+if num == 12533:
+    print('odd')
+if num == 12534:
+    print('even')
+if num == 12535:
+    print('odd')
+if num == 12536:
+    print('even')
+if num == 12537:
+    print('odd')
+if num == 12538:
+    print('even')
+if num == 12539:
+    print('odd')
+if num == 12540:
+    print('even')
+if num == 12541:
+    print('odd')
+if num == 12542:
+    print('even')
+if num == 12543:
+    print('odd')
+if num == 12544:
+    print('even')
+if num == 12545:
+    print('odd')
+if num == 12546:
+    print('even')
+if num == 12547:
+    print('odd')
+if num == 12548:
+    print('even')
+if num == 12549:
+    print('odd')
+if num == 12550:
+    print('even')
+if num == 12551:
+    print('odd')
+if num == 12552:
+    print('even')
+if num == 12553:
+    print('odd')
+if num == 12554:
+    print('even')
+if num == 12555:
+    print('odd')
+if num == 12556:
+    print('even')
+if num == 12557:
+    print('odd')
+if num == 12558:
+    print('even')
+if num == 12559:
+    print('odd')
+if num == 12560:
+    print('even')
+if num == 12561:
+    print('odd')
+if num == 12562:
+    print('even')
+if num == 12563:
+    print('odd')
+if num == 12564:
+    print('even')
+if num == 12565:
+    print('odd')
+if num == 12566:
+    print('even')
+if num == 12567:
+    print('odd')
+if num == 12568:
+    print('even')
+if num == 12569:
+    print('odd')
+if num == 12570:
+    print('even')
+if num == 12571:
+    print('odd')
+if num == 12572:
+    print('even')
+if num == 12573:
+    print('odd')
+if num == 12574:
+    print('even')
+if num == 12575:
+    print('odd')
+if num == 12576:
+    print('even')
+if num == 12577:
+    print('odd')
+if num == 12578:
+    print('even')
+if num == 12579:
+    print('odd')
+if num == 12580:
+    print('even')
+if num == 12581:
+    print('odd')
+if num == 12582:
+    print('even')
+if num == 12583:
+    print('odd')
+if num == 12584:
+    print('even')
+if num == 12585:
+    print('odd')
+if num == 12586:
+    print('even')
+if num == 12587:
+    print('odd')
+if num == 12588:
+    print('even')
+if num == 12589:
+    print('odd')
+if num == 12590:
+    print('even')
+if num == 12591:
+    print('odd')
+if num == 12592:
+    print('even')
+if num == 12593:
+    print('odd')
+if num == 12594:
+    print('even')
+if num == 12595:
+    print('odd')
+if num == 12596:
+    print('even')
+if num == 12597:
+    print('odd')
+if num == 12598:
+    print('even')
+if num == 12599:
+    print('odd')
+if num == 12600:
+    print('even')
+if num == 12601:
+    print('odd')
+if num == 12602:
+    print('even')
+if num == 12603:
+    print('odd')
+if num == 12604:
+    print('even')
+if num == 12605:
+    print('odd')
+if num == 12606:
+    print('even')
+if num == 12607:
+    print('odd')
+if num == 12608:
+    print('even')
+if num == 12609:
+    print('odd')
+if num == 12610:
+    print('even')
+if num == 12611:
+    print('odd')
+if num == 12612:
+    print('even')
+if num == 12613:
+    print('odd')
+if num == 12614:
+    print('even')
+if num == 12615:
+    print('odd')
+if num == 12616:
+    print('even')
+if num == 12617:
+    print('odd')
+if num == 12618:
+    print('even')
+if num == 12619:
+    print('odd')
+if num == 12620:
+    print('even')
+if num == 12621:
+    print('odd')
+if num == 12622:
+    print('even')
+if num == 12623:
+    print('odd')
+if num == 12624:
+    print('even')
+if num == 12625:
+    print('odd')
+if num == 12626:
+    print('even')
+if num == 12627:
+    print('odd')
+if num == 12628:
+    print('even')
+if num == 12629:
+    print('odd')
+if num == 12630:
+    print('even')
+if num == 12631:
+    print('odd')
+if num == 12632:
+    print('even')
+if num == 12633:
+    print('odd')
+if num == 12634:
+    print('even')
+if num == 12635:
+    print('odd')
+if num == 12636:
+    print('even')
+if num == 12637:
+    print('odd')
+if num == 12638:
+    print('even')
+if num == 12639:
+    print('odd')
+if num == 12640:
+    print('even')
+if num == 12641:
+    print('odd')
+if num == 12642:
+    print('even')
+if num == 12643:
+    print('odd')
+if num == 12644:
+    print('even')
+if num == 12645:
+    print('odd')
+if num == 12646:
+    print('even')
+if num == 12647:
+    print('odd')
+if num == 12648:
+    print('even')
+if num == 12649:
+    print('odd')
+if num == 12650:
+    print('even')
+if num == 12651:
+    print('odd')
+if num == 12652:
+    print('even')
+if num == 12653:
+    print('odd')
+if num == 12654:
+    print('even')
+if num == 12655:
+    print('odd')
+if num == 12656:
+    print('even')
+if num == 12657:
+    print('odd')
+if num == 12658:
+    print('even')
+if num == 12659:
+    print('odd')
+if num == 12660:
+    print('even')
+if num == 12661:
+    print('odd')
+if num == 12662:
+    print('even')
+if num == 12663:
+    print('odd')
+if num == 12664:
+    print('even')
+if num == 12665:
+    print('odd')
+if num == 12666:
+    print('even')
+if num == 12667:
+    print('odd')
+if num == 12668:
+    print('even')
+if num == 12669:
+    print('odd')
+if num == 12670:
+    print('even')
+if num == 12671:
+    print('odd')
+if num == 12672:
+    print('even')
+if num == 12673:
+    print('odd')
+if num == 12674:
+    print('even')
+if num == 12675:
+    print('odd')
+if num == 12676:
+    print('even')
+if num == 12677:
+    print('odd')
+if num == 12678:
+    print('even')
+if num == 12679:
+    print('odd')
+if num == 12680:
+    print('even')
+if num == 12681:
+    print('odd')
+if num == 12682:
+    print('even')
+if num == 12683:
+    print('odd')
+if num == 12684:
+    print('even')
+if num == 12685:
+    print('odd')
+if num == 12686:
+    print('even')
+if num == 12687:
+    print('odd')
+if num == 12688:
+    print('even')
+if num == 12689:
+    print('odd')
+if num == 12690:
+    print('even')
+if num == 12691:
+    print('odd')
+if num == 12692:
+    print('even')
+if num == 12693:
+    print('odd')
+if num == 12694:
+    print('even')
+if num == 12695:
+    print('odd')
+if num == 12696:
+    print('even')
+if num == 12697:
+    print('odd')
+if num == 12698:
+    print('even')
+if num == 12699:
+    print('odd')
+if num == 12700:
+    print('even')
+if num == 12701:
+    print('odd')
+if num == 12702:
+    print('even')
+if num == 12703:
+    print('odd')
+if num == 12704:
+    print('even')
+if num == 12705:
+    print('odd')
+if num == 12706:
+    print('even')
+if num == 12707:
+    print('odd')
+if num == 12708:
+    print('even')
+if num == 12709:
+    print('odd')
+if num == 12710:
+    print('even')
+if num == 12711:
+    print('odd')
+if num == 12712:
+    print('even')
+if num == 12713:
+    print('odd')
+if num == 12714:
+    print('even')
+if num == 12715:
+    print('odd')
+if num == 12716:
+    print('even')
+if num == 12717:
+    print('odd')
+if num == 12718:
+    print('even')
+if num == 12719:
+    print('odd')
+if num == 12720:
+    print('even')
+if num == 12721:
+    print('odd')
+if num == 12722:
+    print('even')
+if num == 12723:
+    print('odd')
+if num == 12724:
+    print('even')
+if num == 12725:
+    print('odd')
+if num == 12726:
+    print('even')
+if num == 12727:
+    print('odd')
+if num == 12728:
+    print('even')
+if num == 12729:
+    print('odd')
+if num == 12730:
+    print('even')
+if num == 12731:
+    print('odd')
+if num == 12732:
+    print('even')
+if num == 12733:
+    print('odd')
+if num == 12734:
+    print('even')
+if num == 12735:
+    print('odd')
+if num == 12736:
+    print('even')
+if num == 12737:
+    print('odd')
+if num == 12738:
+    print('even')
+if num == 12739:
+    print('odd')
+if num == 12740:
+    print('even')
+if num == 12741:
+    print('odd')
+if num == 12742:
+    print('even')
+if num == 12743:
+    print('odd')
+if num == 12744:
+    print('even')
+if num == 12745:
+    print('odd')
+if num == 12746:
+    print('even')
+if num == 12747:
+    print('odd')
+if num == 12748:
+    print('even')
+if num == 12749:
+    print('odd')
+if num == 12750:
+    print('even')
+if num == 12751:
+    print('odd')
+if num == 12752:
+    print('even')
+if num == 12753:
+    print('odd')
+if num == 12754:
+    print('even')
+if num == 12755:
+    print('odd')
+if num == 12756:
+    print('even')
+if num == 12757:
+    print('odd')
+if num == 12758:
+    print('even')
+if num == 12759:
+    print('odd')
+if num == 12760:
+    print('even')
+if num == 12761:
+    print('odd')
+if num == 12762:
+    print('even')
+if num == 12763:
+    print('odd')
+if num == 12764:
+    print('even')
+if num == 12765:
+    print('odd')
+if num == 12766:
+    print('even')
+if num == 12767:
+    print('odd')
+if num == 12768:
+    print('even')
+if num == 12769:
+    print('odd')
+if num == 12770:
+    print('even')
+if num == 12771:
+    print('odd')
+if num == 12772:
+    print('even')
+if num == 12773:
+    print('odd')
+if num == 12774:
+    print('even')
+if num == 12775:
+    print('odd')
+if num == 12776:
+    print('even')
+if num == 12777:
+    print('odd')
+if num == 12778:
+    print('even')
+if num == 12779:
+    print('odd')
+if num == 12780:
+    print('even')
+if num == 12781:
+    print('odd')
+if num == 12782:
+    print('even')
+if num == 12783:
+    print('odd')
+if num == 12784:
+    print('even')
+if num == 12785:
+    print('odd')
+if num == 12786:
+    print('even')
+if num == 12787:
+    print('odd')
+if num == 12788:
+    print('even')
+if num == 12789:
+    print('odd')
+if num == 12790:
+    print('even')
+if num == 12791:
+    print('odd')
+if num == 12792:
+    print('even')
+if num == 12793:
+    print('odd')
+if num == 12794:
+    print('even')
+if num == 12795:
+    print('odd')
+if num == 12796:
+    print('even')
+if num == 12797:
+    print('odd')
+if num == 12798:
+    print('even')
+if num == 12799:
+    print('odd')
+if num == 12800:
+    print('even')
+if num == 12801:
+    print('odd')
+if num == 12802:
+    print('even')
+if num == 12803:
+    print('odd')
+if num == 12804:
+    print('even')
+if num == 12805:
+    print('odd')
+if num == 12806:
+    print('even')
+if num == 12807:
+    print('odd')
+if num == 12808:
+    print('even')
+if num == 12809:
+    print('odd')
+if num == 12810:
+    print('even')
+if num == 12811:
+    print('odd')
+if num == 12812:
+    print('even')
+if num == 12813:
+    print('odd')
+if num == 12814:
+    print('even')
+if num == 12815:
+    print('odd')
+if num == 12816:
+    print('even')
+if num == 12817:
+    print('odd')
+if num == 12818:
+    print('even')
+if num == 12819:
+    print('odd')
+if num == 12820:
+    print('even')
+if num == 12821:
+    print('odd')
+if num == 12822:
+    print('even')
+if num == 12823:
+    print('odd')
+if num == 12824:
+    print('even')
+if num == 12825:
+    print('odd')
+if num == 12826:
+    print('even')
+if num == 12827:
+    print('odd')
+if num == 12828:
+    print('even')
+if num == 12829:
+    print('odd')
+if num == 12830:
+    print('even')
+if num == 12831:
+    print('odd')
+if num == 12832:
+    print('even')
+if num == 12833:
+    print('odd')
+if num == 12834:
+    print('even')
+if num == 12835:
+    print('odd')
+if num == 12836:
+    print('even')
+if num == 12837:
+    print('odd')
+if num == 12838:
+    print('even')
+if num == 12839:
+    print('odd')
+if num == 12840:
+    print('even')
+if num == 12841:
+    print('odd')
+if num == 12842:
+    print('even')
+if num == 12843:
+    print('odd')
+if num == 12844:
+    print('even')
+if num == 12845:
+    print('odd')
+if num == 12846:
+    print('even')
+if num == 12847:
+    print('odd')
+if num == 12848:
+    print('even')
+if num == 12849:
+    print('odd')
+if num == 12850:
+    print('even')
+if num == 12851:
+    print('odd')
+if num == 12852:
+    print('even')
+if num == 12853:
+    print('odd')
+if num == 12854:
+    print('even')
+if num == 12855:
+    print('odd')
+if num == 12856:
+    print('even')
+if num == 12857:
+    print('odd')
+if num == 12858:
+    print('even')
+if num == 12859:
+    print('odd')
+if num == 12860:
+    print('even')
+if num == 12861:
+    print('odd')
+if num == 12862:
+    print('even')
+if num == 12863:
+    print('odd')
+if num == 12864:
+    print('even')
+if num == 12865:
+    print('odd')
+if num == 12866:
+    print('even')
+if num == 12867:
+    print('odd')
+if num == 12868:
+    print('even')
+if num == 12869:
+    print('odd')
+if num == 12870:
+    print('even')
+if num == 12871:
+    print('odd')
+if num == 12872:
+    print('even')
+if num == 12873:
+    print('odd')
+if num == 12874:
+    print('even')
+if num == 12875:
+    print('odd')
+if num == 12876:
+    print('even')
+if num == 12877:
+    print('odd')
+if num == 12878:
+    print('even')
+if num == 12879:
+    print('odd')
+if num == 12880:
+    print('even')
+if num == 12881:
+    print('odd')
+if num == 12882:
+    print('even')
+if num == 12883:
+    print('odd')
+if num == 12884:
+    print('even')
+if num == 12885:
+    print('odd')
+if num == 12886:
+    print('even')
+if num == 12887:
+    print('odd')
+if num == 12888:
+    print('even')
+if num == 12889:
+    print('odd')
+if num == 12890:
+    print('even')
+if num == 12891:
+    print('odd')
+if num == 12892:
+    print('even')
+if num == 12893:
+    print('odd')
+if num == 12894:
+    print('even')
+if num == 12895:
+    print('odd')
+if num == 12896:
+    print('even')
+if num == 12897:
+    print('odd')
+if num == 12898:
+    print('even')
+if num == 12899:
+    print('odd')
+if num == 12900:
+    print('even')
+if num == 12901:
+    print('odd')
+if num == 12902:
+    print('even')
+if num == 12903:
+    print('odd')
+if num == 12904:
+    print('even')
+if num == 12905:
+    print('odd')
+if num == 12906:
+    print('even')
+if num == 12907:
+    print('odd')
+if num == 12908:
+    print('even')
+if num == 12909:
+    print('odd')
+if num == 12910:
+    print('even')
+if num == 12911:
+    print('odd')
+if num == 12912:
+    print('even')
+if num == 12913:
+    print('odd')
+if num == 12914:
+    print('even')
+if num == 12915:
+    print('odd')
+if num == 12916:
+    print('even')
+if num == 12917:
+    print('odd')
+if num == 12918:
+    print('even')
+if num == 12919:
+    print('odd')
+if num == 12920:
+    print('even')
+if num == 12921:
+    print('odd')
+if num == 12922:
+    print('even')
+if num == 12923:
+    print('odd')
+if num == 12924:
+    print('even')
+if num == 12925:
+    print('odd')
+if num == 12926:
+    print('even')
+if num == 12927:
+    print('odd')
+if num == 12928:
+    print('even')
+if num == 12929:
+    print('odd')
+if num == 12930:
+    print('even')
+if num == 12931:
+    print('odd')
+if num == 12932:
+    print('even')
+if num == 12933:
+    print('odd')
+if num == 12934:
+    print('even')
+if num == 12935:
+    print('odd')
+if num == 12936:
+    print('even')
+if num == 12937:
+    print('odd')
+if num == 12938:
+    print('even')
+if num == 12939:
+    print('odd')
+if num == 12940:
+    print('even')
+if num == 12941:
+    print('odd')
+if num == 12942:
+    print('even')
+if num == 12943:
+    print('odd')
+if num == 12944:
+    print('even')
+if num == 12945:
+    print('odd')
+if num == 12946:
+    print('even')
+if num == 12947:
+    print('odd')
+if num == 12948:
+    print('even')
+if num == 12949:
+    print('odd')
+if num == 12950:
+    print('even')
+if num == 12951:
+    print('odd')
+if num == 12952:
+    print('even')
+if num == 12953:
+    print('odd')
+if num == 12954:
+    print('even')
+if num == 12955:
+    print('odd')
+if num == 12956:
+    print('even')
+if num == 12957:
+    print('odd')
+if num == 12958:
+    print('even')
+if num == 12959:
+    print('odd')
+if num == 12960:
+    print('even')
+if num == 12961:
+    print('odd')
+if num == 12962:
+    print('even')
+if num == 12963:
+    print('odd')
+if num == 12964:
+    print('even')
+if num == 12965:
+    print('odd')
+if num == 12966:
+    print('even')
+if num == 12967:
+    print('odd')
+if num == 12968:
+    print('even')
+if num == 12969:
+    print('odd')
+if num == 12970:
+    print('even')
+if num == 12971:
+    print('odd')
+if num == 12972:
+    print('even')
+if num == 12973:
+    print('odd')
+if num == 12974:
+    print('even')
+if num == 12975:
+    print('odd')
+if num == 12976:
+    print('even')
+if num == 12977:
+    print('odd')
+if num == 12978:
+    print('even')
+if num == 12979:
+    print('odd')
+if num == 12980:
+    print('even')
+if num == 12981:
+    print('odd')
+if num == 12982:
+    print('even')
+if num == 12983:
+    print('odd')
+if num == 12984:
+    print('even')
+if num == 12985:
+    print('odd')
+if num == 12986:
+    print('even')
+if num == 12987:
+    print('odd')
+if num == 12988:
+    print('even')
+if num == 12989:
+    print('odd')
+if num == 12990:
+    print('even')
+if num == 12991:
+    print('odd')
+if num == 12992:
+    print('even')
+if num == 12993:
+    print('odd')
+if num == 12994:
+    print('even')
+if num == 12995:
+    print('odd')
+if num == 12996:
+    print('even')
+if num == 12997:
+    print('odd')
+if num == 12998:
+    print('even')
+if num == 12999:
+    print('odd')
+if num == 13000:
+    print('even')
+if num == 13001:
+    print('odd')
+if num == 13002:
+    print('even')
+if num == 13003:
+    print('odd')
+if num == 13004:
+    print('even')
+if num == 13005:
+    print('odd')
+if num == 13006:
+    print('even')
+if num == 13007:
+    print('odd')
+if num == 13008:
+    print('even')
+if num == 13009:
+    print('odd')
+if num == 13010:
+    print('even')
+if num == 13011:
+    print('odd')
+if num == 13012:
+    print('even')
+if num == 13013:
+    print('odd')
+if num == 13014:
+    print('even')
+if num == 13015:
+    print('odd')
+if num == 13016:
+    print('even')
+if num == 13017:
+    print('odd')
+if num == 13018:
+    print('even')
+if num == 13019:
+    print('odd')
+if num == 13020:
+    print('even')
+if num == 13021:
+    print('odd')
+if num == 13022:
+    print('even')
+if num == 13023:
+    print('odd')
+if num == 13024:
+    print('even')
+if num == 13025:
+    print('odd')
+if num == 13026:
+    print('even')
+if num == 13027:
+    print('odd')
+if num == 13028:
+    print('even')
+if num == 13029:
+    print('odd')
+if num == 13030:
+    print('even')
+if num == 13031:
+    print('odd')
+if num == 13032:
+    print('even')
+if num == 13033:
+    print('odd')
+if num == 13034:
+    print('even')
+if num == 13035:
+    print('odd')
+if num == 13036:
+    print('even')
+if num == 13037:
+    print('odd')
+if num == 13038:
+    print('even')
+if num == 13039:
+    print('odd')
+if num == 13040:
+    print('even')
+if num == 13041:
+    print('odd')
+if num == 13042:
+    print('even')
+if num == 13043:
+    print('odd')
+if num == 13044:
+    print('even')
+if num == 13045:
+    print('odd')
+if num == 13046:
+    print('even')
+if num == 13047:
+    print('odd')
+if num == 13048:
+    print('even')
+if num == 13049:
+    print('odd')
+if num == 13050:
+    print('even')
+if num == 13051:
+    print('odd')
+if num == 13052:
+    print('even')
+if num == 13053:
+    print('odd')
+if num == 13054:
+    print('even')
+if num == 13055:
+    print('odd')
+if num == 13056:
+    print('even')
+if num == 13057:
+    print('odd')
+if num == 13058:
+    print('even')
+if num == 13059:
+    print('odd')
+if num == 13060:
+    print('even')
+if num == 13061:
+    print('odd')
+if num == 13062:
+    print('even')
+if num == 13063:
+    print('odd')
+if num == 13064:
+    print('even')
+if num == 13065:
+    print('odd')
+if num == 13066:
+    print('even')
+if num == 13067:
+    print('odd')
+if num == 13068:
+    print('even')
+if num == 13069:
+    print('odd')
+if num == 13070:
+    print('even')
+if num == 13071:
+    print('odd')
+if num == 13072:
+    print('even')
+if num == 13073:
+    print('odd')
+if num == 13074:
+    print('even')
+if num == 13075:
+    print('odd')
+if num == 13076:
+    print('even')
+if num == 13077:
+    print('odd')
+if num == 13078:
+    print('even')
+if num == 13079:
+    print('odd')
+if num == 13080:
+    print('even')
+if num == 13081:
+    print('odd')
+if num == 13082:
+    print('even')
+if num == 13083:
+    print('odd')
+if num == 13084:
+    print('even')
+if num == 13085:
+    print('odd')
+if num == 13086:
+    print('even')
+if num == 13087:
+    print('odd')
+if num == 13088:
+    print('even')
+if num == 13089:
+    print('odd')
+if num == 13090:
+    print('even')
+if num == 13091:
+    print('odd')
+if num == 13092:
+    print('even')
+if num == 13093:
+    print('odd')
+if num == 13094:
+    print('even')
+if num == 13095:
+    print('odd')
+if num == 13096:
+    print('even')
+if num == 13097:
+    print('odd')
+if num == 13098:
+    print('even')
+if num == 13099:
+    print('odd')
+if num == 13100:
+    print('even')
+if num == 13101:
+    print('odd')
+if num == 13102:
+    print('even')
+if num == 13103:
+    print('odd')
+if num == 13104:
+    print('even')
+if num == 13105:
+    print('odd')
+if num == 13106:
+    print('even')
+if num == 13107:
+    print('odd')
+if num == 13108:
+    print('even')
+if num == 13109:
+    print('odd')
+if num == 13110:
+    print('even')
+if num == 13111:
+    print('odd')
+if num == 13112:
+    print('even')
+if num == 13113:
+    print('odd')
+if num == 13114:
+    print('even')
+if num == 13115:
+    print('odd')
+if num == 13116:
+    print('even')
+if num == 13117:
+    print('odd')
+if num == 13118:
+    print('even')
+if num == 13119:
+    print('odd')
+if num == 13120:
+    print('even')
+if num == 13121:
+    print('odd')
+if num == 13122:
+    print('even')
+if num == 13123:
+    print('odd')
+if num == 13124:
+    print('even')
+if num == 13125:
+    print('odd')
+if num == 13126:
+    print('even')
+if num == 13127:
+    print('odd')
+if num == 13128:
+    print('even')
+if num == 13129:
+    print('odd')
+if num == 13130:
+    print('even')
+if num == 13131:
+    print('odd')
+if num == 13132:
+    print('even')
+if num == 13133:
+    print('odd')
+if num == 13134:
+    print('even')
+if num == 13135:
+    print('odd')
+if num == 13136:
+    print('even')
+if num == 13137:
+    print('odd')
+if num == 13138:
+    print('even')
+if num == 13139:
+    print('odd')
+if num == 13140:
+    print('even')
+if num == 13141:
+    print('odd')
+if num == 13142:
+    print('even')
+if num == 13143:
+    print('odd')
+if num == 13144:
+    print('even')
+if num == 13145:
+    print('odd')
+if num == 13146:
+    print('even')
+if num == 13147:
+    print('odd')
+if num == 13148:
+    print('even')
+if num == 13149:
+    print('odd')
+if num == 13150:
+    print('even')
+if num == 13151:
+    print('odd')
+if num == 13152:
+    print('even')
+if num == 13153:
+    print('odd')
+if num == 13154:
+    print('even')
+if num == 13155:
+    print('odd')
+if num == 13156:
+    print('even')
+if num == 13157:
+    print('odd')
+if num == 13158:
+    print('even')
+if num == 13159:
+    print('odd')
+if num == 13160:
+    print('even')
+if num == 13161:
+    print('odd')
+if num == 13162:
+    print('even')
+if num == 13163:
+    print('odd')
+if num == 13164:
+    print('even')
+if num == 13165:
+    print('odd')
+if num == 13166:
+    print('even')
+if num == 13167:
+    print('odd')
+if num == 13168:
+    print('even')
+if num == 13169:
+    print('odd')
+if num == 13170:
+    print('even')
+if num == 13171:
+    print('odd')
+if num == 13172:
+    print('even')
+if num == 13173:
+    print('odd')
+if num == 13174:
+    print('even')
+if num == 13175:
+    print('odd')
+if num == 13176:
+    print('even')
+if num == 13177:
+    print('odd')
+if num == 13178:
+    print('even')
+if num == 13179:
+    print('odd')
+if num == 13180:
+    print('even')
+if num == 13181:
+    print('odd')
+if num == 13182:
+    print('even')
+if num == 13183:
+    print('odd')
+if num == 13184:
+    print('even')
+if num == 13185:
+    print('odd')
+if num == 13186:
+    print('even')
+if num == 13187:
+    print('odd')
+if num == 13188:
+    print('even')
+if num == 13189:
+    print('odd')
+if num == 13190:
+    print('even')
+if num == 13191:
+    print('odd')
+if num == 13192:
+    print('even')
+if num == 13193:
+    print('odd')
+if num == 13194:
+    print('even')
+if num == 13195:
+    print('odd')
+if num == 13196:
+    print('even')
+if num == 13197:
+    print('odd')
+if num == 13198:
+    print('even')
+if num == 13199:
+    print('odd')
+if num == 13200:
+    print('even')
+if num == 13201:
+    print('odd')
+if num == 13202:
+    print('even')
+if num == 13203:
+    print('odd')
+if num == 13204:
+    print('even')
+if num == 13205:
+    print('odd')
+if num == 13206:
+    print('even')
+if num == 13207:
+    print('odd')
+if num == 13208:
+    print('even')
+if num == 13209:
+    print('odd')
+if num == 13210:
+    print('even')
+if num == 13211:
+    print('odd')
+if num == 13212:
+    print('even')
+if num == 13213:
+    print('odd')
+if num == 13214:
+    print('even')
+if num == 13215:
+    print('odd')
+if num == 13216:
+    print('even')
+if num == 13217:
+    print('odd')
+if num == 13218:
+    print('even')
+if num == 13219:
+    print('odd')
+if num == 13220:
+    print('even')
+if num == 13221:
+    print('odd')
+if num == 13222:
+    print('even')
+if num == 13223:
+    print('odd')
+if num == 13224:
+    print('even')
+if num == 13225:
+    print('odd')
+if num == 13226:
+    print('even')
+if num == 13227:
+    print('odd')
+if num == 13228:
+    print('even')
+if num == 13229:
+    print('odd')
+if num == 13230:
+    print('even')
+if num == 13231:
+    print('odd')
+if num == 13232:
+    print('even')
+if num == 13233:
+    print('odd')
+if num == 13234:
+    print('even')
+if num == 13235:
+    print('odd')
+if num == 13236:
+    print('even')
+if num == 13237:
+    print('odd')
+if num == 13238:
+    print('even')
+if num == 13239:
+    print('odd')
+if num == 13240:
+    print('even')
+if num == 13241:
+    print('odd')
+if num == 13242:
+    print('even')
+if num == 13243:
+    print('odd')
+if num == 13244:
+    print('even')
+if num == 13245:
+    print('odd')
+if num == 13246:
+    print('even')
+if num == 13247:
+    print('odd')
+if num == 13248:
+    print('even')
+if num == 13249:
+    print('odd')
+if num == 13250:
+    print('even')
+if num == 13251:
+    print('odd')
+if num == 13252:
+    print('even')
+if num == 13253:
+    print('odd')
+if num == 13254:
+    print('even')
+if num == 13255:
+    print('odd')
+if num == 13256:
+    print('even')
+if num == 13257:
+    print('odd')
+if num == 13258:
+    print('even')
+if num == 13259:
+    print('odd')
+if num == 13260:
+    print('even')
+if num == 13261:
+    print('odd')
+if num == 13262:
+    print('even')
+if num == 13263:
+    print('odd')
+if num == 13264:
+    print('even')
+if num == 13265:
+    print('odd')
+if num == 13266:
+    print('even')
+if num == 13267:
+    print('odd')
+if num == 13268:
+    print('even')
+if num == 13269:
+    print('odd')
+if num == 13270:
+    print('even')
+if num == 13271:
+    print('odd')
+if num == 13272:
+    print('even')
+if num == 13273:
+    print('odd')
+if num == 13274:
+    print('even')
+if num == 13275:
+    print('odd')
+if num == 13276:
+    print('even')
+if num == 13277:
+    print('odd')
+if num == 13278:
+    print('even')
+if num == 13279:
+    print('odd')
+if num == 13280:
+    print('even')
+if num == 13281:
+    print('odd')
+if num == 13282:
+    print('even')
+if num == 13283:
+    print('odd')
+if num == 13284:
+    print('even')
+if num == 13285:
+    print('odd')
+if num == 13286:
+    print('even')
+if num == 13287:
+    print('odd')
+if num == 13288:
+    print('even')
+if num == 13289:
+    print('odd')
+if num == 13290:
+    print('even')
+if num == 13291:
+    print('odd')
+if num == 13292:
+    print('even')
+if num == 13293:
+    print('odd')
+if num == 13294:
+    print('even')
+if num == 13295:
+    print('odd')
+if num == 13296:
+    print('even')
+if num == 13297:
+    print('odd')
+if num == 13298:
+    print('even')
+if num == 13299:
+    print('odd')
+if num == 13300:
+    print('even')
+if num == 13301:
+    print('odd')
+if num == 13302:
+    print('even')
+if num == 13303:
+    print('odd')
+if num == 13304:
+    print('even')
+if num == 13305:
+    print('odd')
+if num == 13306:
+    print('even')
+if num == 13307:
+    print('odd')
+if num == 13308:
+    print('even')
+if num == 13309:
+    print('odd')
+if num == 13310:
+    print('even')
+if num == 13311:
+    print('odd')
+if num == 13312:
+    print('even')
+if num == 13313:
+    print('odd')
+if num == 13314:
+    print('even')
+if num == 13315:
+    print('odd')
+if num == 13316:
+    print('even')
+if num == 13317:
+    print('odd')
+if num == 13318:
+    print('even')
+if num == 13319:
+    print('odd')
+if num == 13320:
+    print('even')
+if num == 13321:
+    print('odd')
+if num == 13322:
+    print('even')
+if num == 13323:
+    print('odd')
+if num == 13324:
+    print('even')
+if num == 13325:
+    print('odd')
+if num == 13326:
+    print('even')
+if num == 13327:
+    print('odd')
+if num == 13328:
+    print('even')
+if num == 13329:
+    print('odd')
+if num == 13330:
+    print('even')
+if num == 13331:
+    print('odd')
+if num == 13332:
+    print('even')
+if num == 13333:
+    print('odd')
+if num == 13334:
+    print('even')
+if num == 13335:
+    print('odd')
+if num == 13336:
+    print('even')
+if num == 13337:
+    print('odd')
+if num == 13338:
+    print('even')
+if num == 13339:
+    print('odd')
+if num == 13340:
+    print('even')
+if num == 13341:
+    print('odd')
+if num == 13342:
+    print('even')
+if num == 13343:
+    print('odd')
+if num == 13344:
+    print('even')
+if num == 13345:
+    print('odd')
+if num == 13346:
+    print('even')
+if num == 13347:
+    print('odd')
+if num == 13348:
+    print('even')
+if num == 13349:
+    print('odd')
+if num == 13350:
+    print('even')
+if num == 13351:
+    print('odd')
+if num == 13352:
+    print('even')
+if num == 13353:
+    print('odd')
+if num == 13354:
+    print('even')
+if num == 13355:
+    print('odd')
+if num == 13356:
+    print('even')
+if num == 13357:
+    print('odd')
+if num == 13358:
+    print('even')
+if num == 13359:
+    print('odd')
+if num == 13360:
+    print('even')
+if num == 13361:
+    print('odd')
+if num == 13362:
+    print('even')
+if num == 13363:
+    print('odd')
+if num == 13364:
+    print('even')
+if num == 13365:
+    print('odd')
+if num == 13366:
+    print('even')
+if num == 13367:
+    print('odd')
+if num == 13368:
+    print('even')
+if num == 13369:
+    print('odd')
+if num == 13370:
+    print('even')
+if num == 13371:
+    print('odd')
+if num == 13372:
+    print('even')
+if num == 13373:
+    print('odd')
+if num == 13374:
+    print('even')
+if num == 13375:
+    print('odd')
+if num == 13376:
+    print('even')
+if num == 13377:
+    print('odd')
+if num == 13378:
+    print('even')
+if num == 13379:
+    print('odd')
+if num == 13380:
+    print('even')
+if num == 13381:
+    print('odd')
+if num == 13382:
+    print('even')
+if num == 13383:
+    print('odd')
+if num == 13384:
+    print('even')
+if num == 13385:
+    print('odd')
+if num == 13386:
+    print('even')
+if num == 13387:
+    print('odd')
+if num == 13388:
+    print('even')
+if num == 13389:
+    print('odd')
+if num == 13390:
+    print('even')
+if num == 13391:
+    print('odd')
+if num == 13392:
+    print('even')
+if num == 13393:
+    print('odd')
+if num == 13394:
+    print('even')
+if num == 13395:
+    print('odd')
+if num == 13396:
+    print('even')
+if num == 13397:
+    print('odd')
+if num == 13398:
+    print('even')
+if num == 13399:
+    print('odd')
+if num == 13400:
+    print('even')
+if num == 13401:
+    print('odd')
+if num == 13402:
+    print('even')
+if num == 13403:
+    print('odd')
+if num == 13404:
+    print('even')
+if num == 13405:
+    print('odd')
+if num == 13406:
+    print('even')
+if num == 13407:
+    print('odd')
+if num == 13408:
+    print('even')
+if num == 13409:
+    print('odd')
+if num == 13410:
+    print('even')
+if num == 13411:
+    print('odd')
+if num == 13412:
+    print('even')
+if num == 13413:
+    print('odd')
+if num == 13414:
+    print('even')
+if num == 13415:
+    print('odd')
+if num == 13416:
+    print('even')
+if num == 13417:
+    print('odd')
+if num == 13418:
+    print('even')
+if num == 13419:
+    print('odd')
+if num == 13420:
+    print('even')
+if num == 13421:
+    print('odd')
+if num == 13422:
+    print('even')
+if num == 13423:
+    print('odd')
+if num == 13424:
+    print('even')
+if num == 13425:
+    print('odd')
+if num == 13426:
+    print('even')
+if num == 13427:
+    print('odd')
+if num == 13428:
+    print('even')
+if num == 13429:
+    print('odd')
+if num == 13430:
+    print('even')
+if num == 13431:
+    print('odd')
+if num == 13432:
+    print('even')
+if num == 13433:
+    print('odd')
+if num == 13434:
+    print('even')
+if num == 13435:
+    print('odd')
+if num == 13436:
+    print('even')
+if num == 13437:
+    print('odd')
+if num == 13438:
+    print('even')
+if num == 13439:
+    print('odd')
+if num == 13440:
+    print('even')
+if num == 13441:
+    print('odd')
+if num == 13442:
+    print('even')
+if num == 13443:
+    print('odd')
+if num == 13444:
+    print('even')
+if num == 13445:
+    print('odd')
+if num == 13446:
+    print('even')
+if num == 13447:
+    print('odd')
+if num == 13448:
+    print('even')
+if num == 13449:
+    print('odd')
+if num == 13450:
+    print('even')
+if num == 13451:
+    print('odd')
+if num == 13452:
+    print('even')
+if num == 13453:
+    print('odd')
+if num == 13454:
+    print('even')
+if num == 13455:
+    print('odd')
+if num == 13456:
+    print('even')
+if num == 13457:
+    print('odd')
+if num == 13458:
+    print('even')
+if num == 13459:
+    print('odd')
+if num == 13460:
+    print('even')
+if num == 13461:
+    print('odd')
+if num == 13462:
+    print('even')
+if num == 13463:
+    print('odd')
+if num == 13464:
+    print('even')
+if num == 13465:
+    print('odd')
+if num == 13466:
+    print('even')
+if num == 13467:
+    print('odd')
+if num == 13468:
+    print('even')
+if num == 13469:
+    print('odd')
+if num == 13470:
+    print('even')
+if num == 13471:
+    print('odd')
+if num == 13472:
+    print('even')
+if num == 13473:
+    print('odd')
+if num == 13474:
+    print('even')
+if num == 13475:
+    print('odd')
+if num == 13476:
+    print('even')
+if num == 13477:
+    print('odd')
+if num == 13478:
+    print('even')
+if num == 13479:
+    print('odd')
+if num == 13480:
+    print('even')
+if num == 13481:
+    print('odd')
+if num == 13482:
+    print('even')
+if num == 13483:
+    print('odd')
+if num == 13484:
+    print('even')
+if num == 13485:
+    print('odd')
+if num == 13486:
+    print('even')
+if num == 13487:
+    print('odd')
+if num == 13488:
+    print('even')
+if num == 13489:
+    print('odd')
+if num == 13490:
+    print('even')
+if num == 13491:
+    print('odd')
+if num == 13492:
+    print('even')
+if num == 13493:
+    print('odd')
+if num == 13494:
+    print('even')
+if num == 13495:
+    print('odd')
+if num == 13496:
+    print('even')
+if num == 13497:
+    print('odd')
+if num == 13498:
+    print('even')
+if num == 13499:
+    print('odd')
+if num == 13500:
+    print('even')
+if num == 13501:
+    print('odd')
+if num == 13502:
+    print('even')
+if num == 13503:
+    print('odd')
+if num == 13504:
+    print('even')
+if num == 13505:
+    print('odd')
+if num == 13506:
+    print('even')
+if num == 13507:
+    print('odd')
+if num == 13508:
+    print('even')
+if num == 13509:
+    print('odd')
+if num == 13510:
+    print('even')
+if num == 13511:
+    print('odd')
+if num == 13512:
+    print('even')
+if num == 13513:
+    print('odd')
+if num == 13514:
+    print('even')
+if num == 13515:
+    print('odd')
+if num == 13516:
+    print('even')
+if num == 13517:
+    print('odd')
+if num == 13518:
+    print('even')
+if num == 13519:
+    print('odd')
+if num == 13520:
+    print('even')
+if num == 13521:
+    print('odd')
+if num == 13522:
+    print('even')
+if num == 13523:
+    print('odd')
+if num == 13524:
+    print('even')
+if num == 13525:
+    print('odd')
+if num == 13526:
+    print('even')
+if num == 13527:
+    print('odd')
+if num == 13528:
+    print('even')
+if num == 13529:
+    print('odd')
+if num == 13530:
+    print('even')
+if num == 13531:
+    print('odd')
+if num == 13532:
+    print('even')
+if num == 13533:
+    print('odd')
+if num == 13534:
+    print('even')
+if num == 13535:
+    print('odd')
+if num == 13536:
+    print('even')
+if num == 13537:
+    print('odd')
+if num == 13538:
+    print('even')
+if num == 13539:
+    print('odd')
+if num == 13540:
+    print('even')
+if num == 13541:
+    print('odd')
+if num == 13542:
+    print('even')
+if num == 13543:
+    print('odd')
+if num == 13544:
+    print('even')
+if num == 13545:
+    print('odd')
+if num == 13546:
+    print('even')
+if num == 13547:
+    print('odd')
+if num == 13548:
+    print('even')
+if num == 13549:
+    print('odd')
+if num == 13550:
+    print('even')
+if num == 13551:
+    print('odd')
+if num == 13552:
+    print('even')
+if num == 13553:
+    print('odd')
+if num == 13554:
+    print('even')
+if num == 13555:
+    print('odd')
+if num == 13556:
+    print('even')
+if num == 13557:
+    print('odd')
+if num == 13558:
+    print('even')
+if num == 13559:
+    print('odd')
+if num == 13560:
+    print('even')
+if num == 13561:
+    print('odd')
+if num == 13562:
+    print('even')
+if num == 13563:
+    print('odd')
+if num == 13564:
+    print('even')
+if num == 13565:
+    print('odd')
+if num == 13566:
+    print('even')
+if num == 13567:
+    print('odd')
+if num == 13568:
+    print('even')
+if num == 13569:
+    print('odd')
+if num == 13570:
+    print('even')
+if num == 13571:
+    print('odd')
+if num == 13572:
+    print('even')
+if num == 13573:
+    print('odd')
+if num == 13574:
+    print('even')
+if num == 13575:
+    print('odd')
+if num == 13576:
+    print('even')
+if num == 13577:
+    print('odd')
+if num == 13578:
+    print('even')
+if num == 13579:
+    print('odd')
+if num == 13580:
+    print('even')
+if num == 13581:
+    print('odd')
+if num == 13582:
+    print('even')
+if num == 13583:
+    print('odd')
+if num == 13584:
+    print('even')
+if num == 13585:
+    print('odd')
+if num == 13586:
+    print('even')
+if num == 13587:
+    print('odd')
+if num == 13588:
+    print('even')
+if num == 13589:
+    print('odd')
+if num == 13590:
+    print('even')
+if num == 13591:
+    print('odd')
+if num == 13592:
+    print('even')
+if num == 13593:
+    print('odd')
+if num == 13594:
+    print('even')
+if num == 13595:
+    print('odd')
+if num == 13596:
+    print('even')
+if num == 13597:
+    print('odd')
+if num == 13598:
+    print('even')
+if num == 13599:
+    print('odd')
+if num == 13600:
+    print('even')
+if num == 13601:
+    print('odd')
+if num == 13602:
+    print('even')
+if num == 13603:
+    print('odd')
+if num == 13604:
+    print('even')
+if num == 13605:
+    print('odd')
+if num == 13606:
+    print('even')
+if num == 13607:
+    print('odd')
+if num == 13608:
+    print('even')
+if num == 13609:
+    print('odd')
+if num == 13610:
+    print('even')
+if num == 13611:
+    print('odd')
+if num == 13612:
+    print('even')
+if num == 13613:
+    print('odd')
+if num == 13614:
+    print('even')
+if num == 13615:
+    print('odd')
+if num == 13616:
+    print('even')
+if num == 13617:
+    print('odd')
+if num == 13618:
+    print('even')
+if num == 13619:
+    print('odd')
+if num == 13620:
+    print('even')
+if num == 13621:
+    print('odd')
+if num == 13622:
+    print('even')
+if num == 13623:
+    print('odd')
+if num == 13624:
+    print('even')
+if num == 13625:
+    print('odd')
+if num == 13626:
+    print('even')
+if num == 13627:
+    print('odd')
+if num == 13628:
+    print('even')
+if num == 13629:
+    print('odd')
+if num == 13630:
+    print('even')
+if num == 13631:
+    print('odd')
+if num == 13632:
+    print('even')
+if num == 13633:
+    print('odd')
+if num == 13634:
+    print('even')
+if num == 13635:
+    print('odd')
+if num == 13636:
+    print('even')
+if num == 13637:
+    print('odd')
+if num == 13638:
+    print('even')
+if num == 13639:
+    print('odd')
+if num == 13640:
+    print('even')
+if num == 13641:
+    print('odd')
+if num == 13642:
+    print('even')
+if num == 13643:
+    print('odd')
+if num == 13644:
+    print('even')
+if num == 13645:
+    print('odd')
+if num == 13646:
+    print('even')
+if num == 13647:
+    print('odd')
+if num == 13648:
+    print('even')
+if num == 13649:
+    print('odd')
+if num == 13650:
+    print('even')
+if num == 13651:
+    print('odd')
+if num == 13652:
+    print('even')
+if num == 13653:
+    print('odd')
+if num == 13654:
+    print('even')
+if num == 13655:
+    print('odd')
+if num == 13656:
+    print('even')
+if num == 13657:
+    print('odd')
+if num == 13658:
+    print('even')
+if num == 13659:
+    print('odd')
+if num == 13660:
+    print('even')
+if num == 13661:
+    print('odd')
+if num == 13662:
+    print('even')
+if num == 13663:
+    print('odd')
+if num == 13664:
+    print('even')
+if num == 13665:
+    print('odd')
+if num == 13666:
+    print('even')
+if num == 13667:
+    print('odd')
+if num == 13668:
+    print('even')
+if num == 13669:
+    print('odd')
+if num == 13670:
+    print('even')
+if num == 13671:
+    print('odd')
+if num == 13672:
+    print('even')
+if num == 13673:
+    print('odd')
+if num == 13674:
+    print('even')
+if num == 13675:
+    print('odd')
+if num == 13676:
+    print('even')
+if num == 13677:
+    print('odd')
+if num == 13678:
+    print('even')
+if num == 13679:
+    print('odd')
+if num == 13680:
+    print('even')
+if num == 13681:
+    print('odd')
+if num == 13682:
+    print('even')
+if num == 13683:
+    print('odd')
+if num == 13684:
+    print('even')
+if num == 13685:
+    print('odd')
+if num == 13686:
+    print('even')
+if num == 13687:
+    print('odd')
+if num == 13688:
+    print('even')
+if num == 13689:
+    print('odd')
+if num == 13690:
+    print('even')
+if num == 13691:
+    print('odd')
+if num == 13692:
+    print('even')
+if num == 13693:
+    print('odd')
+if num == 13694:
+    print('even')
+if num == 13695:
+    print('odd')
+if num == 13696:
+    print('even')
+if num == 13697:
+    print('odd')
+if num == 13698:
+    print('even')
+if num == 13699:
+    print('odd')
+if num == 13700:
+    print('even')
+if num == 13701:
+    print('odd')
+if num == 13702:
+    print('even')
+if num == 13703:
+    print('odd')
+if num == 13704:
+    print('even')
+if num == 13705:
+    print('odd')
+if num == 13706:
+    print('even')
+if num == 13707:
+    print('odd')
+if num == 13708:
+    print('even')
+if num == 13709:
+    print('odd')
+if num == 13710:
+    print('even')
+if num == 13711:
+    print('odd')
+if num == 13712:
+    print('even')
+if num == 13713:
+    print('odd')
+if num == 13714:
+    print('even')
+if num == 13715:
+    print('odd')
+if num == 13716:
+    print('even')
+if num == 13717:
+    print('odd')
+if num == 13718:
+    print('even')
+if num == 13719:
+    print('odd')
+if num == 13720:
+    print('even')
+if num == 13721:
+    print('odd')
+if num == 13722:
+    print('even')
+if num == 13723:
+    print('odd')
+if num == 13724:
+    print('even')
+if num == 13725:
+    print('odd')
+if num == 13726:
+    print('even')
+if num == 13727:
+    print('odd')
+if num == 13728:
+    print('even')
+if num == 13729:
+    print('odd')
+if num == 13730:
+    print('even')
+if num == 13731:
+    print('odd')
+if num == 13732:
+    print('even')
+if num == 13733:
+    print('odd')
+if num == 13734:
+    print('even')
+if num == 13735:
+    print('odd')
+if num == 13736:
+    print('even')
+if num == 13737:
+    print('odd')
+if num == 13738:
+    print('even')
+if num == 13739:
+    print('odd')
+if num == 13740:
+    print('even')
+if num == 13741:
+    print('odd')
+if num == 13742:
+    print('even')
+if num == 13743:
+    print('odd')
+if num == 13744:
+    print('even')
+if num == 13745:
+    print('odd')
+if num == 13746:
+    print('even')
+if num == 13747:
+    print('odd')
+if num == 13748:
+    print('even')
+if num == 13749:
+    print('odd')
+if num == 13750:
+    print('even')
+if num == 13751:
+    print('odd')
+if num == 13752:
+    print('even')
+if num == 13753:
+    print('odd')
+if num == 13754:
+    print('even')
+if num == 13755:
+    print('odd')
+if num == 13756:
+    print('even')
+if num == 13757:
+    print('odd')
+if num == 13758:
+    print('even')
+if num == 13759:
+    print('odd')
+if num == 13760:
+    print('even')
+if num == 13761:
+    print('odd')
+if num == 13762:
+    print('even')
+if num == 13763:
+    print('odd')
+if num == 13764:
+    print('even')
+if num == 13765:
+    print('odd')
+if num == 13766:
+    print('even')
+if num == 13767:
+    print('odd')
+if num == 13768:
+    print('even')
+if num == 13769:
+    print('odd')
+if num == 13770:
+    print('even')
+if num == 13771:
+    print('odd')
+if num == 13772:
+    print('even')
+if num == 13773:
+    print('odd')
+if num == 13774:
+    print('even')
+if num == 13775:
+    print('odd')
+if num == 13776:
+    print('even')
+if num == 13777:
+    print('odd')
+if num == 13778:
+    print('even')
+if num == 13779:
+    print('odd')
+if num == 13780:
+    print('even')
+if num == 13781:
+    print('odd')
+if num == 13782:
+    print('even')
+if num == 13783:
+    print('odd')
+if num == 13784:
+    print('even')
+if num == 13785:
+    print('odd')
+if num == 13786:
+    print('even')
+if num == 13787:
+    print('odd')
+if num == 13788:
+    print('even')
+if num == 13789:
+    print('odd')
+if num == 13790:
+    print('even')
+if num == 13791:
+    print('odd')
+if num == 13792:
+    print('even')
+if num == 13793:
+    print('odd')
+if num == 13794:
+    print('even')
+if num == 13795:
+    print('odd')
+if num == 13796:
+    print('even')
+if num == 13797:
+    print('odd')
+if num == 13798:
+    print('even')
+if num == 13799:
+    print('odd')
+if num == 13800:
+    print('even')
+if num == 13801:
+    print('odd')
+if num == 13802:
+    print('even')
+if num == 13803:
+    print('odd')
+if num == 13804:
+    print('even')
+if num == 13805:
+    print('odd')
+if num == 13806:
+    print('even')
+if num == 13807:
+    print('odd')
+if num == 13808:
+    print('even')
+if num == 13809:
+    print('odd')
+if num == 13810:
+    print('even')
+if num == 13811:
+    print('odd')
+if num == 13812:
+    print('even')
+if num == 13813:
+    print('odd')
+if num == 13814:
+    print('even')
+if num == 13815:
+    print('odd')
+if num == 13816:
+    print('even')
+if num == 13817:
+    print('odd')
+if num == 13818:
+    print('even')
+if num == 13819:
+    print('odd')
+if num == 13820:
+    print('even')
+if num == 13821:
+    print('odd')
+if num == 13822:
+    print('even')
+if num == 13823:
+    print('odd')
+if num == 13824:
+    print('even')
+if num == 13825:
+    print('odd')
+if num == 13826:
+    print('even')
+if num == 13827:
+    print('odd')
+if num == 13828:
+    print('even')
+if num == 13829:
+    print('odd')
+if num == 13830:
+    print('even')
+if num == 13831:
+    print('odd')
+if num == 13832:
+    print('even')
+if num == 13833:
+    print('odd')
+if num == 13834:
+    print('even')
+if num == 13835:
+    print('odd')
+if num == 13836:
+    print('even')
+if num == 13837:
+    print('odd')
+if num == 13838:
+    print('even')
+if num == 13839:
+    print('odd')
+if num == 13840:
+    print('even')
+if num == 13841:
+    print('odd')
+if num == 13842:
+    print('even')
+if num == 13843:
+    print('odd')
+if num == 13844:
+    print('even')
+if num == 13845:
+    print('odd')
+if num == 13846:
+    print('even')
+if num == 13847:
+    print('odd')
+if num == 13848:
+    print('even')
+if num == 13849:
+    print('odd')
+if num == 13850:
+    print('even')
+if num == 13851:
+    print('odd')
+if num == 13852:
+    print('even')
+if num == 13853:
+    print('odd')
+if num == 13854:
+    print('even')
+if num == 13855:
+    print('odd')
+if num == 13856:
+    print('even')
+if num == 13857:
+    print('odd')
+if num == 13858:
+    print('even')
+if num == 13859:
+    print('odd')
+if num == 13860:
+    print('even')
+if num == 13861:
+    print('odd')
+if num == 13862:
+    print('even')
+if num == 13863:
+    print('odd')
+if num == 13864:
+    print('even')
+if num == 13865:
+    print('odd')
+if num == 13866:
+    print('even')
+if num == 13867:
+    print('odd')
+if num == 13868:
+    print('even')
+if num == 13869:
+    print('odd')
+if num == 13870:
+    print('even')
+if num == 13871:
+    print('odd')
+if num == 13872:
+    print('even')
+if num == 13873:
+    print('odd')
+if num == 13874:
+    print('even')
+if num == 13875:
+    print('odd')
+if num == 13876:
+    print('even')
+if num == 13877:
+    print('odd')
+if num == 13878:
+    print('even')
+if num == 13879:
+    print('odd')
+if num == 13880:
+    print('even')
+if num == 13881:
+    print('odd')
+if num == 13882:
+    print('even')
+if num == 13883:
+    print('odd')
+if num == 13884:
+    print('even')
+if num == 13885:
+    print('odd')
+if num == 13886:
+    print('even')
+if num == 13887:
+    print('odd')
+if num == 13888:
+    print('even')
+if num == 13889:
+    print('odd')
+if num == 13890:
+    print('even')
+if num == 13891:
+    print('odd')
+if num == 13892:
+    print('even')
+if num == 13893:
+    print('odd')
+if num == 13894:
+    print('even')
+if num == 13895:
+    print('odd')
+if num == 13896:
+    print('even')
+if num == 13897:
+    print('odd')
+if num == 13898:
+    print('even')
+if num == 13899:
+    print('odd')
+if num == 13900:
+    print('even')
+if num == 13901:
+    print('odd')
+if num == 13902:
+    print('even')
+if num == 13903:
+    print('odd')
+if num == 13904:
+    print('even')
+if num == 13905:
+    print('odd')
+if num == 13906:
+    print('even')
+if num == 13907:
+    print('odd')
+if num == 13908:
+    print('even')
+if num == 13909:
+    print('odd')
+if num == 13910:
+    print('even')
+if num == 13911:
+    print('odd')
+if num == 13912:
+    print('even')
+if num == 13913:
+    print('odd')
+if num == 13914:
+    print('even')
+if num == 13915:
+    print('odd')
+if num == 13916:
+    print('even')
+if num == 13917:
+    print('odd')
+if num == 13918:
+    print('even')
+if num == 13919:
+    print('odd')
+if num == 13920:
+    print('even')
+if num == 13921:
+    print('odd')
+if num == 13922:
+    print('even')
+if num == 13923:
+    print('odd')
+if num == 13924:
+    print('even')
+if num == 13925:
+    print('odd')
+if num == 13926:
+    print('even')
+if num == 13927:
+    print('odd')
+if num == 13928:
+    print('even')
+if num == 13929:
+    print('odd')
+if num == 13930:
+    print('even')
+if num == 13931:
+    print('odd')
+if num == 13932:
+    print('even')
+if num == 13933:
+    print('odd')
+if num == 13934:
+    print('even')
+if num == 13935:
+    print('odd')
+if num == 13936:
+    print('even')
+if num == 13937:
+    print('odd')
+if num == 13938:
+    print('even')
+if num == 13939:
+    print('odd')
+if num == 13940:
+    print('even')
+if num == 13941:
+    print('odd')
+if num == 13942:
+    print('even')
+if num == 13943:
+    print('odd')
+if num == 13944:
+    print('even')
+if num == 13945:
+    print('odd')
+if num == 13946:
+    print('even')
+if num == 13947:
+    print('odd')
+if num == 13948:
+    print('even')
+if num == 13949:
+    print('odd')
+if num == 13950:
+    print('even')
+if num == 13951:
+    print('odd')
+if num == 13952:
+    print('even')
+if num == 13953:
+    print('odd')
+if num == 13954:
+    print('even')
+if num == 13955:
+    print('odd')
+if num == 13956:
+    print('even')
+if num == 13957:
+    print('odd')
+if num == 13958:
+    print('even')
+if num == 13959:
+    print('odd')
+if num == 13960:
+    print('even')
+if num == 13961:
+    print('odd')
+if num == 13962:
+    print('even')
+if num == 13963:
+    print('odd')
+if num == 13964:
+    print('even')
+if num == 13965:
+    print('odd')
+if num == 13966:
+    print('even')
+if num == 13967:
+    print('odd')
+if num == 13968:
+    print('even')
+if num == 13969:
+    print('odd')
+if num == 13970:
+    print('even')
+if num == 13971:
+    print('odd')
+if num == 13972:
+    print('even')
+if num == 13973:
+    print('odd')
+if num == 13974:
+    print('even')
+if num == 13975:
+    print('odd')
+if num == 13976:
+    print('even')
+if num == 13977:
+    print('odd')
+if num == 13978:
+    print('even')
+if num == 13979:
+    print('odd')
+if num == 13980:
+    print('even')
+if num == 13981:
+    print('odd')
+if num == 13982:
+    print('even')
+if num == 13983:
+    print('odd')
+if num == 13984:
+    print('even')
+if num == 13985:
+    print('odd')
+if num == 13986:
+    print('even')
+if num == 13987:
+    print('odd')
+if num == 13988:
+    print('even')
+if num == 13989:
+    print('odd')
+if num == 13990:
+    print('even')
+if num == 13991:
+    print('odd')
+if num == 13992:
+    print('even')
+if num == 13993:
+    print('odd')
+if num == 13994:
+    print('even')
+if num == 13995:
+    print('odd')
+if num == 13996:
+    print('even')
+if num == 13997:
+    print('odd')
+if num == 13998:
+    print('even')
+if num == 13999:
+    print('odd')
+if num == 14000:
+    print('even')
+if num == 14001:
+    print('odd')
+if num == 14002:
+    print('even')
+if num == 14003:
+    print('odd')
+if num == 14004:
+    print('even')
+if num == 14005:
+    print('odd')
+if num == 14006:
+    print('even')
+if num == 14007:
+    print('odd')
+if num == 14008:
+    print('even')
+if num == 14009:
+    print('odd')
+if num == 14010:
+    print('even')
+if num == 14011:
+    print('odd')
+if num == 14012:
+    print('even')
+if num == 14013:
+    print('odd')
+if num == 14014:
+    print('even')
+if num == 14015:
+    print('odd')
+if num == 14016:
+    print('even')
+if num == 14017:
+    print('odd')
+if num == 14018:
+    print('even')
+if num == 14019:
+    print('odd')
+if num == 14020:
+    print('even')
+if num == 14021:
+    print('odd')
+if num == 14022:
+    print('even')
+if num == 14023:
+    print('odd')
+if num == 14024:
+    print('even')
+if num == 14025:
+    print('odd')
+if num == 14026:
+    print('even')
+if num == 14027:
+    print('odd')
+if num == 14028:
+    print('even')
+if num == 14029:
+    print('odd')
+if num == 14030:
+    print('even')
+if num == 14031:
+    print('odd')
+if num == 14032:
+    print('even')
+if num == 14033:
+    print('odd')
+if num == 14034:
+    print('even')
+if num == 14035:
+    print('odd')
+if num == 14036:
+    print('even')
+if num == 14037:
+    print('odd')
+if num == 14038:
+    print('even')
+if num == 14039:
+    print('odd')
+if num == 14040:
+    print('even')
+if num == 14041:
+    print('odd')
+if num == 14042:
+    print('even')
+if num == 14043:
+    print('odd')
+if num == 14044:
+    print('even')
+if num == 14045:
+    print('odd')
+if num == 14046:
+    print('even')
+if num == 14047:
+    print('odd')
+if num == 14048:
+    print('even')
+if num == 14049:
+    print('odd')
+if num == 14050:
+    print('even')
+if num == 14051:
+    print('odd')
+if num == 14052:
+    print('even')
+if num == 14053:
+    print('odd')
+if num == 14054:
+    print('even')
+if num == 14055:
+    print('odd')
+if num == 14056:
+    print('even')
+if num == 14057:
+    print('odd')
+if num == 14058:
+    print('even')
+if num == 14059:
+    print('odd')
+if num == 14060:
+    print('even')
+if num == 14061:
+    print('odd')
+if num == 14062:
+    print('even')
+if num == 14063:
+    print('odd')
+if num == 14064:
+    print('even')
+if num == 14065:
+    print('odd')
+if num == 14066:
+    print('even')
+if num == 14067:
+    print('odd')
+if num == 14068:
+    print('even')
+if num == 14069:
+    print('odd')
+if num == 14070:
+    print('even')
+if num == 14071:
+    print('odd')
+if num == 14072:
+    print('even')
+if num == 14073:
+    print('odd')
+if num == 14074:
+    print('even')
+if num == 14075:
+    print('odd')
+if num == 14076:
+    print('even')
+if num == 14077:
+    print('odd')
+if num == 14078:
+    print('even')
+if num == 14079:
+    print('odd')
+if num == 14080:
+    print('even')
+if num == 14081:
+    print('odd')
+if num == 14082:
+    print('even')
+if num == 14083:
+    print('odd')
+if num == 14084:
+    print('even')
+if num == 14085:
+    print('odd')
+if num == 14086:
+    print('even')
+if num == 14087:
+    print('odd')
+if num == 14088:
+    print('even')
+if num == 14089:
+    print('odd')
+if num == 14090:
+    print('even')
+if num == 14091:
+    print('odd')
+if num == 14092:
+    print('even')
+if num == 14093:
+    print('odd')
+if num == 14094:
+    print('even')
+if num == 14095:
+    print('odd')
+if num == 14096:
+    print('even')
+if num == 14097:
+    print('odd')
+if num == 14098:
+    print('even')
+if num == 14099:
+    print('odd')
+if num == 14100:
+    print('even')
+if num == 14101:
+    print('odd')
+if num == 14102:
+    print('even')
+if num == 14103:
+    print('odd')
+if num == 14104:
+    print('even')
+if num == 14105:
+    print('odd')
+if num == 14106:
+    print('even')
+if num == 14107:
+    print('odd')
+if num == 14108:
+    print('even')
+if num == 14109:
+    print('odd')
+if num == 14110:
+    print('even')
+if num == 14111:
+    print('odd')
+if num == 14112:
+    print('even')
+if num == 14113:
+    print('odd')
+if num == 14114:
+    print('even')
+if num == 14115:
+    print('odd')
+if num == 14116:
+    print('even')
+if num == 14117:
+    print('odd')
+if num == 14118:
+    print('even')
+if num == 14119:
+    print('odd')
+if num == 14120:
+    print('even')
+if num == 14121:
+    print('odd')
+if num == 14122:
+    print('even')
+if num == 14123:
+    print('odd')
+if num == 14124:
+    print('even')
+if num == 14125:
+    print('odd')
+if num == 14126:
+    print('even')
+if num == 14127:
+    print('odd')
+if num == 14128:
+    print('even')
+if num == 14129:
+    print('odd')
+if num == 14130:
+    print('even')
+if num == 14131:
+    print('odd')
+if num == 14132:
+    print('even')
+if num == 14133:
+    print('odd')
+if num == 14134:
+    print('even')
+if num == 14135:
+    print('odd')
+if num == 14136:
+    print('even')
+if num == 14137:
+    print('odd')
+if num == 14138:
+    print('even')
+if num == 14139:
+    print('odd')
+if num == 14140:
+    print('even')
+if num == 14141:
+    print('odd')
+if num == 14142:
+    print('even')
+if num == 14143:
+    print('odd')
+if num == 14144:
+    print('even')
+if num == 14145:
+    print('odd')
+if num == 14146:
+    print('even')
+if num == 14147:
+    print('odd')
+if num == 14148:
+    print('even')
+if num == 14149:
+    print('odd')
+if num == 14150:
+    print('even')
+if num == 14151:
+    print('odd')
+if num == 14152:
+    print('even')
+if num == 14153:
+    print('odd')
+if num == 14154:
+    print('even')
+if num == 14155:
+    print('odd')
+if num == 14156:
+    print('even')
+if num == 14157:
+    print('odd')
+if num == 14158:
+    print('even')
+if num == 14159:
+    print('odd')
+if num == 14160:
+    print('even')
+if num == 14161:
+    print('odd')
+if num == 14162:
+    print('even')
+if num == 14163:
+    print('odd')
+if num == 14164:
+    print('even')
+if num == 14165:
+    print('odd')
+if num == 14166:
+    print('even')
+if num == 14167:
+    print('odd')
+if num == 14168:
+    print('even')
+if num == 14169:
+    print('odd')
+if num == 14170:
+    print('even')
+if num == 14171:
+    print('odd')
+if num == 14172:
+    print('even')
+if num == 14173:
+    print('odd')
+if num == 14174:
+    print('even')
+if num == 14175:
+    print('odd')
+if num == 14176:
+    print('even')
+if num == 14177:
+    print('odd')
+if num == 14178:
+    print('even')
+if num == 14179:
+    print('odd')
+if num == 14180:
+    print('even')
+if num == 14181:
+    print('odd')
+if num == 14182:
+    print('even')
+if num == 14183:
+    print('odd')
+if num == 14184:
+    print('even')
+if num == 14185:
+    print('odd')
+if num == 14186:
+    print('even')
+if num == 14187:
+    print('odd')
+if num == 14188:
+    print('even')
+if num == 14189:
+    print('odd')
+if num == 14190:
+    print('even')
+if num == 14191:
+    print('odd')
+if num == 14192:
+    print('even')
+if num == 14193:
+    print('odd')
+if num == 14194:
+    print('even')
+if num == 14195:
+    print('odd')
+if num == 14196:
+    print('even')
+if num == 14197:
+    print('odd')
+if num == 14198:
+    print('even')
+if num == 14199:
+    print('odd')
+if num == 14200:
+    print('even')
+if num == 14201:
+    print('odd')
+if num == 14202:
+    print('even')
+if num == 14203:
+    print('odd')
+if num == 14204:
+    print('even')
+if num == 14205:
+    print('odd')
+if num == 14206:
+    print('even')
+if num == 14207:
+    print('odd')
+if num == 14208:
+    print('even')
+if num == 14209:
+    print('odd')
+if num == 14210:
+    print('even')
+if num == 14211:
+    print('odd')
+if num == 14212:
+    print('even')
+if num == 14213:
+    print('odd')
+if num == 14214:
+    print('even')
+if num == 14215:
+    print('odd')
+if num == 14216:
+    print('even')
+if num == 14217:
+    print('odd')
+if num == 14218:
+    print('even')
+if num == 14219:
+    print('odd')
+if num == 14220:
+    print('even')
+if num == 14221:
+    print('odd')
+if num == 14222:
+    print('even')
+if num == 14223:
+    print('odd')
+if num == 14224:
+    print('even')
+if num == 14225:
+    print('odd')
+if num == 14226:
+    print('even')
+if num == 14227:
+    print('odd')
+if num == 14228:
+    print('even')
+if num == 14229:
+    print('odd')
+if num == 14230:
+    print('even')
+if num == 14231:
+    print('odd')
+if num == 14232:
+    print('even')
+if num == 14233:
+    print('odd')
+if num == 14234:
+    print('even')
+if num == 14235:
+    print('odd')
+if num == 14236:
+    print('even')
+if num == 14237:
+    print('odd')
+if num == 14238:
+    print('even')
+if num == 14239:
+    print('odd')
+if num == 14240:
+    print('even')
+if num == 14241:
+    print('odd')
+if num == 14242:
+    print('even')
+if num == 14243:
+    print('odd')
+if num == 14244:
+    print('even')
+if num == 14245:
+    print('odd')
+if num == 14246:
+    print('even')
+if num == 14247:
+    print('odd')
+if num == 14248:
+    print('even')
+if num == 14249:
+    print('odd')
+if num == 14250:
+    print('even')
+if num == 14251:
+    print('odd')
+if num == 14252:
+    print('even')
+if num == 14253:
+    print('odd')
+if num == 14254:
+    print('even')
+if num == 14255:
+    print('odd')
+if num == 14256:
+    print('even')
+if num == 14257:
+    print('odd')
+if num == 14258:
+    print('even')
+if num == 14259:
+    print('odd')
+if num == 14260:
+    print('even')
+if num == 14261:
+    print('odd')
+if num == 14262:
+    print('even')
+if num == 14263:
+    print('odd')
+if num == 14264:
+    print('even')
+if num == 14265:
+    print('odd')
+if num == 14266:
+    print('even')
+if num == 14267:
+    print('odd')
+if num == 14268:
+    print('even')
+if num == 14269:
+    print('odd')
+if num == 14270:
+    print('even')
+if num == 14271:
+    print('odd')
+if num == 14272:
+    print('even')
+if num == 14273:
+    print('odd')
+if num == 14274:
+    print('even')
+if num == 14275:
+    print('odd')
+if num == 14276:
+    print('even')
+if num == 14277:
+    print('odd')
+if num == 14278:
+    print('even')
+if num == 14279:
+    print('odd')
+if num == 14280:
+    print('even')
+if num == 14281:
+    print('odd')
+if num == 14282:
+    print('even')
+if num == 14283:
+    print('odd')
+if num == 14284:
+    print('even')
+if num == 14285:
+    print('odd')
+if num == 14286:
+    print('even')
+if num == 14287:
+    print('odd')
+if num == 14288:
+    print('even')
+if num == 14289:
+    print('odd')
+if num == 14290:
+    print('even')
+if num == 14291:
+    print('odd')
+if num == 14292:
+    print('even')
+if num == 14293:
+    print('odd')
+if num == 14294:
+    print('even')
+if num == 14295:
+    print('odd')
+if num == 14296:
+    print('even')
+if num == 14297:
+    print('odd')
+if num == 14298:
+    print('even')
+if num == 14299:
+    print('odd')
+if num == 14300:
+    print('even')
+if num == 14301:
+    print('odd')
+if num == 14302:
+    print('even')
+if num == 14303:
+    print('odd')
+if num == 14304:
+    print('even')
+if num == 14305:
+    print('odd')
+if num == 14306:
+    print('even')
+if num == 14307:
+    print('odd')
+if num == 14308:
+    print('even')
+if num == 14309:
+    print('odd')
+if num == 14310:
+    print('even')
+if num == 14311:
+    print('odd')
+if num == 14312:
+    print('even')
+if num == 14313:
+    print('odd')
+if num == 14314:
+    print('even')
+if num == 14315:
+    print('odd')
+if num == 14316:
+    print('even')
+if num == 14317:
+    print('odd')
+if num == 14318:
+    print('even')
+if num == 14319:
+    print('odd')
+if num == 14320:
+    print('even')
+if num == 14321:
+    print('odd')
+if num == 14322:
+    print('even')
+if num == 14323:
+    print('odd')
+if num == 14324:
+    print('even')
+if num == 14325:
+    print('odd')
+if num == 14326:
+    print('even')
+if num == 14327:
+    print('odd')
+if num == 14328:
+    print('even')
+if num == 14329:
+    print('odd')
+if num == 14330:
+    print('even')
+if num == 14331:
+    print('odd')
+if num == 14332:
+    print('even')
+if num == 14333:
+    print('odd')
+if num == 14334:
+    print('even')
+if num == 14335:
+    print('odd')
+if num == 14336:
+    print('even')
+if num == 14337:
+    print('odd')
+if num == 14338:
+    print('even')
+if num == 14339:
+    print('odd')
+if num == 14340:
+    print('even')
+if num == 14341:
+    print('odd')
+if num == 14342:
+    print('even')
+if num == 14343:
+    print('odd')
+if num == 14344:
+    print('even')
+if num == 14345:
+    print('odd')
+if num == 14346:
+    print('even')
+if num == 14347:
+    print('odd')
+if num == 14348:
+    print('even')
+if num == 14349:
+    print('odd')
+if num == 14350:
+    print('even')
+if num == 14351:
+    print('odd')
+if num == 14352:
+    print('even')
+if num == 14353:
+    print('odd')
+if num == 14354:
+    print('even')
+if num == 14355:
+    print('odd')
+if num == 14356:
+    print('even')
+if num == 14357:
+    print('odd')
+if num == 14358:
+    print('even')
+if num == 14359:
+    print('odd')
+if num == 14360:
+    print('even')
+if num == 14361:
+    print('odd')
+if num == 14362:
+    print('even')
+if num == 14363:
+    print('odd')
+if num == 14364:
+    print('even')
+if num == 14365:
+    print('odd')
+if num == 14366:
+    print('even')
+if num == 14367:
+    print('odd')
+if num == 14368:
+    print('even')
+if num == 14369:
+    print('odd')
+if num == 14370:
+    print('even')
+if num == 14371:
+    print('odd')
+if num == 14372:
+    print('even')
+if num == 14373:
+    print('odd')
+if num == 14374:
+    print('even')
+if num == 14375:
+    print('odd')
+if num == 14376:
+    print('even')
+if num == 14377:
+    print('odd')
+if num == 14378:
+    print('even')
+if num == 14379:
+    print('odd')
+if num == 14380:
+    print('even')
+if num == 14381:
+    print('odd')
+if num == 14382:
+    print('even')
+if num == 14383:
+    print('odd')
+if num == 14384:
+    print('even')
+if num == 14385:
+    print('odd')
+if num == 14386:
+    print('even')
+if num == 14387:
+    print('odd')
+if num == 14388:
+    print('even')
+if num == 14389:
+    print('odd')
+if num == 14390:
+    print('even')
+if num == 14391:
+    print('odd')
+if num == 14392:
+    print('even')
+if num == 14393:
+    print('odd')
+if num == 14394:
+    print('even')
+if num == 14395:
+    print('odd')
+if num == 14396:
+    print('even')
+if num == 14397:
+    print('odd')
+if num == 14398:
+    print('even')
+if num == 14399:
+    print('odd')
+if num == 14400:
+    print('even')
+if num == 14401:
+    print('odd')
+if num == 14402:
+    print('even')
+if num == 14403:
+    print('odd')
+if num == 14404:
+    print('even')
+if num == 14405:
+    print('odd')
+if num == 14406:
+    print('even')
+if num == 14407:
+    print('odd')
+if num == 14408:
+    print('even')
+if num == 14409:
+    print('odd')
+if num == 14410:
+    print('even')
+if num == 14411:
+    print('odd')
+if num == 14412:
+    print('even')
+if num == 14413:
+    print('odd')
+if num == 14414:
+    print('even')
+if num == 14415:
+    print('odd')
+if num == 14416:
+    print('even')
+if num == 14417:
+    print('odd')
+if num == 14418:
+    print('even')
+if num == 14419:
+    print('odd')
+if num == 14420:
+    print('even')
+if num == 14421:
+    print('odd')
+if num == 14422:
+    print('even')
+if num == 14423:
+    print('odd')
+if num == 14424:
+    print('even')
+if num == 14425:
+    print('odd')
+if num == 14426:
+    print('even')
+if num == 14427:
+    print('odd')
+if num == 14428:
+    print('even')
+if num == 14429:
+    print('odd')
+if num == 14430:
+    print('even')
+if num == 14431:
+    print('odd')
+if num == 14432:
+    print('even')
+if num == 14433:
+    print('odd')
+if num == 14434:
+    print('even')
+if num == 14435:
+    print('odd')
+if num == 14436:
+    print('even')
+if num == 14437:
+    print('odd')
+if num == 14438:
+    print('even')
+if num == 14439:
+    print('odd')
+if num == 14440:
+    print('even')
+if num == 14441:
+    print('odd')
+if num == 14442:
+    print('even')
+if num == 14443:
+    print('odd')
+if num == 14444:
+    print('even')
+if num == 14445:
+    print('odd')
+if num == 14446:
+    print('even')
+if num == 14447:
+    print('odd')
+if num == 14448:
+    print('even')
+if num == 14449:
+    print('odd')
+if num == 14450:
+    print('even')
+if num == 14451:
+    print('odd')
+if num == 14452:
+    print('even')
+if num == 14453:
+    print('odd')
+if num == 14454:
+    print('even')
+if num == 14455:
+    print('odd')
+if num == 14456:
+    print('even')
+if num == 14457:
+    print('odd')
+if num == 14458:
+    print('even')
+if num == 14459:
+    print('odd')
+if num == 14460:
+    print('even')
+if num == 14461:
+    print('odd')
+if num == 14462:
+    print('even')
+if num == 14463:
+    print('odd')
+if num == 14464:
+    print('even')
+if num == 14465:
+    print('odd')
+if num == 14466:
+    print('even')
+if num == 14467:
+    print('odd')
+if num == 14468:
+    print('even')
+if num == 14469:
+    print('odd')
+if num == 14470:
+    print('even')
+if num == 14471:
+    print('odd')
+if num == 14472:
+    print('even')
+if num == 14473:
+    print('odd')
+if num == 14474:
+    print('even')
+if num == 14475:
+    print('odd')
+if num == 14476:
+    print('even')
+if num == 14477:
+    print('odd')
+if num == 14478:
+    print('even')
+if num == 14479:
+    print('odd')
+if num == 14480:
+    print('even')
+if num == 14481:
+    print('odd')
+if num == 14482:
+    print('even')
+if num == 14483:
+    print('odd')
+if num == 14484:
+    print('even')
+if num == 14485:
+    print('odd')
+if num == 14486:
+    print('even')
+if num == 14487:
+    print('odd')
+if num == 14488:
+    print('even')
+if num == 14489:
+    print('odd')
+if num == 14490:
+    print('even')
+if num == 14491:
+    print('odd')
+if num == 14492:
+    print('even')
+if num == 14493:
+    print('odd')
+if num == 14494:
+    print('even')
+if num == 14495:
+    print('odd')
+if num == 14496:
+    print('even')
+if num == 14497:
+    print('odd')
+if num == 14498:
+    print('even')
+if num == 14499:
+    print('odd')
+if num == 14500:
+    print('even')
+if num == 14501:
+    print('odd')
+if num == 14502:
+    print('even')
+if num == 14503:
+    print('odd')
+if num == 14504:
+    print('even')
+if num == 14505:
+    print('odd')
+if num == 14506:
+    print('even')
+if num == 14507:
+    print('odd')
+if num == 14508:
+    print('even')
+if num == 14509:
+    print('odd')
+if num == 14510:
+    print('even')
+if num == 14511:
+    print('odd')
+if num == 14512:
+    print('even')
+if num == 14513:
+    print('odd')
+if num == 14514:
+    print('even')
+if num == 14515:
+    print('odd')
+if num == 14516:
+    print('even')
+if num == 14517:
+    print('odd')
+if num == 14518:
+    print('even')
+if num == 14519:
+    print('odd')
+if num == 14520:
+    print('even')
+if num == 14521:
+    print('odd')
+if num == 14522:
+    print('even')
+if num == 14523:
+    print('odd')
+if num == 14524:
+    print('even')
+if num == 14525:
+    print('odd')
+if num == 14526:
+    print('even')
+if num == 14527:
+    print('odd')
+if num == 14528:
+    print('even')
+if num == 14529:
+    print('odd')
+if num == 14530:
+    print('even')
+if num == 14531:
+    print('odd')
+if num == 14532:
+    print('even')
+if num == 14533:
+    print('odd')
+if num == 14534:
+    print('even')
+if num == 14535:
+    print('odd')
+if num == 14536:
+    print('even')
+if num == 14537:
+    print('odd')
+if num == 14538:
+    print('even')
+if num == 14539:
+    print('odd')
+if num == 14540:
+    print('even')
+if num == 14541:
+    print('odd')
+if num == 14542:
+    print('even')
+if num == 14543:
+    print('odd')
+if num == 14544:
+    print('even')
+if num == 14545:
+    print('odd')
+if num == 14546:
+    print('even')
+if num == 14547:
+    print('odd')
+if num == 14548:
+    print('even')
+if num == 14549:
+    print('odd')
+if num == 14550:
+    print('even')
+if num == 14551:
+    print('odd')
+if num == 14552:
+    print('even')
+if num == 14553:
+    print('odd')
+if num == 14554:
+    print('even')
+if num == 14555:
+    print('odd')
+if num == 14556:
+    print('even')
+if num == 14557:
+    print('odd')
+if num == 14558:
+    print('even')
+if num == 14559:
+    print('odd')
+if num == 14560:
+    print('even')
+if num == 14561:
+    print('odd')
+if num == 14562:
+    print('even')
+if num == 14563:
+    print('odd')
+if num == 14564:
+    print('even')
+if num == 14565:
+    print('odd')
+if num == 14566:
+    print('even')
+if num == 14567:
+    print('odd')
+if num == 14568:
+    print('even')
+if num == 14569:
+    print('odd')
+if num == 14570:
+    print('even')
+if num == 14571:
+    print('odd')
+if num == 14572:
+    print('even')
+if num == 14573:
+    print('odd')
+if num == 14574:
+    print('even')
+if num == 14575:
+    print('odd')
+if num == 14576:
+    print('even')
+if num == 14577:
+    print('odd')
+if num == 14578:
+    print('even')
+if num == 14579:
+    print('odd')
+if num == 14580:
+    print('even')
+if num == 14581:
+    print('odd')
+if num == 14582:
+    print('even')
+if num == 14583:
+    print('odd')
+if num == 14584:
+    print('even')
+if num == 14585:
+    print('odd')
+if num == 14586:
+    print('even')
+if num == 14587:
+    print('odd')
+if num == 14588:
+    print('even')
+if num == 14589:
+    print('odd')
+if num == 14590:
+    print('even')
+if num == 14591:
+    print('odd')
+if num == 14592:
+    print('even')
+if num == 14593:
+    print('odd')
+if num == 14594:
+    print('even')
+if num == 14595:
+    print('odd')
+if num == 14596:
+    print('even')
+if num == 14597:
+    print('odd')
+if num == 14598:
+    print('even')
+if num == 14599:
+    print('odd')
+if num == 14600:
+    print('even')
+if num == 14601:
+    print('odd')
+if num == 14602:
+    print('even')
+if num == 14603:
+    print('odd')
+if num == 14604:
+    print('even')
+if num == 14605:
+    print('odd')
+if num == 14606:
+    print('even')
+if num == 14607:
+    print('odd')
+if num == 14608:
+    print('even')
+if num == 14609:
+    print('odd')
+if num == 14610:
+    print('even')
+if num == 14611:
+    print('odd')
+if num == 14612:
+    print('even')
+if num == 14613:
+    print('odd')
+if num == 14614:
+    print('even')
+if num == 14615:
+    print('odd')
+if num == 14616:
+    print('even')
+if num == 14617:
+    print('odd')
+if num == 14618:
+    print('even')
+if num == 14619:
+    print('odd')
+if num == 14620:
+    print('even')
+if num == 14621:
+    print('odd')
+if num == 14622:
+    print('even')
+if num == 14623:
+    print('odd')
+if num == 14624:
+    print('even')
+if num == 14625:
+    print('odd')
+if num == 14626:
+    print('even')
+if num == 14627:
+    print('odd')
+if num == 14628:
+    print('even')
+if num == 14629:
+    print('odd')
+if num == 14630:
+    print('even')
+if num == 14631:
+    print('odd')
+if num == 14632:
+    print('even')
+if num == 14633:
+    print('odd')
+if num == 14634:
+    print('even')
+if num == 14635:
+    print('odd')
+if num == 14636:
+    print('even')
+if num == 14637:
+    print('odd')
+if num == 14638:
+    print('even')
+if num == 14639:
+    print('odd')
+if num == 14640:
+    print('even')
+if num == 14641:
+    print('odd')
+if num == 14642:
+    print('even')
+if num == 14643:
+    print('odd')
+if num == 14644:
+    print('even')
+if num == 14645:
+    print('odd')
+if num == 14646:
+    print('even')
+if num == 14647:
+    print('odd')
+if num == 14648:
+    print('even')
+if num == 14649:
+    print('odd')
+if num == 14650:
+    print('even')
+if num == 14651:
+    print('odd')
+if num == 14652:
+    print('even')
+if num == 14653:
+    print('odd')
+if num == 14654:
+    print('even')
+if num == 14655:
+    print('odd')
+if num == 14656:
+    print('even')
+if num == 14657:
+    print('odd')
+if num == 14658:
+    print('even')
+if num == 14659:
+    print('odd')
+if num == 14660:
+    print('even')
+if num == 14661:
+    print('odd')
+if num == 14662:
+    print('even')
+if num == 14663:
+    print('odd')
+if num == 14664:
+    print('even')
+if num == 14665:
+    print('odd')
+if num == 14666:
+    print('even')
+if num == 14667:
+    print('odd')
+if num == 14668:
+    print('even')
+if num == 14669:
+    print('odd')
+if num == 14670:
+    print('even')
+if num == 14671:
+    print('odd')
+if num == 14672:
+    print('even')
+if num == 14673:
+    print('odd')
+if num == 14674:
+    print('even')
+if num == 14675:
+    print('odd')
+if num == 14676:
+    print('even')
+if num == 14677:
+    print('odd')
+if num == 14678:
+    print('even')
+if num == 14679:
+    print('odd')
+if num == 14680:
+    print('even')
+if num == 14681:
+    print('odd')
+if num == 14682:
+    print('even')
+if num == 14683:
+    print('odd')
+if num == 14684:
+    print('even')
+if num == 14685:
+    print('odd')
+if num == 14686:
+    print('even')
+if num == 14687:
+    print('odd')
+if num == 14688:
+    print('even')
+if num == 14689:
+    print('odd')
+if num == 14690:
+    print('even')
+if num == 14691:
+    print('odd')
+if num == 14692:
+    print('even')
+if num == 14693:
+    print('odd')
+if num == 14694:
+    print('even')
+if num == 14695:
+    print('odd')
+if num == 14696:
+    print('even')
+if num == 14697:
+    print('odd')
+if num == 14698:
+    print('even')
+if num == 14699:
+    print('odd')
+if num == 14700:
+    print('even')
+if num == 14701:
+    print('odd')
+if num == 14702:
+    print('even')
+if num == 14703:
+    print('odd')
+if num == 14704:
+    print('even')
+if num == 14705:
+    print('odd')
+if num == 14706:
+    print('even')
+if num == 14707:
+    print('odd')
+if num == 14708:
+    print('even')
+if num == 14709:
+    print('odd')
+if num == 14710:
+    print('even')
+if num == 14711:
+    print('odd')
+if num == 14712:
+    print('even')
+if num == 14713:
+    print('odd')
+if num == 14714:
+    print('even')
+if num == 14715:
+    print('odd')
+if num == 14716:
+    print('even')
+if num == 14717:
+    print('odd')
+if num == 14718:
+    print('even')
+if num == 14719:
+    print('odd')
+if num == 14720:
+    print('even')
+if num == 14721:
+    print('odd')
+if num == 14722:
+    print('even')
+if num == 14723:
+    print('odd')
+if num == 14724:
+    print('even')
+if num == 14725:
+    print('odd')
+if num == 14726:
+    print('even')
+if num == 14727:
+    print('odd')
+if num == 14728:
+    print('even')
+if num == 14729:
+    print('odd')
+if num == 14730:
+    print('even')
+if num == 14731:
+    print('odd')
+if num == 14732:
+    print('even')
+if num == 14733:
+    print('odd')
+if num == 14734:
+    print('even')
+if num == 14735:
+    print('odd')
+if num == 14736:
+    print('even')
+if num == 14737:
+    print('odd')
+if num == 14738:
+    print('even')
+if num == 14739:
+    print('odd')
+if num == 14740:
+    print('even')
+if num == 14741:
+    print('odd')
+if num == 14742:
+    print('even')
+if num == 14743:
+    print('odd')
+if num == 14744:
+    print('even')
+if num == 14745:
+    print('odd')
+if num == 14746:
+    print('even')
+if num == 14747:
+    print('odd')
+if num == 14748:
+    print('even')
+if num == 14749:
+    print('odd')
+if num == 14750:
+    print('even')
+if num == 14751:
+    print('odd')
+if num == 14752:
+    print('even')
+if num == 14753:
+    print('odd')
+if num == 14754:
+    print('even')
+if num == 14755:
+    print('odd')
+if num == 14756:
+    print('even')
+if num == 14757:
+    print('odd')
+if num == 14758:
+    print('even')
+if num == 14759:
+    print('odd')
+if num == 14760:
+    print('even')
+if num == 14761:
+    print('odd')
+if num == 14762:
+    print('even')
+if num == 14763:
+    print('odd')
+if num == 14764:
+    print('even')
+if num == 14765:
+    print('odd')
+if num == 14766:
+    print('even')
+if num == 14767:
+    print('odd')
+if num == 14768:
+    print('even')
+if num == 14769:
+    print('odd')
+if num == 14770:
+    print('even')
+if num == 14771:
+    print('odd')
+if num == 14772:
+    print('even')
+if num == 14773:
+    print('odd')
+if num == 14774:
+    print('even')
+if num == 14775:
+    print('odd')
+if num == 14776:
+    print('even')
+if num == 14777:
+    print('odd')
+if num == 14778:
+    print('even')
+if num == 14779:
+    print('odd')
+if num == 14780:
+    print('even')
+if num == 14781:
+    print('odd')
+if num == 14782:
+    print('even')
+if num == 14783:
+    print('odd')
+if num == 14784:
+    print('even')
+if num == 14785:
+    print('odd')
+if num == 14786:
+    print('even')
+if num == 14787:
+    print('odd')
+if num == 14788:
+    print('even')
+if num == 14789:
+    print('odd')
+if num == 14790:
+    print('even')
+if num == 14791:
+    print('odd')
+if num == 14792:
+    print('even')
+if num == 14793:
+    print('odd')
+if num == 14794:
+    print('even')
+if num == 14795:
+    print('odd')
+if num == 14796:
+    print('even')
+if num == 14797:
+    print('odd')
+if num == 14798:
+    print('even')
+if num == 14799:
+    print('odd')
+if num == 14800:
+    print('even')
+if num == 14801:
+    print('odd')
+if num == 14802:
+    print('even')
+if num == 14803:
+    print('odd')
+if num == 14804:
+    print('even')
+if num == 14805:
+    print('odd')
+if num == 14806:
+    print('even')
+if num == 14807:
+    print('odd')
+if num == 14808:
+    print('even')
+if num == 14809:
+    print('odd')
+if num == 14810:
+    print('even')
+if num == 14811:
+    print('odd')
+if num == 14812:
+    print('even')
+if num == 14813:
+    print('odd')
+if num == 14814:
+    print('even')
+if num == 14815:
+    print('odd')
+if num == 14816:
+    print('even')
+if num == 14817:
+    print('odd')
+if num == 14818:
+    print('even')
+if num == 14819:
+    print('odd')
+if num == 14820:
+    print('even')
+if num == 14821:
+    print('odd')
+if num == 14822:
+    print('even')
+if num == 14823:
+    print('odd')
+if num == 14824:
+    print('even')
+if num == 14825:
+    print('odd')
+if num == 14826:
+    print('even')
+if num == 14827:
+    print('odd')
+if num == 14828:
+    print('even')
+if num == 14829:
+    print('odd')
+if num == 14830:
+    print('even')
+if num == 14831:
+    print('odd')
+if num == 14832:
+    print('even')
+if num == 14833:
+    print('odd')
+if num == 14834:
+    print('even')
+if num == 14835:
+    print('odd')
+if num == 14836:
+    print('even')
+if num == 14837:
+    print('odd')
+if num == 14838:
+    print('even')
+if num == 14839:
+    print('odd')
+if num == 14840:
+    print('even')
+if num == 14841:
+    print('odd')
+if num == 14842:
+    print('even')
+if num == 14843:
+    print('odd')
+if num == 14844:
+    print('even')
+if num == 14845:
+    print('odd')
+if num == 14846:
+    print('even')
+if num == 14847:
+    print('odd')
+if num == 14848:
+    print('even')
+if num == 14849:
+    print('odd')
+if num == 14850:
+    print('even')
+if num == 14851:
+    print('odd')
+if num == 14852:
+    print('even')
+if num == 14853:
+    print('odd')
+if num == 14854:
+    print('even')
+if num == 14855:
+    print('odd')
+if num == 14856:
+    print('even')
+if num == 14857:
+    print('odd')
+if num == 14858:
+    print('even')
+if num == 14859:
+    print('odd')
+if num == 14860:
+    print('even')
+if num == 14861:
+    print('odd')
+if num == 14862:
+    print('even')
+if num == 14863:
+    print('odd')
+if num == 14864:
+    print('even')
+if num == 14865:
+    print('odd')
+if num == 14866:
+    print('even')
+if num == 14867:
+    print('odd')
+if num == 14868:
+    print('even')
+if num == 14869:
+    print('odd')
+if num == 14870:
+    print('even')
+if num == 14871:
+    print('odd')
+if num == 14872:
+    print('even')
+if num == 14873:
+    print('odd')
+if num == 14874:
+    print('even')
+if num == 14875:
+    print('odd')
+if num == 14876:
+    print('even')
+if num == 14877:
+    print('odd')
+if num == 14878:
+    print('even')
+if num == 14879:
+    print('odd')
+if num == 14880:
+    print('even')
+if num == 14881:
+    print('odd')
+if num == 14882:
+    print('even')
+if num == 14883:
+    print('odd')
+if num == 14884:
+    print('even')
+if num == 14885:
+    print('odd')
+if num == 14886:
+    print('even')
+if num == 14887:
+    print('odd')
+if num == 14888:
+    print('even')
+if num == 14889:
+    print('odd')
+if num == 14890:
+    print('even')
+if num == 14891:
+    print('odd')
+if num == 14892:
+    print('even')
+if num == 14893:
+    print('odd')
+if num == 14894:
+    print('even')
+if num == 14895:
+    print('odd')
+if num == 14896:
+    print('even')
+if num == 14897:
+    print('odd')
+if num == 14898:
+    print('even')
+if num == 14899:
+    print('odd')
+if num == 14900:
+    print('even')
+if num == 14901:
+    print('odd')
+if num == 14902:
+    print('even')
+if num == 14903:
+    print('odd')
+if num == 14904:
+    print('even')
+if num == 14905:
+    print('odd')
+if num == 14906:
+    print('even')
+if num == 14907:
+    print('odd')
+if num == 14908:
+    print('even')
+if num == 14909:
+    print('odd')
+if num == 14910:
+    print('even')
+if num == 14911:
+    print('odd')
+if num == 14912:
+    print('even')
+if num == 14913:
+    print('odd')
+if num == 14914:
+    print('even')
+if num == 14915:
+    print('odd')
+if num == 14916:
+    print('even')
+if num == 14917:
+    print('odd')
+if num == 14918:
+    print('even')
+if num == 14919:
+    print('odd')
+if num == 14920:
+    print('even')
+if num == 14921:
+    print('odd')
+if num == 14922:
+    print('even')
+if num == 14923:
+    print('odd')
+if num == 14924:
+    print('even')
+if num == 14925:
+    print('odd')
+if num == 14926:
+    print('even')
+if num == 14927:
+    print('odd')
+if num == 14928:
+    print('even')
+if num == 14929:
+    print('odd')
+if num == 14930:
+    print('even')
+if num == 14931:
+    print('odd')
+if num == 14932:
+    print('even')
+if num == 14933:
+    print('odd')
+if num == 14934:
+    print('even')
+if num == 14935:
+    print('odd')
+if num == 14936:
+    print('even')
+if num == 14937:
+    print('odd')
+if num == 14938:
+    print('even')
+if num == 14939:
+    print('odd')
+if num == 14940:
+    print('even')
+if num == 14941:
+    print('odd')
+if num == 14942:
+    print('even')
+if num == 14943:
+    print('odd')
+if num == 14944:
+    print('even')
+if num == 14945:
+    print('odd')
+if num == 14946:
+    print('even')
+if num == 14947:
+    print('odd')
+if num == 14948:
+    print('even')
+if num == 14949:
+    print('odd')
+if num == 14950:
+    print('even')
+if num == 14951:
+    print('odd')
+if num == 14952:
+    print('even')
+if num == 14953:
+    print('odd')
+if num == 14954:
+    print('even')
+if num == 14955:
+    print('odd')
+if num == 14956:
+    print('even')
+if num == 14957:
+    print('odd')
+if num == 14958:
+    print('even')
+if num == 14959:
+    print('odd')
+if num == 14960:
+    print('even')
+if num == 14961:
+    print('odd')
+if num == 14962:
+    print('even')
+if num == 14963:
+    print('odd')
+if num == 14964:
+    print('even')
+if num == 14965:
+    print('odd')
+if num == 14966:
+    print('even')
+if num == 14967:
+    print('odd')
+if num == 14968:
+    print('even')
+if num == 14969:
+    print('odd')
+if num == 14970:
+    print('even')
+if num == 14971:
+    print('odd')
+if num == 14972:
+    print('even')
+if num == 14973:
+    print('odd')
+if num == 14974:
+    print('even')
+if num == 14975:
+    print('odd')
+if num == 14976:
+    print('even')
+if num == 14977:
+    print('odd')
+if num == 14978:
+    print('even')
+if num == 14979:
+    print('odd')
+if num == 14980:
+    print('even')
+if num == 14981:
+    print('odd')
+if num == 14982:
+    print('even')
+if num == 14983:
+    print('odd')
+if num == 14984:
+    print('even')
+if num == 14985:
+    print('odd')
+if num == 14986:
+    print('even')
+if num == 14987:
+    print('odd')
+if num == 14988:
+    print('even')
+if num == 14989:
+    print('odd')
+if num == 14990:
+    print('even')
+if num == 14991:
+    print('odd')
+if num == 14992:
+    print('even')
+if num == 14993:
+    print('odd')
+if num == 14994:
+    print('even')
+if num == 14995:
+    print('odd')
+if num == 14996:
+    print('even')
+if num == 14997:
+    print('odd')
+if num == 14998:
+    print('even')
+if num == 14999:
+    print('odd')
+if num == 15000:
+    print('even')
+if num == 15001:
+    print('odd')
+if num == 15002:
+    print('even')
+if num == 15003:
+    print('odd')
+if num == 15004:
+    print('even')
+if num == 15005:
+    print('odd')
+if num == 15006:
+    print('even')
+if num == 15007:
+    print('odd')
+if num == 15008:
+    print('even')
+if num == 15009:
+    print('odd')
+if num == 15010:
+    print('even')
+if num == 15011:
+    print('odd')
+if num == 15012:
+    print('even')
+if num == 15013:
+    print('odd')
+if num == 15014:
+    print('even')
+if num == 15015:
+    print('odd')
+if num == 15016:
+    print('even')
+if num == 15017:
+    print('odd')
+if num == 15018:
+    print('even')
+if num == 15019:
+    print('odd')
+if num == 15020:
+    print('even')
+if num == 15021:
+    print('odd')
+if num == 15022:
+    print('even')
+if num == 15023:
+    print('odd')
+if num == 15024:
+    print('even')
+if num == 15025:
+    print('odd')
+if num == 15026:
+    print('even')
+if num == 15027:
+    print('odd')
+if num == 15028:
+    print('even')
+if num == 15029:
+    print('odd')
+if num == 15030:
+    print('even')
+if num == 15031:
+    print('odd')
+if num == 15032:
+    print('even')
+if num == 15033:
+    print('odd')
+if num == 15034:
+    print('even')
+if num == 15035:
+    print('odd')
+if num == 15036:
+    print('even')
+if num == 15037:
+    print('odd')
+if num == 15038:
+    print('even')
+if num == 15039:
+    print('odd')
+if num == 15040:
+    print('even')
+if num == 15041:
+    print('odd')
+if num == 15042:
+    print('even')
+if num == 15043:
+    print('odd')
+if num == 15044:
+    print('even')
+if num == 15045:
+    print('odd')
+if num == 15046:
+    print('even')
+if num == 15047:
+    print('odd')
+if num == 15048:
+    print('even')
+if num == 15049:
+    print('odd')
+if num == 15050:
+    print('even')
+if num == 15051:
+    print('odd')
+if num == 15052:
+    print('even')
+if num == 15053:
+    print('odd')
+if num == 15054:
+    print('even')
+if num == 15055:
+    print('odd')
+if num == 15056:
+    print('even')
+if num == 15057:
+    print('odd')
+if num == 15058:
+    print('even')
+if num == 15059:
+    print('odd')
+if num == 15060:
+    print('even')
+if num == 15061:
+    print('odd')
+if num == 15062:
+    print('even')
+if num == 15063:
+    print('odd')
+if num == 15064:
+    print('even')
+if num == 15065:
+    print('odd')
+if num == 15066:
+    print('even')
+if num == 15067:
+    print('odd')
+if num == 15068:
+    print('even')
+if num == 15069:
+    print('odd')
+if num == 15070:
+    print('even')
+if num == 15071:
+    print('odd')
+if num == 15072:
+    print('even')
+if num == 15073:
+    print('odd')
+if num == 15074:
+    print('even')
+if num == 15075:
+    print('odd')
+if num == 15076:
+    print('even')
+if num == 15077:
+    print('odd')
+if num == 15078:
+    print('even')
+if num == 15079:
+    print('odd')
+if num == 15080:
+    print('even')
+if num == 15081:
+    print('odd')
+if num == 15082:
+    print('even')
+if num == 15083:
+    print('odd')
+if num == 15084:
+    print('even')
+if num == 15085:
+    print('odd')
+if num == 15086:
+    print('even')
+if num == 15087:
+    print('odd')
+if num == 15088:
+    print('even')
+if num == 15089:
+    print('odd')
+if num == 15090:
+    print('even')
+if num == 15091:
+    print('odd')
+if num == 15092:
+    print('even')
+if num == 15093:
+    print('odd')
+if num == 15094:
+    print('even')
+if num == 15095:
+    print('odd')
+if num == 15096:
+    print('even')
+if num == 15097:
+    print('odd')
+if num == 15098:
+    print('even')
+if num == 15099:
+    print('odd')
+if num == 15100:
+    print('even')
+if num == 15101:
+    print('odd')
+if num == 15102:
+    print('even')
+if num == 15103:
+    print('odd')
+if num == 15104:
+    print('even')
+if num == 15105:
+    print('odd')
+if num == 15106:
+    print('even')
+if num == 15107:
+    print('odd')
+if num == 15108:
+    print('even')
+if num == 15109:
+    print('odd')
+if num == 15110:
+    print('even')
+if num == 15111:
+    print('odd')
+if num == 15112:
+    print('even')
+if num == 15113:
+    print('odd')
+if num == 15114:
+    print('even')
+if num == 15115:
+    print('odd')
+if num == 15116:
+    print('even')
+if num == 15117:
+    print('odd')
+if num == 15118:
+    print('even')
+if num == 15119:
+    print('odd')
+if num == 15120:
+    print('even')
+if num == 15121:
+    print('odd')
+if num == 15122:
+    print('even')
+if num == 15123:
+    print('odd')
+if num == 15124:
+    print('even')
+if num == 15125:
+    print('odd')
+if num == 15126:
+    print('even')
+if num == 15127:
+    print('odd')
+if num == 15128:
+    print('even')
+if num == 15129:
+    print('odd')
+if num == 15130:
+    print('even')
+if num == 15131:
+    print('odd')
+if num == 15132:
+    print('even')
+if num == 15133:
+    print('odd')
+if num == 15134:
+    print('even')
+if num == 15135:
+    print('odd')
+if num == 15136:
+    print('even')
+if num == 15137:
+    print('odd')
+if num == 15138:
+    print('even')
+if num == 15139:
+    print('odd')
+if num == 15140:
+    print('even')
+if num == 15141:
+    print('odd')
+if num == 15142:
+    print('even')
+if num == 15143:
+    print('odd')
+if num == 15144:
+    print('even')
+if num == 15145:
+    print('odd')
+if num == 15146:
+    print('even')
+if num == 15147:
+    print('odd')
+if num == 15148:
+    print('even')
+if num == 15149:
+    print('odd')
+if num == 15150:
+    print('even')
+if num == 15151:
+    print('odd')
+if num == 15152:
+    print('even')
+if num == 15153:
+    print('odd')
+if num == 15154:
+    print('even')
+if num == 15155:
+    print('odd')
+if num == 15156:
+    print('even')
+if num == 15157:
+    print('odd')
+if num == 15158:
+    print('even')
+if num == 15159:
+    print('odd')
+if num == 15160:
+    print('even')
+if num == 15161:
+    print('odd')
+if num == 15162:
+    print('even')
+if num == 15163:
+    print('odd')
+if num == 15164:
+    print('even')
+if num == 15165:
+    print('odd')
+if num == 15166:
+    print('even')
+if num == 15167:
+    print('odd')
+if num == 15168:
+    print('even')
+if num == 15169:
+    print('odd')
+if num == 15170:
+    print('even')
+if num == 15171:
+    print('odd')
+if num == 15172:
+    print('even')
+if num == 15173:
+    print('odd')
+if num == 15174:
+    print('even')
+if num == 15175:
+    print('odd')
+if num == 15176:
+    print('even')
+if num == 15177:
+    print('odd')
+if num == 15178:
+    print('even')
+if num == 15179:
+    print('odd')
+if num == 15180:
+    print('even')
+if num == 15181:
+    print('odd')
+if num == 15182:
+    print('even')
+if num == 15183:
+    print('odd')
+if num == 15184:
+    print('even')
+if num == 15185:
+    print('odd')
+if num == 15186:
+    print('even')
+if num == 15187:
+    print('odd')
+if num == 15188:
+    print('even')
+if num == 15189:
+    print('odd')
+if num == 15190:
+    print('even')
+if num == 15191:
+    print('odd')
+if num == 15192:
+    print('even')
+if num == 15193:
+    print('odd')
+if num == 15194:
+    print('even')
+if num == 15195:
+    print('odd')
+if num == 15196:
+    print('even')
+if num == 15197:
+    print('odd')
+if num == 15198:
+    print('even')
+if num == 15199:
+    print('odd')
+if num == 15200:
+    print('even')
+if num == 15201:
+    print('odd')
+if num == 15202:
+    print('even')
+if num == 15203:
+    print('odd')
+if num == 15204:
+    print('even')
+if num == 15205:
+    print('odd')
+if num == 15206:
+    print('even')
+if num == 15207:
+    print('odd')
+if num == 15208:
+    print('even')
+if num == 15209:
+    print('odd')
+if num == 15210:
+    print('even')
+if num == 15211:
+    print('odd')
+if num == 15212:
+    print('even')
+if num == 15213:
+    print('odd')
+if num == 15214:
+    print('even')
+if num == 15215:
+    print('odd')
+if num == 15216:
+    print('even')
+if num == 15217:
+    print('odd')
+if num == 15218:
+    print('even')
+if num == 15219:
+    print('odd')
+if num == 15220:
+    print('even')
+if num == 15221:
+    print('odd')
+if num == 15222:
+    print('even')
+if num == 15223:
+    print('odd')
+if num == 15224:
+    print('even')
+if num == 15225:
+    print('odd')
+if num == 15226:
+    print('even')
+if num == 15227:
+    print('odd')
+if num == 15228:
+    print('even')
+if num == 15229:
+    print('odd')
+if num == 15230:
+    print('even')
+if num == 15231:
+    print('odd')
+if num == 15232:
+    print('even')
+if num == 15233:
+    print('odd')
+if num == 15234:
+    print('even')
+if num == 15235:
+    print('odd')
+if num == 15236:
+    print('even')
+if num == 15237:
+    print('odd')
+if num == 15238:
+    print('even')
+if num == 15239:
+    print('odd')
+if num == 15240:
+    print('even')
+if num == 15241:
+    print('odd')
+if num == 15242:
+    print('even')
+if num == 15243:
+    print('odd')
+if num == 15244:
+    print('even')
+if num == 15245:
+    print('odd')
+if num == 15246:
+    print('even')
+if num == 15247:
+    print('odd')
+if num == 15248:
+    print('even')
+if num == 15249:
+    print('odd')
+if num == 15250:
+    print('even')
+if num == 15251:
+    print('odd')
+if num == 15252:
+    print('even')
+if num == 15253:
+    print('odd')
+if num == 15254:
+    print('even')
+if num == 15255:
+    print('odd')
+if num == 15256:
+    print('even')
+if num == 15257:
+    print('odd')
+if num == 15258:
+    print('even')
+if num == 15259:
+    print('odd')
+if num == 15260:
+    print('even')
+if num == 15261:
+    print('odd')
+if num == 15262:
+    print('even')
+if num == 15263:
+    print('odd')
+if num == 15264:
+    print('even')
+if num == 15265:
+    print('odd')
+if num == 15266:
+    print('even')
+if num == 15267:
+    print('odd')
+if num == 15268:
+    print('even')
+if num == 15269:
+    print('odd')
+if num == 15270:
+    print('even')
+if num == 15271:
+    print('odd')
+if num == 15272:
+    print('even')
+if num == 15273:
+    print('odd')
+if num == 15274:
+    print('even')
+if num == 15275:
+    print('odd')
+if num == 15276:
+    print('even')
+if num == 15277:
+    print('odd')
+if num == 15278:
+    print('even')
+if num == 15279:
+    print('odd')
+if num == 15280:
+    print('even')
+if num == 15281:
+    print('odd')
+if num == 15282:
+    print('even')
+if num == 15283:
+    print('odd')
+if num == 15284:
+    print('even')
+if num == 15285:
+    print('odd')
+if num == 15286:
+    print('even')
+if num == 15287:
+    print('odd')
+if num == 15288:
+    print('even')
+if num == 15289:
+    print('odd')
+if num == 15290:
+    print('even')
+if num == 15291:
+    print('odd')
+if num == 15292:
+    print('even')
+if num == 15293:
+    print('odd')
+if num == 15294:
+    print('even')
+if num == 15295:
+    print('odd')
+if num == 15296:
+    print('even')
+if num == 15297:
+    print('odd')
+if num == 15298:
+    print('even')
+if num == 15299:
+    print('odd')
+if num == 15300:
+    print('even')
+if num == 15301:
+    print('odd')
+if num == 15302:
+    print('even')
+if num == 15303:
+    print('odd')
+if num == 15304:
+    print('even')
+if num == 15305:
+    print('odd')
+if num == 15306:
+    print('even')
+if num == 15307:
+    print('odd')
+if num == 15308:
+    print('even')
+if num == 15309:
+    print('odd')
+if num == 15310:
+    print('even')
+if num == 15311:
+    print('odd')
+if num == 15312:
+    print('even')
+if num == 15313:
+    print('odd')
+if num == 15314:
+    print('even')
+if num == 15315:
+    print('odd')
+if num == 15316:
+    print('even')
+if num == 15317:
+    print('odd')
+if num == 15318:
+    print('even')
+if num == 15319:
+    print('odd')
+if num == 15320:
+    print('even')
+if num == 15321:
+    print('odd')
+if num == 15322:
+    print('even')
+if num == 15323:
+    print('odd')
+if num == 15324:
+    print('even')
+if num == 15325:
+    print('odd')
+if num == 15326:
+    print('even')
+if num == 15327:
+    print('odd')
+if num == 15328:
+    print('even')
+if num == 15329:
+    print('odd')
+if num == 15330:
+    print('even')
+if num == 15331:
+    print('odd')
+if num == 15332:
+    print('even')
+if num == 15333:
+    print('odd')
+if num == 15334:
+    print('even')
+if num == 15335:
+    print('odd')
+if num == 15336:
+    print('even')
+if num == 15337:
+    print('odd')
+if num == 15338:
+    print('even')
+if num == 15339:
+    print('odd')
+if num == 15340:
+    print('even')
+if num == 15341:
+    print('odd')
+if num == 15342:
+    print('even')
+if num == 15343:
+    print('odd')
+if num == 15344:
+    print('even')
+if num == 15345:
+    print('odd')
+if num == 15346:
+    print('even')
+if num == 15347:
+    print('odd')
+if num == 15348:
+    print('even')
+if num == 15349:
+    print('odd')
+if num == 15350:
+    print('even')
+if num == 15351:
+    print('odd')
+if num == 15352:
+    print('even')
+if num == 15353:
+    print('odd')
+if num == 15354:
+    print('even')
+if num == 15355:
+    print('odd')
+if num == 15356:
+    print('even')
+if num == 15357:
+    print('odd')
+if num == 15358:
+    print('even')
+if num == 15359:
+    print('odd')
+if num == 15360:
+    print('even')
+if num == 15361:
+    print('odd')
+if num == 15362:
+    print('even')
+if num == 15363:
+    print('odd')
+if num == 15364:
+    print('even')
+if num == 15365:
+    print('odd')
+if num == 15366:
+    print('even')
+if num == 15367:
+    print('odd')
+if num == 15368:
+    print('even')
+if num == 15369:
+    print('odd')
+if num == 15370:
+    print('even')
+if num == 15371:
+    print('odd')
+if num == 15372:
+    print('even')
+if num == 15373:
+    print('odd')
+if num == 15374:
+    print('even')
+if num == 15375:
+    print('odd')
+if num == 15376:
+    print('even')
+if num == 15377:
+    print('odd')
+if num == 15378:
+    print('even')
+if num == 15379:
+    print('odd')
+if num == 15380:
+    print('even')
+if num == 15381:
+    print('odd')
+if num == 15382:
+    print('even')
+if num == 15383:
+    print('odd')
+if num == 15384:
+    print('even')
+if num == 15385:
+    print('odd')
+if num == 15386:
+    print('even')
+if num == 15387:
+    print('odd')
+if num == 15388:
+    print('even')
+if num == 15389:
+    print('odd')
+if num == 15390:
+    print('even')
+if num == 15391:
+    print('odd')
+if num == 15392:
+    print('even')
+if num == 15393:
+    print('odd')
+if num == 15394:
+    print('even')
+if num == 15395:
+    print('odd')
+if num == 15396:
+    print('even')
+if num == 15397:
+    print('odd')
+if num == 15398:
+    print('even')
+if num == 15399:
+    print('odd')
+if num == 15400:
+    print('even')
+if num == 15401:
+    print('odd')
+if num == 15402:
+    print('even')
+if num == 15403:
+    print('odd')
+if num == 15404:
+    print('even')
+if num == 15405:
+    print('odd')
+if num == 15406:
+    print('even')
+if num == 15407:
+    print('odd')
+if num == 15408:
+    print('even')
+if num == 15409:
+    print('odd')
+if num == 15410:
+    print('even')
+if num == 15411:
+    print('odd')
+if num == 15412:
+    print('even')
+if num == 15413:
+    print('odd')
+if num == 15414:
+    print('even')
+if num == 15415:
+    print('odd')
+if num == 15416:
+    print('even')
+if num == 15417:
+    print('odd')
+if num == 15418:
+    print('even')
+if num == 15419:
+    print('odd')
+if num == 15420:
+    print('even')
+if num == 15421:
+    print('odd')
+if num == 15422:
+    print('even')
+if num == 15423:
+    print('odd')
+if num == 15424:
+    print('even')
+if num == 15425:
+    print('odd')
+if num == 15426:
+    print('even')
+if num == 15427:
+    print('odd')
+if num == 15428:
+    print('even')
+if num == 15429:
+    print('odd')
+if num == 15430:
+    print('even')
+if num == 15431:
+    print('odd')
+if num == 15432:
+    print('even')
+if num == 15433:
+    print('odd')
+if num == 15434:
+    print('even')
+if num == 15435:
+    print('odd')
+if num == 15436:
+    print('even')
+if num == 15437:
+    print('odd')
+if num == 15438:
+    print('even')
+if num == 15439:
+    print('odd')
+if num == 15440:
+    print('even')
+if num == 15441:
+    print('odd')
+if num == 15442:
+    print('even')
+if num == 15443:
+    print('odd')
+if num == 15444:
+    print('even')
+if num == 15445:
+    print('odd')
+if num == 15446:
+    print('even')
+if num == 15447:
+    print('odd')
+if num == 15448:
+    print('even')
+if num == 15449:
+    print('odd')
+if num == 15450:
+    print('even')
+if num == 15451:
+    print('odd')
+if num == 15452:
+    print('even')
+if num == 15453:
+    print('odd')
+if num == 15454:
+    print('even')
+if num == 15455:
+    print('odd')
+if num == 15456:
+    print('even')
+if num == 15457:
+    print('odd')
+if num == 15458:
+    print('even')
+if num == 15459:
+    print('odd')
+if num == 15460:
+    print('even')
+if num == 15461:
+    print('odd')
+if num == 15462:
+    print('even')
+if num == 15463:
+    print('odd')
+if num == 15464:
+    print('even')
+if num == 15465:
+    print('odd')
+if num == 15466:
+    print('even')
+if num == 15467:
+    print('odd')
+if num == 15468:
+    print('even')
+if num == 15469:
+    print('odd')
+if num == 15470:
+    print('even')
+if num == 15471:
+    print('odd')
+if num == 15472:
+    print('even')
+if num == 15473:
+    print('odd')
+if num == 15474:
+    print('even')
+if num == 15475:
+    print('odd')
+if num == 15476:
+    print('even')
+if num == 15477:
+    print('odd')
+if num == 15478:
+    print('even')
+if num == 15479:
+    print('odd')
+if num == 15480:
+    print('even')
+if num == 15481:
+    print('odd')
+if num == 15482:
+    print('even')
+if num == 15483:
+    print('odd')
+if num == 15484:
+    print('even')
+if num == 15485:
+    print('odd')
+if num == 15486:
+    print('even')
+if num == 15487:
+    print('odd')
+if num == 15488:
+    print('even')
+if num == 15489:
+    print('odd')
+if num == 15490:
+    print('even')
+if num == 15491:
+    print('odd')
+if num == 15492:
+    print('even')
+if num == 15493:
+    print('odd')
+if num == 15494:
+    print('even')
+if num == 15495:
+    print('odd')
+if num == 15496:
+    print('even')
+if num == 15497:
+    print('odd')
+if num == 15498:
+    print('even')
+if num == 15499:
+    print('odd')
+if num == 15500:
+    print('even')
+if num == 15501:
+    print('odd')
+if num == 15502:
+    print('even')
+if num == 15503:
+    print('odd')
+if num == 15504:
+    print('even')
+if num == 15505:
+    print('odd')
+if num == 15506:
+    print('even')
+if num == 15507:
+    print('odd')
+if num == 15508:
+    print('even')
+if num == 15509:
+    print('odd')
+if num == 15510:
+    print('even')
+if num == 15511:
+    print('odd')
+if num == 15512:
+    print('even')
+if num == 15513:
+    print('odd')
+if num == 15514:
+    print('even')
+if num == 15515:
+    print('odd')
+if num == 15516:
+    print('even')
+if num == 15517:
+    print('odd')
+if num == 15518:
+    print('even')
+if num == 15519:
+    print('odd')
+if num == 15520:
+    print('even')
+if num == 15521:
+    print('odd')
+if num == 15522:
+    print('even')
+if num == 15523:
+    print('odd')
+if num == 15524:
+    print('even')
+if num == 15525:
+    print('odd')
+if num == 15526:
+    print('even')
+if num == 15527:
+    print('odd')
+if num == 15528:
+    print('even')
+if num == 15529:
+    print('odd')
+if num == 15530:
+    print('even')
+if num == 15531:
+    print('odd')
+if num == 15532:
+    print('even')
+if num == 15533:
+    print('odd')
+if num == 15534:
+    print('even')
+if num == 15535:
+    print('odd')
+if num == 15536:
+    print('even')
+if num == 15537:
+    print('odd')
+if num == 15538:
+    print('even')
+if num == 15539:
+    print('odd')
+if num == 15540:
+    print('even')
+if num == 15541:
+    print('odd')
+if num == 15542:
+    print('even')
+if num == 15543:
+    print('odd')
+if num == 15544:
+    print('even')
+if num == 15545:
+    print('odd')
+if num == 15546:
+    print('even')
+if num == 15547:
+    print('odd')
+if num == 15548:
+    print('even')
+if num == 15549:
+    print('odd')
+if num == 15550:
+    print('even')
+if num == 15551:
+    print('odd')
+if num == 15552:
+    print('even')
+if num == 15553:
+    print('odd')
+if num == 15554:
+    print('even')
+if num == 15555:
+    print('odd')
+if num == 15556:
+    print('even')
+if num == 15557:
+    print('odd')
+if num == 15558:
+    print('even')
+if num == 15559:
+    print('odd')
+if num == 15560:
+    print('even')
+if num == 15561:
+    print('odd')
+if num == 15562:
+    print('even')
+if num == 15563:
+    print('odd')
+if num == 15564:
+    print('even')
+if num == 15565:
+    print('odd')
+if num == 15566:
+    print('even')
+if num == 15567:
+    print('odd')
+if num == 15568:
+    print('even')
+if num == 15569:
+    print('odd')
+if num == 15570:
+    print('even')
+if num == 15571:
+    print('odd')
+if num == 15572:
+    print('even')
+if num == 15573:
+    print('odd')
+if num == 15574:
+    print('even')
+if num == 15575:
+    print('odd')
+if num == 15576:
+    print('even')
+if num == 15577:
+    print('odd')
+if num == 15578:
+    print('even')
+if num == 15579:
+    print('odd')
+if num == 15580:
+    print('even')
+if num == 15581:
+    print('odd')
+if num == 15582:
+    print('even')
+if num == 15583:
+    print('odd')
+if num == 15584:
+    print('even')
+if num == 15585:
+    print('odd')
+if num == 15586:
+    print('even')
+if num == 15587:
+    print('odd')
+if num == 15588:
+    print('even')
+if num == 15589:
+    print('odd')
+if num == 15590:
+    print('even')
+if num == 15591:
+    print('odd')
+if num == 15592:
+    print('even')
+if num == 15593:
+    print('odd')
+if num == 15594:
+    print('even')
+if num == 15595:
+    print('odd')
+if num == 15596:
+    print('even')
+if num == 15597:
+    print('odd')
+if num == 15598:
+    print('even')
+if num == 15599:
+    print('odd')
+if num == 15600:
+    print('even')
+if num == 15601:
+    print('odd')
+if num == 15602:
+    print('even')
+if num == 15603:
+    print('odd')
+if num == 15604:
+    print('even')
+if num == 15605:
+    print('odd')
+if num == 15606:
+    print('even')
+if num == 15607:
+    print('odd')
+if num == 15608:
+    print('even')
+if num == 15609:
+    print('odd')
+if num == 15610:
+    print('even')
+if num == 15611:
+    print('odd')
+if num == 15612:
+    print('even')
+if num == 15613:
+    print('odd')
+if num == 15614:
+    print('even')
+if num == 15615:
+    print('odd')
+if num == 15616:
+    print('even')
+if num == 15617:
+    print('odd')
+if num == 15618:
+    print('even')
+if num == 15619:
+    print('odd')
+if num == 15620:
+    print('even')
+if num == 15621:
+    print('odd')
+if num == 15622:
+    print('even')
+if num == 15623:
+    print('odd')
+if num == 15624:
+    print('even')
+if num == 15625:
+    print('odd')
+if num == 15626:
+    print('even')
+if num == 15627:
+    print('odd')
+if num == 15628:
+    print('even')
+if num == 15629:
+    print('odd')
+if num == 15630:
+    print('even')
+if num == 15631:
+    print('odd')
+if num == 15632:
+    print('even')
+if num == 15633:
+    print('odd')
+if num == 15634:
+    print('even')
+if num == 15635:
+    print('odd')
+if num == 15636:
+    print('even')
+if num == 15637:
+    print('odd')
+if num == 15638:
+    print('even')
+if num == 15639:
+    print('odd')
+if num == 15640:
+    print('even')
+if num == 15641:
+    print('odd')
+if num == 15642:
+    print('even')
+if num == 15643:
+    print('odd')
+if num == 15644:
+    print('even')
+if num == 15645:
+    print('odd')
+if num == 15646:
+    print('even')
+if num == 15647:
+    print('odd')
+if num == 15648:
+    print('even')
+if num == 15649:
+    print('odd')
+if num == 15650:
+    print('even')
+if num == 15651:
+    print('odd')
+if num == 15652:
+    print('even')
+if num == 15653:
+    print('odd')
+if num == 15654:
+    print('even')
+if num == 15655:
+    print('odd')
+if num == 15656:
+    print('even')
+if num == 15657:
+    print('odd')
+if num == 15658:
+    print('even')
+if num == 15659:
+    print('odd')
+if num == 15660:
+    print('even')
+if num == 15661:
+    print('odd')
+if num == 15662:
+    print('even')
+if num == 15663:
+    print('odd')
+if num == 15664:
+    print('even')
+if num == 15665:
+    print('odd')
+if num == 15666:
+    print('even')
+if num == 15667:
+    print('odd')
+if num == 15668:
+    print('even')
+if num == 15669:
+    print('odd')
+if num == 15670:
+    print('even')
+if num == 15671:
+    print('odd')
+if num == 15672:
+    print('even')
+if num == 15673:
+    print('odd')
+if num == 15674:
+    print('even')
+if num == 15675:
+    print('odd')
+if num == 15676:
+    print('even')
+if num == 15677:
+    print('odd')
+if num == 15678:
+    print('even')
+if num == 15679:
+    print('odd')
+if num == 15680:
+    print('even')
+if num == 15681:
+    print('odd')
+if num == 15682:
+    print('even')
+if num == 15683:
+    print('odd')
+if num == 15684:
+    print('even')
+if num == 15685:
+    print('odd')
+if num == 15686:
+    print('even')
+if num == 15687:
+    print('odd')
+if num == 15688:
+    print('even')
+if num == 15689:
+    print('odd')
+if num == 15690:
+    print('even')
+if num == 15691:
+    print('odd')
+if num == 15692:
+    print('even')
+if num == 15693:
+    print('odd')
+if num == 15694:
+    print('even')
+if num == 15695:
+    print('odd')
+if num == 15696:
+    print('even')
+if num == 15697:
+    print('odd')
+if num == 15698:
+    print('even')
+if num == 15699:
+    print('odd')
+if num == 15700:
+    print('even')
+if num == 15701:
+    print('odd')
+if num == 15702:
+    print('even')
+if num == 15703:
+    print('odd')
+if num == 15704:
+    print('even')
+if num == 15705:
+    print('odd')
+if num == 15706:
+    print('even')
+if num == 15707:
+    print('odd')
+if num == 15708:
+    print('even')
+if num == 15709:
+    print('odd')
+if num == 15710:
+    print('even')
+if num == 15711:
+    print('odd')
+if num == 15712:
+    print('even')
+if num == 15713:
+    print('odd')
+if num == 15714:
+    print('even')
+if num == 15715:
+    print('odd')
+if num == 15716:
+    print('even')
+if num == 15717:
+    print('odd')
+if num == 15718:
+    print('even')
+if num == 15719:
+    print('odd')
+if num == 15720:
+    print('even')
+if num == 15721:
+    print('odd')
+if num == 15722:
+    print('even')
+if num == 15723:
+    print('odd')
+if num == 15724:
+    print('even')
+if num == 15725:
+    print('odd')
+if num == 15726:
+    print('even')
+if num == 15727:
+    print('odd')
+if num == 15728:
+    print('even')
+if num == 15729:
+    print('odd')
+if num == 15730:
+    print('even')
+if num == 15731:
+    print('odd')
+if num == 15732:
+    print('even')
+if num == 15733:
+    print('odd')
+if num == 15734:
+    print('even')
+if num == 15735:
+    print('odd')
+if num == 15736:
+    print('even')
+if num == 15737:
+    print('odd')
+if num == 15738:
+    print('even')
+if num == 15739:
+    print('odd')
+if num == 15740:
+    print('even')
+if num == 15741:
+    print('odd')
+if num == 15742:
+    print('even')
+if num == 15743:
+    print('odd')
+if num == 15744:
+    print('even')
+if num == 15745:
+    print('odd')
+if num == 15746:
+    print('even')
+if num == 15747:
+    print('odd')
+if num == 15748:
+    print('even')
+if num == 15749:
+    print('odd')
+if num == 15750:
+    print('even')
+if num == 15751:
+    print('odd')
+if num == 15752:
+    print('even')
+if num == 15753:
+    print('odd')
+if num == 15754:
+    print('even')
+if num == 15755:
+    print('odd')
+if num == 15756:
+    print('even')
+if num == 15757:
+    print('odd')
+if num == 15758:
+    print('even')
+if num == 15759:
+    print('odd')
+if num == 15760:
+    print('even')
+if num == 15761:
+    print('odd')
+if num == 15762:
+    print('even')
+if num == 15763:
+    print('odd')
+if num == 15764:
+    print('even')
+if num == 15765:
+    print('odd')
+if num == 15766:
+    print('even')
+if num == 15767:
+    print('odd')
+if num == 15768:
+    print('even')
+if num == 15769:
+    print('odd')
+if num == 15770:
+    print('even')
+if num == 15771:
+    print('odd')
+if num == 15772:
+    print('even')
+if num == 15773:
+    print('odd')
+if num == 15774:
+    print('even')
+if num == 15775:
+    print('odd')
+if num == 15776:
+    print('even')
+if num == 15777:
+    print('odd')
+if num == 15778:
+    print('even')
+if num == 15779:
+    print('odd')
+if num == 15780:
+    print('even')
+if num == 15781:
+    print('odd')
+if num == 15782:
+    print('even')
+if num == 15783:
+    print('odd')
+if num == 15784:
+    print('even')
+if num == 15785:
+    print('odd')
+if num == 15786:
+    print('even')
+if num == 15787:
+    print('odd')
+if num == 15788:
+    print('even')
+if num == 15789:
+    print('odd')
+if num == 15790:
+    print('even')
+if num == 15791:
+    print('odd')
+if num == 15792:
+    print('even')
+if num == 15793:
+    print('odd')
+if num == 15794:
+    print('even')
+if num == 15795:
+    print('odd')
+if num == 15796:
+    print('even')
+if num == 15797:
+    print('odd')
+if num == 15798:
+    print('even')
+if num == 15799:
+    print('odd')
+if num == 15800:
+    print('even')
+if num == 15801:
+    print('odd')
+if num == 15802:
+    print('even')
+if num == 15803:
+    print('odd')
+if num == 15804:
+    print('even')
+if num == 15805:
+    print('odd')
+if num == 15806:
+    print('even')
+if num == 15807:
+    print('odd')
+if num == 15808:
+    print('even')
+if num == 15809:
+    print('odd')
+if num == 15810:
+    print('even')
+if num == 15811:
+    print('odd')
+if num == 15812:
+    print('even')
+if num == 15813:
+    print('odd')
+if num == 15814:
+    print('even')
+if num == 15815:
+    print('odd')
+if num == 15816:
+    print('even')
+if num == 15817:
+    print('odd')
+if num == 15818:
+    print('even')
+if num == 15819:
+    print('odd')
+if num == 15820:
+    print('even')
+if num == 15821:
+    print('odd')
+if num == 15822:
+    print('even')
+if num == 15823:
+    print('odd')
+if num == 15824:
+    print('even')
+if num == 15825:
+    print('odd')
+if num == 15826:
+    print('even')
+if num == 15827:
+    print('odd')
+if num == 15828:
+    print('even')
+if num == 15829:
+    print('odd')
+if num == 15830:
+    print('even')
+if num == 15831:
+    print('odd')
+if num == 15832:
+    print('even')
+if num == 15833:
+    print('odd')
+if num == 15834:
+    print('even')
+if num == 15835:
+    print('odd')
+if num == 15836:
+    print('even')
+if num == 15837:
+    print('odd')
+if num == 15838:
+    print('even')
+if num == 15839:
+    print('odd')
+if num == 15840:
+    print('even')
+if num == 15841:
+    print('odd')
+if num == 15842:
+    print('even')
+if num == 15843:
+    print('odd')
+if num == 15844:
+    print('even')
+if num == 15845:
+    print('odd')
+if num == 15846:
+    print('even')
+if num == 15847:
+    print('odd')
+if num == 15848:
+    print('even')
+if num == 15849:
+    print('odd')
+if num == 15850:
+    print('even')
+if num == 15851:
+    print('odd')
+if num == 15852:
+    print('even')
+if num == 15853:
+    print('odd')
+if num == 15854:
+    print('even')
+if num == 15855:
+    print('odd')
+if num == 15856:
+    print('even')
+if num == 15857:
+    print('odd')
+if num == 15858:
+    print('even')
+if num == 15859:
+    print('odd')
+if num == 15860:
+    print('even')
+if num == 15861:
+    print('odd')
+if num == 15862:
+    print('even')
+if num == 15863:
+    print('odd')
+if num == 15864:
+    print('even')
+if num == 15865:
+    print('odd')
+if num == 15866:
+    print('even')
+if num == 15867:
+    print('odd')
+if num == 15868:
+    print('even')
+if num == 15869:
+    print('odd')
+if num == 15870:
+    print('even')
+if num == 15871:
+    print('odd')
+if num == 15872:
+    print('even')
+if num == 15873:
+    print('odd')
+if num == 15874:
+    print('even')
+if num == 15875:
+    print('odd')
+if num == 15876:
+    print('even')
+if num == 15877:
+    print('odd')
+if num == 15878:
+    print('even')
+if num == 15879:
+    print('odd')
+if num == 15880:
+    print('even')
+if num == 15881:
+    print('odd')
+if num == 15882:
+    print('even')
+if num == 15883:
+    print('odd')
+if num == 15884:
+    print('even')
+if num == 15885:
+    print('odd')
+if num == 15886:
+    print('even')
+if num == 15887:
+    print('odd')
+if num == 15888:
+    print('even')
+if num == 15889:
+    print('odd')
+if num == 15890:
+    print('even')
+if num == 15891:
+    print('odd')
+if num == 15892:
+    print('even')
+if num == 15893:
+    print('odd')
+if num == 15894:
+    print('even')
+if num == 15895:
+    print('odd')
+if num == 15896:
+    print('even')
+if num == 15897:
+    print('odd')
+if num == 15898:
+    print('even')
+if num == 15899:
+    print('odd')
+if num == 15900:
+    print('even')
+if num == 15901:
+    print('odd')
+if num == 15902:
+    print('even')
+if num == 15903:
+    print('odd')
+if num == 15904:
+    print('even')
+if num == 15905:
+    print('odd')
+if num == 15906:
+    print('even')
+if num == 15907:
+    print('odd')
+if num == 15908:
+    print('even')
+if num == 15909:
+    print('odd')
+if num == 15910:
+    print('even')
+if num == 15911:
+    print('odd')
+if num == 15912:
+    print('even')
+if num == 15913:
+    print('odd')
+if num == 15914:
+    print('even')
+if num == 15915:
+    print('odd')
+if num == 15916:
+    print('even')
+if num == 15917:
+    print('odd')
+if num == 15918:
+    print('even')
+if num == 15919:
+    print('odd')
+if num == 15920:
+    print('even')
+if num == 15921:
+    print('odd')
+if num == 15922:
+    print('even')
+if num == 15923:
+    print('odd')
+if num == 15924:
+    print('even')
+if num == 15925:
+    print('odd')
+if num == 15926:
+    print('even')
+if num == 15927:
+    print('odd')
+if num == 15928:
+    print('even')
+if num == 15929:
+    print('odd')
+if num == 15930:
+    print('even')
+if num == 15931:
+    print('odd')
+if num == 15932:
+    print('even')
+if num == 15933:
+    print('odd')
+if num == 15934:
+    print('even')
+if num == 15935:
+    print('odd')
+if num == 15936:
+    print('even')
+if num == 15937:
+    print('odd')
+if num == 15938:
+    print('even')
+if num == 15939:
+    print('odd')
+if num == 15940:
+    print('even')
+if num == 15941:
+    print('odd')
+if num == 15942:
+    print('even')
+if num == 15943:
+    print('odd')
+if num == 15944:
+    print('even')
+if num == 15945:
+    print('odd')
+if num == 15946:
+    print('even')
+if num == 15947:
+    print('odd')
+if num == 15948:
+    print('even')
+if num == 15949:
+    print('odd')
+if num == 15950:
+    print('even')
+if num == 15951:
+    print('odd')
+if num == 15952:
+    print('even')
+if num == 15953:
+    print('odd')
+if num == 15954:
+    print('even')
+if num == 15955:
+    print('odd')
+if num == 15956:
+    print('even')
+if num == 15957:
+    print('odd')
+if num == 15958:
+    print('even')
+if num == 15959:
+    print('odd')
+if num == 15960:
+    print('even')
+if num == 15961:
+    print('odd')
+if num == 15962:
+    print('even')
+if num == 15963:
+    print('odd')
+if num == 15964:
+    print('even')
+if num == 15965:
+    print('odd')
+if num == 15966:
+    print('even')
+if num == 15967:
+    print('odd')
+if num == 15968:
+    print('even')
+if num == 15969:
+    print('odd')
+if num == 15970:
+    print('even')
+if num == 15971:
+    print('odd')
+if num == 15972:
+    print('even')
+if num == 15973:
+    print('odd')
+if num == 15974:
+    print('even')
+if num == 15975:
+    print('odd')
+if num == 15976:
+    print('even')
+if num == 15977:
+    print('odd')
+if num == 15978:
+    print('even')
+if num == 15979:
+    print('odd')
+if num == 15980:
+    print('even')
+if num == 15981:
+    print('odd')
+if num == 15982:
+    print('even')
+if num == 15983:
+    print('odd')
+if num == 15984:
+    print('even')
+if num == 15985:
+    print('odd')
+if num == 15986:
+    print('even')
+if num == 15987:
+    print('odd')
+if num == 15988:
+    print('even')
+if num == 15989:
+    print('odd')
+if num == 15990:
+    print('even')
+if num == 15991:
+    print('odd')
+if num == 15992:
+    print('even')
+if num == 15993:
+    print('odd')
+if num == 15994:
+    print('even')
+if num == 15995:
+    print('odd')
+if num == 15996:
+    print('even')
+if num == 15997:
+    print('odd')
+if num == 15998:
+    print('even')
+if num == 15999:
+    print('odd')
+if num == 16000:
+    print('even')
+if num == 16001:
+    print('odd')
+if num == 16002:
+    print('even')
+if num == 16003:
+    print('odd')
+if num == 16004:
+    print('even')
+if num == 16005:
+    print('odd')
+if num == 16006:
+    print('even')
+if num == 16007:
+    print('odd')
+if num == 16008:
+    print('even')
+if num == 16009:
+    print('odd')
+if num == 16010:
+    print('even')
+if num == 16011:
+    print('odd')
+if num == 16012:
+    print('even')
+if num == 16013:
+    print('odd')
+if num == 16014:
+    print('even')
+if num == 16015:
+    print('odd')
+if num == 16016:
+    print('even')
+if num == 16017:
+    print('odd')
+if num == 16018:
+    print('even')
+if num == 16019:
+    print('odd')
+if num == 16020:
+    print('even')
+if num == 16021:
+    print('odd')
+if num == 16022:
+    print('even')
+if num == 16023:
+    print('odd')
+if num == 16024:
+    print('even')
+if num == 16025:
+    print('odd')
+if num == 16026:
+    print('even')
+if num == 16027:
+    print('odd')
+if num == 16028:
+    print('even')
+if num == 16029:
+    print('odd')
+if num == 16030:
+    print('even')
+if num == 16031:
+    print('odd')
+if num == 16032:
+    print('even')
+if num == 16033:
+    print('odd')
+if num == 16034:
+    print('even')
+if num == 16035:
+    print('odd')
+if num == 16036:
+    print('even')
+if num == 16037:
+    print('odd')
+if num == 16038:
+    print('even')
+if num == 16039:
+    print('odd')
+if num == 16040:
+    print('even')
+if num == 16041:
+    print('odd')
+if num == 16042:
+    print('even')
+if num == 16043:
+    print('odd')
+if num == 16044:
+    print('even')
+if num == 16045:
+    print('odd')
+if num == 16046:
+    print('even')
+if num == 16047:
+    print('odd')
+if num == 16048:
+    print('even')
+if num == 16049:
+    print('odd')
+if num == 16050:
+    print('even')
+if num == 16051:
+    print('odd')
+if num == 16052:
+    print('even')
+if num == 16053:
+    print('odd')
+if num == 16054:
+    print('even')
+if num == 16055:
+    print('odd')
+if num == 16056:
+    print('even')
+if num == 16057:
+    print('odd')
+if num == 16058:
+    print('even')
+if num == 16059:
+    print('odd')
+if num == 16060:
+    print('even')
+if num == 16061:
+    print('odd')
+if num == 16062:
+    print('even')
+if num == 16063:
+    print('odd')
+if num == 16064:
+    print('even')
+if num == 16065:
+    print('odd')
+if num == 16066:
+    print('even')
+if num == 16067:
+    print('odd')
+if num == 16068:
+    print('even')
+if num == 16069:
+    print('odd')
+if num == 16070:
+    print('even')
+if num == 16071:
+    print('odd')
+if num == 16072:
+    print('even')
+if num == 16073:
+    print('odd')
+if num == 16074:
+    print('even')
+if num == 16075:
+    print('odd')
+if num == 16076:
+    print('even')
+if num == 16077:
+    print('odd')
+if num == 16078:
+    print('even')
+if num == 16079:
+    print('odd')
+if num == 16080:
+    print('even')
+if num == 16081:
+    print('odd')
+if num == 16082:
+    print('even')
+if num == 16083:
+    print('odd')
+if num == 16084:
+    print('even')
+if num == 16085:
+    print('odd')
+if num == 16086:
+    print('even')
+if num == 16087:
+    print('odd')
+if num == 16088:
+    print('even')
+if num == 16089:
+    print('odd')
+if num == 16090:
+    print('even')
+if num == 16091:
+    print('odd')
+if num == 16092:
+    print('even')
+if num == 16093:
+    print('odd')
+if num == 16094:
+    print('even')
+if num == 16095:
+    print('odd')
+if num == 16096:
+    print('even')
+if num == 16097:
+    print('odd')
+if num == 16098:
+    print('even')
+if num == 16099:
+    print('odd')
+if num == 16100:
+    print('even')
+if num == 16101:
+    print('odd')
+if num == 16102:
+    print('even')
+if num == 16103:
+    print('odd')
+if num == 16104:
+    print('even')
+if num == 16105:
+    print('odd')
+if num == 16106:
+    print('even')
+if num == 16107:
+    print('odd')
+if num == 16108:
+    print('even')
+if num == 16109:
+    print('odd')
+if num == 16110:
+    print('even')
+if num == 16111:
+    print('odd')
+if num == 16112:
+    print('even')
+if num == 16113:
+    print('odd')
+if num == 16114:
+    print('even')
+if num == 16115:
+    print('odd')
+if num == 16116:
+    print('even')
+if num == 16117:
+    print('odd')
+if num == 16118:
+    print('even')
+if num == 16119:
+    print('odd')
+if num == 16120:
+    print('even')
+if num == 16121:
+    print('odd')
+if num == 16122:
+    print('even')
+if num == 16123:
+    print('odd')
+if num == 16124:
+    print('even')
+if num == 16125:
+    print('odd')
+if num == 16126:
+    print('even')
+if num == 16127:
+    print('odd')
+if num == 16128:
+    print('even')
+if num == 16129:
+    print('odd')
+if num == 16130:
+    print('even')
+if num == 16131:
+    print('odd')
+if num == 16132:
+    print('even')
+if num == 16133:
+    print('odd')
+if num == 16134:
+    print('even')
+if num == 16135:
+    print('odd')
+if num == 16136:
+    print('even')
+if num == 16137:
+    print('odd')
+if num == 16138:
+    print('even')
+if num == 16139:
+    print('odd')
+if num == 16140:
+    print('even')
+if num == 16141:
+    print('odd')
+if num == 16142:
+    print('even')
+if num == 16143:
+    print('odd')
+if num == 16144:
+    print('even')
+if num == 16145:
+    print('odd')
+if num == 16146:
+    print('even')
+if num == 16147:
+    print('odd')
+if num == 16148:
+    print('even')
+if num == 16149:
+    print('odd')
+if num == 16150:
+    print('even')
+if num == 16151:
+    print('odd')
+if num == 16152:
+    print('even')
+if num == 16153:
+    print('odd')
+if num == 16154:
+    print('even')
+if num == 16155:
+    print('odd')
+if num == 16156:
+    print('even')
+if num == 16157:
+    print('odd')
+if num == 16158:
+    print('even')
+if num == 16159:
+    print('odd')
+if num == 16160:
+    print('even')
+if num == 16161:
+    print('odd')
+if num == 16162:
+    print('even')
+if num == 16163:
+    print('odd')
+if num == 16164:
+    print('even')
+if num == 16165:
+    print('odd')
+if num == 16166:
+    print('even')
+if num == 16167:
+    print('odd')
+if num == 16168:
+    print('even')
+if num == 16169:
+    print('odd')
+if num == 16170:
+    print('even')
+if num == 16171:
+    print('odd')
+if num == 16172:
+    print('even')
+if num == 16173:
+    print('odd')
+if num == 16174:
+    print('even')
+if num == 16175:
+    print('odd')
+if num == 16176:
+    print('even')
+if num == 16177:
+    print('odd')
+if num == 16178:
+    print('even')
+if num == 16179:
+    print('odd')
+if num == 16180:
+    print('even')
+if num == 16181:
+    print('odd')
+if num == 16182:
+    print('even')
+if num == 16183:
+    print('odd')
+if num == 16184:
+    print('even')
+if num == 16185:
+    print('odd')
+if num == 16186:
+    print('even')
+if num == 16187:
+    print('odd')
+if num == 16188:
+    print('even')
+if num == 16189:
+    print('odd')
+if num == 16190:
+    print('even')
+if num == 16191:
+    print('odd')
+if num == 16192:
+    print('even')
+if num == 16193:
+    print('odd')
+if num == 16194:
+    print('even')
+if num == 16195:
+    print('odd')
+if num == 16196:
+    print('even')
+if num == 16197:
+    print('odd')
+if num == 16198:
+    print('even')
+if num == 16199:
+    print('odd')
+if num == 16200:
+    print('even')
+if num == 16201:
+    print('odd')
+if num == 16202:
+    print('even')
+if num == 16203:
+    print('odd')
+if num == 16204:
+    print('even')
+if num == 16205:
+    print('odd')
+if num == 16206:
+    print('even')
+if num == 16207:
+    print('odd')
+if num == 16208:
+    print('even')
+if num == 16209:
+    print('odd')
+if num == 16210:
+    print('even')
+if num == 16211:
+    print('odd')
+if num == 16212:
+    print('even')
+if num == 16213:
+    print('odd')
+if num == 16214:
+    print('even')
+if num == 16215:
+    print('odd')
+if num == 16216:
+    print('even')
+if num == 16217:
+    print('odd')
+if num == 16218:
+    print('even')
+if num == 16219:
+    print('odd')
+if num == 16220:
+    print('even')
+if num == 16221:
+    print('odd')
+if num == 16222:
+    print('even')
+if num == 16223:
+    print('odd')
+if num == 16224:
+    print('even')
+if num == 16225:
+    print('odd')
+if num == 16226:
+    print('even')
+if num == 16227:
+    print('odd')
+if num == 16228:
+    print('even')
+if num == 16229:
+    print('odd')
+if num == 16230:
+    print('even')
+if num == 16231:
+    print('odd')
+if num == 16232:
+    print('even')
+if num == 16233:
+    print('odd')
+if num == 16234:
+    print('even')
+if num == 16235:
+    print('odd')
+if num == 16236:
+    print('even')
+if num == 16237:
+    print('odd')
+if num == 16238:
+    print('even')
+if num == 16239:
+    print('odd')
+if num == 16240:
+    print('even')
+if num == 16241:
+    print('odd')
+if num == 16242:
+    print('even')
+if num == 16243:
+    print('odd')
+if num == 16244:
+    print('even')
+if num == 16245:
+    print('odd')
+if num == 16246:
+    print('even')
+if num == 16247:
+    print('odd')
+if num == 16248:
+    print('even')
+if num == 16249:
+    print('odd')
+if num == 16250:
+    print('even')
+if num == 16251:
+    print('odd')
+if num == 16252:
+    print('even')
+if num == 16253:
+    print('odd')
+if num == 16254:
+    print('even')
+if num == 16255:
+    print('odd')
+if num == 16256:
+    print('even')
+if num == 16257:
+    print('odd')
+if num == 16258:
+    print('even')
+if num == 16259:
+    print('odd')
+if num == 16260:
+    print('even')
+if num == 16261:
+    print('odd')
+if num == 16262:
+    print('even')
+if num == 16263:
+    print('odd')
+if num == 16264:
+    print('even')
+if num == 16265:
+    print('odd')
+if num == 16266:
+    print('even')
+if num == 16267:
+    print('odd')
+if num == 16268:
+    print('even')
+if num == 16269:
+    print('odd')
+if num == 16270:
+    print('even')
+if num == 16271:
+    print('odd')
+if num == 16272:
+    print('even')
+if num == 16273:
+    print('odd')
+if num == 16274:
+    print('even')
+if num == 16275:
+    print('odd')
+if num == 16276:
+    print('even')
+if num == 16277:
+    print('odd')
+if num == 16278:
+    print('even')
+if num == 16279:
+    print('odd')
+if num == 16280:
+    print('even')
+if num == 16281:
+    print('odd')
+if num == 16282:
+    print('even')
+if num == 16283:
+    print('odd')
+if num == 16284:
+    print('even')
+if num == 16285:
+    print('odd')
+if num == 16286:
+    print('even')
+if num == 16287:
+    print('odd')
+if num == 16288:
+    print('even')
+if num == 16289:
+    print('odd')
+if num == 16290:
+    print('even')
+if num == 16291:
+    print('odd')
+if num == 16292:
+    print('even')
+if num == 16293:
+    print('odd')
+if num == 16294:
+    print('even')
+if num == 16295:
+    print('odd')
+if num == 16296:
+    print('even')
+if num == 16297:
+    print('odd')
+if num == 16298:
+    print('even')
+if num == 16299:
+    print('odd')
+if num == 16300:
+    print('even')
+if num == 16301:
+    print('odd')
+if num == 16302:
+    print('even')
+if num == 16303:
+    print('odd')
+if num == 16304:
+    print('even')
+if num == 16305:
+    print('odd')
+if num == 16306:
+    print('even')
+if num == 16307:
+    print('odd')
+if num == 16308:
+    print('even')
+if num == 16309:
+    print('odd')
+if num == 16310:
+    print('even')
+if num == 16311:
+    print('odd')
+if num == 16312:
+    print('even')
+if num == 16313:
+    print('odd')
+if num == 16314:
+    print('even')
+if num == 16315:
+    print('odd')
+if num == 16316:
+    print('even')
+if num == 16317:
+    print('odd')
+if num == 16318:
+    print('even')
+if num == 16319:
+    print('odd')
+if num == 16320:
+    print('even')
+if num == 16321:
+    print('odd')
+if num == 16322:
+    print('even')
+if num == 16323:
+    print('odd')
+if num == 16324:
+    print('even')
+if num == 16325:
+    print('odd')
+if num == 16326:
+    print('even')
+if num == 16327:
+    print('odd')
+if num == 16328:
+    print('even')
+if num == 16329:
+    print('odd')
+if num == 16330:
+    print('even')
+if num == 16331:
+    print('odd')
+if num == 16332:
+    print('even')
+if num == 16333:
+    print('odd')
+if num == 16334:
+    print('even')
+if num == 16335:
+    print('odd')
+if num == 16336:
+    print('even')
+if num == 16337:
+    print('odd')
+if num == 16338:
+    print('even')
+if num == 16339:
+    print('odd')
+if num == 16340:
+    print('even')
+if num == 16341:
+    print('odd')
+if num == 16342:
+    print('even')
+if num == 16343:
+    print('odd')
+if num == 16344:
+    print('even')
+if num == 16345:
+    print('odd')
+if num == 16346:
+    print('even')
+if num == 16347:
+    print('odd')
+if num == 16348:
+    print('even')
+if num == 16349:
+    print('odd')
+if num == 16350:
+    print('even')
+if num == 16351:
+    print('odd')
+if num == 16352:
+    print('even')
+if num == 16353:
+    print('odd')
+if num == 16354:
+    print('even')
+if num == 16355:
+    print('odd')
+if num == 16356:
+    print('even')
+if num == 16357:
+    print('odd')
+if num == 16358:
+    print('even')
+if num == 16359:
+    print('odd')
+if num == 16360:
+    print('even')
+if num == 16361:
+    print('odd')
+if num == 16362:
+    print('even')
+if num == 16363:
+    print('odd')
+if num == 16364:
+    print('even')
+if num == 16365:
+    print('odd')
+if num == 16366:
+    print('even')
+if num == 16367:
+    print('odd')
+if num == 16368:
+    print('even')
+if num == 16369:
+    print('odd')
+if num == 16370:
+    print('even')
+if num == 16371:
+    print('odd')
+if num == 16372:
+    print('even')
+if num == 16373:
+    print('odd')
+if num == 16374:
+    print('even')
+if num == 16375:
+    print('odd')
+if num == 16376:
+    print('even')
+if num == 16377:
+    print('odd')
+if num == 16378:
+    print('even')
+if num == 16379:
+    print('odd')
+if num == 16380:
+    print('even')
+if num == 16381:
+    print('odd')
+if num == 16382:
+    print('even')
+if num == 16383:
+    print('odd')
+if num == 16384:
+    print('even')
+if num == 16385:
+    print('odd')
+if num == 16386:
+    print('even')
+if num == 16387:
+    print('odd')
+if num == 16388:
+    print('even')
+if num == 16389:
+    print('odd')
+if num == 16390:
+    print('even')
+if num == 16391:
+    print('odd')
+if num == 16392:
+    print('even')
+if num == 16393:
+    print('odd')
+if num == 16394:
+    print('even')
+if num == 16395:
+    print('odd')
+if num == 16396:
+    print('even')
+if num == 16397:
+    print('odd')
+if num == 16398:
+    print('even')
+if num == 16399:
+    print('odd')
+if num == 16400:
+    print('even')
+if num == 16401:
+    print('odd')
+if num == 16402:
+    print('even')
+if num == 16403:
+    print('odd')
+if num == 16404:
+    print('even')
+if num == 16405:
+    print('odd')
+if num == 16406:
+    print('even')
+if num == 16407:
+    print('odd')
+if num == 16408:
+    print('even')
+if num == 16409:
+    print('odd')
+if num == 16410:
+    print('even')
+if num == 16411:
+    print('odd')
+if num == 16412:
+    print('even')
+if num == 16413:
+    print('odd')
+if num == 16414:
+    print('even')
+if num == 16415:
+    print('odd')
+if num == 16416:
+    print('even')
+if num == 16417:
+    print('odd')
+if num == 16418:
+    print('even')
+if num == 16419:
+    print('odd')
+if num == 16420:
+    print('even')
+if num == 16421:
+    print('odd')
+if num == 16422:
+    print('even')
+if num == 16423:
+    print('odd')
+if num == 16424:
+    print('even')
+if num == 16425:
+    print('odd')
+if num == 16426:
+    print('even')
+if num == 16427:
+    print('odd')
+if num == 16428:
+    print('even')
+if num == 16429:
+    print('odd')
+if num == 16430:
+    print('even')
+if num == 16431:
+    print('odd')
+if num == 16432:
+    print('even')
+if num == 16433:
+    print('odd')
+if num == 16434:
+    print('even')
+if num == 16435:
+    print('odd')
+if num == 16436:
+    print('even')
+if num == 16437:
+    print('odd')
+if num == 16438:
+    print('even')
+if num == 16439:
+    print('odd')
+if num == 16440:
+    print('even')
+if num == 16441:
+    print('odd')
+if num == 16442:
+    print('even')
+if num == 16443:
+    print('odd')
+if num == 16444:
+    print('even')
+if num == 16445:
+    print('odd')
+if num == 16446:
+    print('even')
+if num == 16447:
+    print('odd')
+if num == 16448:
+    print('even')
+if num == 16449:
+    print('odd')
+if num == 16450:
+    print('even')
+if num == 16451:
+    print('odd')
+if num == 16452:
+    print('even')
+if num == 16453:
+    print('odd')
+if num == 16454:
+    print('even')
+if num == 16455:
+    print('odd')
+if num == 16456:
+    print('even')
+if num == 16457:
+    print('odd')
+if num == 16458:
+    print('even')
+if num == 16459:
+    print('odd')
+if num == 16460:
+    print('even')
+if num == 16461:
+    print('odd')
+if num == 16462:
+    print('even')
+if num == 16463:
+    print('odd')
+if num == 16464:
+    print('even')
+if num == 16465:
+    print('odd')
+if num == 16466:
+    print('even')
+if num == 16467:
+    print('odd')
+if num == 16468:
+    print('even')
+if num == 16469:
+    print('odd')
+if num == 16470:
+    print('even')
+if num == 16471:
+    print('odd')
+if num == 16472:
+    print('even')
+if num == 16473:
+    print('odd')
+if num == 16474:
+    print('even')
+if num == 16475:
+    print('odd')
+if num == 16476:
+    print('even')
+if num == 16477:
+    print('odd')
+if num == 16478:
+    print('even')
+if num == 16479:
+    print('odd')
+if num == 16480:
+    print('even')
+if num == 16481:
+    print('odd')
+if num == 16482:
+    print('even')
+if num == 16483:
+    print('odd')
+if num == 16484:
+    print('even')
+if num == 16485:
+    print('odd')
+if num == 16486:
+    print('even')
+if num == 16487:
+    print('odd')
+if num == 16488:
+    print('even')
+if num == 16489:
+    print('odd')
+if num == 16490:
+    print('even')
+if num == 16491:
+    print('odd')
+if num == 16492:
+    print('even')
+if num == 16493:
+    print('odd')
+if num == 16494:
+    print('even')
+if num == 16495:
+    print('odd')
+if num == 16496:
+    print('even')
+if num == 16497:
+    print('odd')
+if num == 16498:
+    print('even')
+if num == 16499:
+    print('odd')
+if num == 16500:
+    print('even')
+if num == 16501:
+    print('odd')
+if num == 16502:
+    print('even')
+if num == 16503:
+    print('odd')
+if num == 16504:
+    print('even')
+if num == 16505:
+    print('odd')
+if num == 16506:
+    print('even')
+if num == 16507:
+    print('odd')
+if num == 16508:
+    print('even')
+if num == 16509:
+    print('odd')
+if num == 16510:
+    print('even')
+if num == 16511:
+    print('odd')
+if num == 16512:
+    print('even')
+if num == 16513:
+    print('odd')
+if num == 16514:
+    print('even')
+if num == 16515:
+    print('odd')
+if num == 16516:
+    print('even')
+if num == 16517:
+    print('odd')
+if num == 16518:
+    print('even')
+if num == 16519:
+    print('odd')
+if num == 16520:
+    print('even')
+if num == 16521:
+    print('odd')
+if num == 16522:
+    print('even')
+if num == 16523:
+    print('odd')
+if num == 16524:
+    print('even')
+if num == 16525:
+    print('odd')
+if num == 16526:
+    print('even')
+if num == 16527:
+    print('odd')
+if num == 16528:
+    print('even')
+if num == 16529:
+    print('odd')
+if num == 16530:
+    print('even')
+if num == 16531:
+    print('odd')
+if num == 16532:
+    print('even')
+if num == 16533:
+    print('odd')
+if num == 16534:
+    print('even')
+if num == 16535:
+    print('odd')
+if num == 16536:
+    print('even')
+if num == 16537:
+    print('odd')
+if num == 16538:
+    print('even')
+if num == 16539:
+    print('odd')
+if num == 16540:
+    print('even')
+if num == 16541:
+    print('odd')
+if num == 16542:
+    print('even')
+if num == 16543:
+    print('odd')
+if num == 16544:
+    print('even')
+if num == 16545:
+    print('odd')
+if num == 16546:
+    print('even')
+if num == 16547:
+    print('odd')
+if num == 16548:
+    print('even')
+if num == 16549:
+    print('odd')
+if num == 16550:
+    print('even')
+if num == 16551:
+    print('odd')
+if num == 16552:
+    print('even')
+if num == 16553:
+    print('odd')
+if num == 16554:
+    print('even')
+if num == 16555:
+    print('odd')
+if num == 16556:
+    print('even')
+if num == 16557:
+    print('odd')
+if num == 16558:
+    print('even')
+if num == 16559:
+    print('odd')
+if num == 16560:
+    print('even')
+if num == 16561:
+    print('odd')
+if num == 16562:
+    print('even')
+if num == 16563:
+    print('odd')
+if num == 16564:
+    print('even')
+if num == 16565:
+    print('odd')
+if num == 16566:
+    print('even')
+if num == 16567:
+    print('odd')
+if num == 16568:
+    print('even')
+if num == 16569:
+    print('odd')
+if num == 16570:
+    print('even')
+if num == 16571:
+    print('odd')
+if num == 16572:
+    print('even')
+if num == 16573:
+    print('odd')
+if num == 16574:
+    print('even')
+if num == 16575:
+    print('odd')
+if num == 16576:
+    print('even')
+if num == 16577:
+    print('odd')
+if num == 16578:
+    print('even')
+if num == 16579:
+    print('odd')
+if num == 16580:
+    print('even')
+if num == 16581:
+    print('odd')
+if num == 16582:
+    print('even')
+if num == 16583:
+    print('odd')
+if num == 16584:
+    print('even')
+if num == 16585:
+    print('odd')
+if num == 16586:
+    print('even')
+if num == 16587:
+    print('odd')
+if num == 16588:
+    print('even')
+if num == 16589:
+    print('odd')
+if num == 16590:
+    print('even')
+if num == 16591:
+    print('odd')
+if num == 16592:
+    print('even')
+if num == 16593:
+    print('odd')
+if num == 16594:
+    print('even')
+if num == 16595:
+    print('odd')
+if num == 16596:
+    print('even')
+if num == 16597:
+    print('odd')
+if num == 16598:
+    print('even')
+if num == 16599:
+    print('odd')
+if num == 16600:
+    print('even')
+if num == 16601:
+    print('odd')
+if num == 16602:
+    print('even')
+if num == 16603:
+    print('odd')
+if num == 16604:
+    print('even')
+if num == 16605:
+    print('odd')
+if num == 16606:
+    print('even')
+if num == 16607:
+    print('odd')
+if num == 16608:
+    print('even')
+if num == 16609:
+    print('odd')
+if num == 16610:
+    print('even')
+if num == 16611:
+    print('odd')
+if num == 16612:
+    print('even')
+if num == 16613:
+    print('odd')
+if num == 16614:
+    print('even')
+if num == 16615:
+    print('odd')
+if num == 16616:
+    print('even')
+if num == 16617:
+    print('odd')
+if num == 16618:
+    print('even')
+if num == 16619:
+    print('odd')
+if num == 16620:
+    print('even')
+if num == 16621:
+    print('odd')
+if num == 16622:
+    print('even')
+if num == 16623:
+    print('odd')
+if num == 16624:
+    print('even')
+if num == 16625:
+    print('odd')
+if num == 16626:
+    print('even')
+if num == 16627:
+    print('odd')
+if num == 16628:
+    print('even')
+if num == 16629:
+    print('odd')
+if num == 16630:
+    print('even')
+if num == 16631:
+    print('odd')
+if num == 16632:
+    print('even')
+if num == 16633:
+    print('odd')
+if num == 16634:
+    print('even')
+if num == 16635:
+    print('odd')
+if num == 16636:
+    print('even')
+if num == 16637:
+    print('odd')
+if num == 16638:
+    print('even')
+if num == 16639:
+    print('odd')
+if num == 16640:
+    print('even')
+if num == 16641:
+    print('odd')
+if num == 16642:
+    print('even')
+if num == 16643:
+    print('odd')
+if num == 16644:
+    print('even')
+if num == 16645:
+    print('odd')
+if num == 16646:
+    print('even')
+if num == 16647:
+    print('odd')
+if num == 16648:
+    print('even')
+if num == 16649:
+    print('odd')
+if num == 16650:
+    print('even')
+if num == 16651:
+    print('odd')
+if num == 16652:
+    print('even')
+if num == 16653:
+    print('odd')
+if num == 16654:
+    print('even')
+if num == 16655:
+    print('odd')
+if num == 16656:
+    print('even')
+if num == 16657:
+    print('odd')
+if num == 16658:
+    print('even')
+if num == 16659:
+    print('odd')
+if num == 16660:
+    print('even')
+if num == 16661:
+    print('odd')
+if num == 16662:
+    print('even')
+if num == 16663:
+    print('odd')
+if num == 16664:
+    print('even')
+if num == 16665:
+    print('odd')
+if num == 16666:
+    print('even')
+if num == 16667:
+    print('odd')
+if num == 16668:
+    print('even')
+if num == 16669:
+    print('odd')
+if num == 16670:
+    print('even')
+if num == 16671:
+    print('odd')
+if num == 16672:
+    print('even')
+if num == 16673:
+    print('odd')
+if num == 16674:
+    print('even')
+if num == 16675:
+    print('odd')
+if num == 16676:
+    print('even')
+if num == 16677:
+    print('odd')
+if num == 16678:
+    print('even')
+if num == 16679:
+    print('odd')
+if num == 16680:
+    print('even')
+if num == 16681:
+    print('odd')
+if num == 16682:
+    print('even')
+if num == 16683:
+    print('odd')
+if num == 16684:
+    print('even')
+if num == 16685:
+    print('odd')
+if num == 16686:
+    print('even')
+if num == 16687:
+    print('odd')
+if num == 16688:
+    print('even')
+if num == 16689:
+    print('odd')
+if num == 16690:
+    print('even')
+if num == 16691:
+    print('odd')
+if num == 16692:
+    print('even')
+if num == 16693:
+    print('odd')
+if num == 16694:
+    print('even')
+if num == 16695:
+    print('odd')
+if num == 16696:
+    print('even')
+if num == 16697:
+    print('odd')
+if num == 16698:
+    print('even')
+if num == 16699:
+    print('odd')
+if num == 16700:
+    print('even')
+if num == 16701:
+    print('odd')
+if num == 16702:
+    print('even')
+if num == 16703:
+    print('odd')
+if num == 16704:
+    print('even')
+if num == 16705:
+    print('odd')
+if num == 16706:
+    print('even')
+if num == 16707:
+    print('odd')
+if num == 16708:
+    print('even')
+if num == 16709:
+    print('odd')
+if num == 16710:
+    print('even')
+if num == 16711:
+    print('odd')
+if num == 16712:
+    print('even')
+if num == 16713:
+    print('odd')
+if num == 16714:
+    print('even')
+if num == 16715:
+    print('odd')
+if num == 16716:
+    print('even')
+if num == 16717:
+    print('odd')
+if num == 16718:
+    print('even')
+if num == 16719:
+    print('odd')
+if num == 16720:
+    print('even')
+if num == 16721:
+    print('odd')
+if num == 16722:
+    print('even')
+if num == 16723:
+    print('odd')
+if num == 16724:
+    print('even')
+if num == 16725:
+    print('odd')
+if num == 16726:
+    print('even')
+if num == 16727:
+    print('odd')
+if num == 16728:
+    print('even')
+if num == 16729:
+    print('odd')
+if num == 16730:
+    print('even')
+if num == 16731:
+    print('odd')
+if num == 16732:
+    print('even')
+if num == 16733:
+    print('odd')
+if num == 16734:
+    print('even')
+if num == 16735:
+    print('odd')
+if num == 16736:
+    print('even')
+if num == 16737:
+    print('odd')
+if num == 16738:
+    print('even')
+if num == 16739:
+    print('odd')
+if num == 16740:
+    print('even')
+if num == 16741:
+    print('odd')
+if num == 16742:
+    print('even')
+if num == 16743:
+    print('odd')
+if num == 16744:
+    print('even')
+if num == 16745:
+    print('odd')
+if num == 16746:
+    print('even')
+if num == 16747:
+    print('odd')
+if num == 16748:
+    print('even')
+if num == 16749:
+    print('odd')
+if num == 16750:
+    print('even')
+if num == 16751:
+    print('odd')
+if num == 16752:
+    print('even')
+if num == 16753:
+    print('odd')
+if num == 16754:
+    print('even')
+if num == 16755:
+    print('odd')
+if num == 16756:
+    print('even')
+if num == 16757:
+    print('odd')
+if num == 16758:
+    print('even')
+if num == 16759:
+    print('odd')
+if num == 16760:
+    print('even')
+if num == 16761:
+    print('odd')
+if num == 16762:
+    print('even')
+if num == 16763:
+    print('odd')
+if num == 16764:
+    print('even')
+if num == 16765:
+    print('odd')
+if num == 16766:
+    print('even')
+if num == 16767:
+    print('odd')
+if num == 16768:
+    print('even')
+if num == 16769:
+    print('odd')
+if num == 16770:
+    print('even')
+if num == 16771:
+    print('odd')
+if num == 16772:
+    print('even')
+if num == 16773:
+    print('odd')
+if num == 16774:
+    print('even')
+if num == 16775:
+    print('odd')
+if num == 16776:
+    print('even')
+if num == 16777:
+    print('odd')
+if num == 16778:
+    print('even')
+if num == 16779:
+    print('odd')
+if num == 16780:
+    print('even')
+if num == 16781:
+    print('odd')
+if num == 16782:
+    print('even')
+if num == 16783:
+    print('odd')
+if num == 16784:
+    print('even')
+if num == 16785:
+    print('odd')
+if num == 16786:
+    print('even')
+if num == 16787:
+    print('odd')
+if num == 16788:
+    print('even')
+if num == 16789:
+    print('odd')
+if num == 16790:
+    print('even')
+if num == 16791:
+    print('odd')
+if num == 16792:
+    print('even')
+if num == 16793:
+    print('odd')
+if num == 16794:
+    print('even')
+if num == 16795:
+    print('odd')
+if num == 16796:
+    print('even')
+if num == 16797:
+    print('odd')
+if num == 16798:
+    print('even')
+if num == 16799:
+    print('odd')
+if num == 16800:
+    print('even')
+if num == 16801:
+    print('odd')
+if num == 16802:
+    print('even')
+if num == 16803:
+    print('odd')
+if num == 16804:
+    print('even')
+if num == 16805:
+    print('odd')
+if num == 16806:
+    print('even')
+if num == 16807:
+    print('odd')
+if num == 16808:
+    print('even')
+if num == 16809:
+    print('odd')
+if num == 16810:
+    print('even')
+if num == 16811:
+    print('odd')
+if num == 16812:
+    print('even')
+if num == 16813:
+    print('odd')
+if num == 16814:
+    print('even')
+if num == 16815:
+    print('odd')
+if num == 16816:
+    print('even')
+if num == 16817:
+    print('odd')
+if num == 16818:
+    print('even')
+if num == 16819:
+    print('odd')
+if num == 16820:
+    print('even')
+if num == 16821:
+    print('odd')
+if num == 16822:
+    print('even')
+if num == 16823:
+    print('odd')
+if num == 16824:
+    print('even')
+if num == 16825:
+    print('odd')
+if num == 16826:
+    print('even')
+if num == 16827:
+    print('odd')
+if num == 16828:
+    print('even')
+if num == 16829:
+    print('odd')
+if num == 16830:
+    print('even')
+if num == 16831:
+    print('odd')
+if num == 16832:
+    print('even')
+if num == 16833:
+    print('odd')
+if num == 16834:
+    print('even')
+if num == 16835:
+    print('odd')
+if num == 16836:
+    print('even')
+if num == 16837:
+    print('odd')
+if num == 16838:
+    print('even')
+if num == 16839:
+    print('odd')
+if num == 16840:
+    print('even')
+if num == 16841:
+    print('odd')
+if num == 16842:
+    print('even')
+if num == 16843:
+    print('odd')
+if num == 16844:
+    print('even')
+if num == 16845:
+    print('odd')
+if num == 16846:
+    print('even')
+if num == 16847:
+    print('odd')
+if num == 16848:
+    print('even')
+if num == 16849:
+    print('odd')
+if num == 16850:
+    print('even')
+if num == 16851:
+    print('odd')
+if num == 16852:
+    print('even')
+if num == 16853:
+    print('odd')
+if num == 16854:
+    print('even')
+if num == 16855:
+    print('odd')
+if num == 16856:
+    print('even')
+if num == 16857:
+    print('odd')
+if num == 16858:
+    print('even')
+if num == 16859:
+    print('odd')
+if num == 16860:
+    print('even')
+if num == 16861:
+    print('odd')
+if num == 16862:
+    print('even')
+if num == 16863:
+    print('odd')
+if num == 16864:
+    print('even')
+if num == 16865:
+    print('odd')
+if num == 16866:
+    print('even')
+if num == 16867:
+    print('odd')
+if num == 16868:
+    print('even')
+if num == 16869:
+    print('odd')
+if num == 16870:
+    print('even')
+if num == 16871:
+    print('odd')
+if num == 16872:
+    print('even')
+if num == 16873:
+    print('odd')
+if num == 16874:
+    print('even')
+if num == 16875:
+    print('odd')
+if num == 16876:
+    print('even')
+if num == 16877:
+    print('odd')
+if num == 16878:
+    print('even')
+if num == 16879:
+    print('odd')
+if num == 16880:
+    print('even')
+if num == 16881:
+    print('odd')
+if num == 16882:
+    print('even')
+if num == 16883:
+    print('odd')
+if num == 16884:
+    print('even')
+if num == 16885:
+    print('odd')
+if num == 16886:
+    print('even')
+if num == 16887:
+    print('odd')
+if num == 16888:
+    print('even')
+if num == 16889:
+    print('odd')
+if num == 16890:
+    print('even')
+if num == 16891:
+    print('odd')
+if num == 16892:
+    print('even')
+if num == 16893:
+    print('odd')
+if num == 16894:
+    print('even')
+if num == 16895:
+    print('odd')
+if num == 16896:
+    print('even')
+if num == 16897:
+    print('odd')
+if num == 16898:
+    print('even')
+if num == 16899:
+    print('odd')
+if num == 16900:
+    print('even')
+if num == 16901:
+    print('odd')
+if num == 16902:
+    print('even')
+if num == 16903:
+    print('odd')
+if num == 16904:
+    print('even')
+if num == 16905:
+    print('odd')
+if num == 16906:
+    print('even')
+if num == 16907:
+    print('odd')
+if num == 16908:
+    print('even')
+if num == 16909:
+    print('odd')
+if num == 16910:
+    print('even')
+if num == 16911:
+    print('odd')
+if num == 16912:
+    print('even')
+if num == 16913:
+    print('odd')
+if num == 16914:
+    print('even')
+if num == 16915:
+    print('odd')
+if num == 16916:
+    print('even')
+if num == 16917:
+    print('odd')
+if num == 16918:
+    print('even')
+if num == 16919:
+    print('odd')
+if num == 16920:
+    print('even')
+if num == 16921:
+    print('odd')
+if num == 16922:
+    print('even')
+if num == 16923:
+    print('odd')
+if num == 16924:
+    print('even')
+if num == 16925:
+    print('odd')
+if num == 16926:
+    print('even')
+if num == 16927:
+    print('odd')
+if num == 16928:
+    print('even')
+if num == 16929:
+    print('odd')
+if num == 16930:
+    print('even')
+if num == 16931:
+    print('odd')
+if num == 16932:
+    print('even')
+if num == 16933:
+    print('odd')
+if num == 16934:
+    print('even')
+if num == 16935:
+    print('odd')
+if num == 16936:
+    print('even')
+if num == 16937:
+    print('odd')
+if num == 16938:
+    print('even')
+if num == 16939:
+    print('odd')
+if num == 16940:
+    print('even')
+if num == 16941:
+    print('odd')
+if num == 16942:
+    print('even')
+if num == 16943:
+    print('odd')
+if num == 16944:
+    print('even')
+if num == 16945:
+    print('odd')
+if num == 16946:
+    print('even')
+if num == 16947:
+    print('odd')
+if num == 16948:
+    print('even')
+if num == 16949:
+    print('odd')
+if num == 16950:
+    print('even')
+if num == 16951:
+    print('odd')
+if num == 16952:
+    print('even')
+if num == 16953:
+    print('odd')
+if num == 16954:
+    print('even')
+if num == 16955:
+    print('odd')
+if num == 16956:
+    print('even')
+if num == 16957:
+    print('odd')
+if num == 16958:
+    print('even')
+if num == 16959:
+    print('odd')
+if num == 16960:
+    print('even')
+if num == 16961:
+    print('odd')
+if num == 16962:
+    print('even')
+if num == 16963:
+    print('odd')
+if num == 16964:
+    print('even')
+if num == 16965:
+    print('odd')
+if num == 16966:
+    print('even')
+if num == 16967:
+    print('odd')
+if num == 16968:
+    print('even')
+if num == 16969:
+    print('odd')
+if num == 16970:
+    print('even')
+if num == 16971:
+    print('odd')
+if num == 16972:
+    print('even')
+if num == 16973:
+    print('odd')
+if num == 16974:
+    print('even')
+if num == 16975:
+    print('odd')
+if num == 16976:
+    print('even')
+if num == 16977:
+    print('odd')
+if num == 16978:
+    print('even')
+if num == 16979:
+    print('odd')
+if num == 16980:
+    print('even')
+if num == 16981:
+    print('odd')
+if num == 16982:
+    print('even')
+if num == 16983:
+    print('odd')
+if num == 16984:
+    print('even')
+if num == 16985:
+    print('odd')
+if num == 16986:
+    print('even')
+if num == 16987:
+    print('odd')
+if num == 16988:
+    print('even')
+if num == 16989:
+    print('odd')
+if num == 16990:
+    print('even')
+if num == 16991:
+    print('odd')
+if num == 16992:
+    print('even')
+if num == 16993:
+    print('odd')
+if num == 16994:
+    print('even')
+if num == 16995:
+    print('odd')
+if num == 16996:
+    print('even')
+if num == 16997:
+    print('odd')
+if num == 16998:
+    print('even')
+if num == 16999:
+    print('odd')
+if num == 17000:
+    print('even')
+if num == 17001:
+    print('odd')
+if num == 17002:
+    print('even')
+if num == 17003:
+    print('odd')
+if num == 17004:
+    print('even')
+if num == 17005:
+    print('odd')
+if num == 17006:
+    print('even')
+if num == 17007:
+    print('odd')
+if num == 17008:
+    print('even')
+if num == 17009:
+    print('odd')
+if num == 17010:
+    print('even')
+if num == 17011:
+    print('odd')
+if num == 17012:
+    print('even')
+if num == 17013:
+    print('odd')
+if num == 17014:
+    print('even')
+if num == 17015:
+    print('odd')
+if num == 17016:
+    print('even')
+if num == 17017:
+    print('odd')
+if num == 17018:
+    print('even')
+if num == 17019:
+    print('odd')
+if num == 17020:
+    print('even')
+if num == 17021:
+    print('odd')
+if num == 17022:
+    print('even')
+if num == 17023:
+    print('odd')
+if num == 17024:
+    print('even')
+if num == 17025:
+    print('odd')
+if num == 17026:
+    print('even')
+if num == 17027:
+    print('odd')
+if num == 17028:
+    print('even')
+if num == 17029:
+    print('odd')
+if num == 17030:
+    print('even')
+if num == 17031:
+    print('odd')
+if num == 17032:
+    print('even')
+if num == 17033:
+    print('odd')
+if num == 17034:
+    print('even')
+if num == 17035:
+    print('odd')
+if num == 17036:
+    print('even')
+if num == 17037:
+    print('odd')
+if num == 17038:
+    print('even')
+if num == 17039:
+    print('odd')
+if num == 17040:
+    print('even')
+if num == 17041:
+    print('odd')
+if num == 17042:
+    print('even')
+if num == 17043:
+    print('odd')
+if num == 17044:
+    print('even')
+if num == 17045:
+    print('odd')
+if num == 17046:
+    print('even')
+if num == 17047:
+    print('odd')
+if num == 17048:
+    print('even')
+if num == 17049:
+    print('odd')
+if num == 17050:
+    print('even')
+if num == 17051:
+    print('odd')
+if num == 17052:
+    print('even')
+if num == 17053:
+    print('odd')
+if num == 17054:
+    print('even')
+if num == 17055:
+    print('odd')
+if num == 17056:
+    print('even')
+if num == 17057:
+    print('odd')
+if num == 17058:
+    print('even')
+if num == 17059:
+    print('odd')
+if num == 17060:
+    print('even')
+if num == 17061:
+    print('odd')
+if num == 17062:
+    print('even')
+if num == 17063:
+    print('odd')
+if num == 17064:
+    print('even')
+if num == 17065:
+    print('odd')
+if num == 17066:
+    print('even')
+if num == 17067:
+    print('odd')
+if num == 17068:
+    print('even')
+if num == 17069:
+    print('odd')
+if num == 17070:
+    print('even')
+if num == 17071:
+    print('odd')
+if num == 17072:
+    print('even')
+if num == 17073:
+    print('odd')
+if num == 17074:
+    print('even')
+if num == 17075:
+    print('odd')
+if num == 17076:
+    print('even')
+if num == 17077:
+    print('odd')
+if num == 17078:
+    print('even')
+if num == 17079:
+    print('odd')
+if num == 17080:
+    print('even')
+if num == 17081:
+    print('odd')
+if num == 17082:
+    print('even')
+if num == 17083:
+    print('odd')
+if num == 17084:
+    print('even')
+if num == 17085:
+    print('odd')
+if num == 17086:
+    print('even')
+if num == 17087:
+    print('odd')
+if num == 17088:
+    print('even')
+if num == 17089:
+    print('odd')
+if num == 17090:
+    print('even')
+if num == 17091:
+    print('odd')
+if num == 17092:
+    print('even')
+if num == 17093:
+    print('odd')
+if num == 17094:
+    print('even')
+if num == 17095:
+    print('odd')
+if num == 17096:
+    print('even')
+if num == 17097:
+    print('odd')
+if num == 17098:
+    print('even')
+if num == 17099:
+    print('odd')
+if num == 17100:
+    print('even')
+if num == 17101:
+    print('odd')
+if num == 17102:
+    print('even')
+if num == 17103:
+    print('odd')
+if num == 17104:
+    print('even')
+if num == 17105:
+    print('odd')
+if num == 17106:
+    print('even')
+if num == 17107:
+    print('odd')
+if num == 17108:
+    print('even')
+if num == 17109:
+    print('odd')
+if num == 17110:
+    print('even')
+if num == 17111:
+    print('odd')
+if num == 17112:
+    print('even')
+if num == 17113:
+    print('odd')
+if num == 17114:
+    print('even')
+if num == 17115:
+    print('odd')
+if num == 17116:
+    print('even')
+if num == 17117:
+    print('odd')
+if num == 17118:
+    print('even')
+if num == 17119:
+    print('odd')
+if num == 17120:
+    print('even')
+if num == 17121:
+    print('odd')
+if num == 17122:
+    print('even')
+if num == 17123:
+    print('odd')
+if num == 17124:
+    print('even')
+if num == 17125:
+    print('odd')
+if num == 17126:
+    print('even')
+if num == 17127:
+    print('odd')
+if num == 17128:
+    print('even')
+if num == 17129:
+    print('odd')
+if num == 17130:
+    print('even')
+if num == 17131:
+    print('odd')
+if num == 17132:
+    print('even')
+if num == 17133:
+    print('odd')
+if num == 17134:
+    print('even')
+if num == 17135:
+    print('odd')
+if num == 17136:
+    print('even')
+if num == 17137:
+    print('odd')
+if num == 17138:
+    print('even')
+if num == 17139:
+    print('odd')
+if num == 17140:
+    print('even')
+if num == 17141:
+    print('odd')
+if num == 17142:
+    print('even')
+if num == 17143:
+    print('odd')
+if num == 17144:
+    print('even')
+if num == 17145:
+    print('odd')
+if num == 17146:
+    print('even')
+if num == 17147:
+    print('odd')
+if num == 17148:
+    print('even')
+if num == 17149:
+    print('odd')
+if num == 17150:
+    print('even')
+if num == 17151:
+    print('odd')
+if num == 17152:
+    print('even')
+if num == 17153:
+    print('odd')
+if num == 17154:
+    print('even')
+if num == 17155:
+    print('odd')
+if num == 17156:
+    print('even')
+if num == 17157:
+    print('odd')
+if num == 17158:
+    print('even')
+if num == 17159:
+    print('odd')
+if num == 17160:
+    print('even')
+if num == 17161:
+    print('odd')
+if num == 17162:
+    print('even')
+if num == 17163:
+    print('odd')
+if num == 17164:
+    print('even')
+if num == 17165:
+    print('odd')
+if num == 17166:
+    print('even')
+if num == 17167:
+    print('odd')
+if num == 17168:
+    print('even')
+if num == 17169:
+    print('odd')
+if num == 17170:
+    print('even')
+if num == 17171:
+    print('odd')
+if num == 17172:
+    print('even')
+if num == 17173:
+    print('odd')
+if num == 17174:
+    print('even')
+if num == 17175:
+    print('odd')
+if num == 17176:
+    print('even')
+if num == 17177:
+    print('odd')
+if num == 17178:
+    print('even')
+if num == 17179:
+    print('odd')
+if num == 17180:
+    print('even')
+if num == 17181:
+    print('odd')
+if num == 17182:
+    print('even')
+if num == 17183:
+    print('odd')
+if num == 17184:
+    print('even')
+if num == 17185:
+    print('odd')
+if num == 17186:
+    print('even')
+if num == 17187:
+    print('odd')
+if num == 17188:
+    print('even')
+if num == 17189:
+    print('odd')
+if num == 17190:
+    print('even')
+if num == 17191:
+    print('odd')
+if num == 17192:
+    print('even')
+if num == 17193:
+    print('odd')
+if num == 17194:
+    print('even')
+if num == 17195:
+    print('odd')
+if num == 17196:
+    print('even')
+if num == 17197:
+    print('odd')
+if num == 17198:
+    print('even')
+if num == 17199:
+    print('odd')
+if num == 17200:
+    print('even')
+if num == 17201:
+    print('odd')
+if num == 17202:
+    print('even')
+if num == 17203:
+    print('odd')
+if num == 17204:
+    print('even')
+if num == 17205:
+    print('odd')
+if num == 17206:
+    print('even')
+if num == 17207:
+    print('odd')
+if num == 17208:
+    print('even')
+if num == 17209:
+    print('odd')
+if num == 17210:
+    print('even')
+if num == 17211:
+    print('odd')
+if num == 17212:
+    print('even')
+if num == 17213:
+    print('odd')
+if num == 17214:
+    print('even')
+if num == 17215:
+    print('odd')
+if num == 17216:
+    print('even')
+if num == 17217:
+    print('odd')
+if num == 17218:
+    print('even')
+if num == 17219:
+    print('odd')
+if num == 17220:
+    print('even')
+if num == 17221:
+    print('odd')
+if num == 17222:
+    print('even')
+if num == 17223:
+    print('odd')
+if num == 17224:
+    print('even')
+if num == 17225:
+    print('odd')
+if num == 17226:
+    print('even')
+if num == 17227:
+    print('odd')
+if num == 17228:
+    print('even')
+if num == 17229:
+    print('odd')
+if num == 17230:
+    print('even')
+if num == 17231:
+    print('odd')
+if num == 17232:
+    print('even')
+if num == 17233:
+    print('odd')
+if num == 17234:
+    print('even')
+if num == 17235:
+    print('odd')
+if num == 17236:
+    print('even')
+if num == 17237:
+    print('odd')
+if num == 17238:
+    print('even')
+if num == 17239:
+    print('odd')
+if num == 17240:
+    print('even')
+if num == 17241:
+    print('odd')
+if num == 17242:
+    print('even')
+if num == 17243:
+    print('odd')
+if num == 17244:
+    print('even')
+if num == 17245:
+    print('odd')
+if num == 17246:
+    print('even')
+if num == 17247:
+    print('odd')
+if num == 17248:
+    print('even')
+if num == 17249:
+    print('odd')
+if num == 17250:
+    print('even')
+if num == 17251:
+    print('odd')
+if num == 17252:
+    print('even')
+if num == 17253:
+    print('odd')
+if num == 17254:
+    print('even')
+if num == 17255:
+    print('odd')
+if num == 17256:
+    print('even')
+if num == 17257:
+    print('odd')
+if num == 17258:
+    print('even')
+if num == 17259:
+    print('odd')
+if num == 17260:
+    print('even')
+if num == 17261:
+    print('odd')
+if num == 17262:
+    print('even')
+if num == 17263:
+    print('odd')
+if num == 17264:
+    print('even')
+if num == 17265:
+    print('odd')
+if num == 17266:
+    print('even')
+if num == 17267:
+    print('odd')
+if num == 17268:
+    print('even')
+if num == 17269:
+    print('odd')
+if num == 17270:
+    print('even')
+if num == 17271:
+    print('odd')
+if num == 17272:
+    print('even')
+if num == 17273:
+    print('odd')
+if num == 17274:
+    print('even')
+if num == 17275:
+    print('odd')
+if num == 17276:
+    print('even')
+if num == 17277:
+    print('odd')
+if num == 17278:
+    print('even')
+if num == 17279:
+    print('odd')
+if num == 17280:
+    print('even')
+if num == 17281:
+    print('odd')
+if num == 17282:
+    print('even')
+if num == 17283:
+    print('odd')
+if num == 17284:
+    print('even')
+if num == 17285:
+    print('odd')
+if num == 17286:
+    print('even')
+if num == 17287:
+    print('odd')
+if num == 17288:
+    print('even')
+if num == 17289:
+    print('odd')
+if num == 17290:
+    print('even')
+if num == 17291:
+    print('odd')
+if num == 17292:
+    print('even')
+if num == 17293:
+    print('odd')
+if num == 17294:
+    print('even')
+if num == 17295:
+    print('odd')
+if num == 17296:
+    print('even')
+if num == 17297:
+    print('odd')
+if num == 17298:
+    print('even')
+if num == 17299:
+    print('odd')
+if num == 17300:
+    print('even')
+if num == 17301:
+    print('odd')
+if num == 17302:
+    print('even')
+if num == 17303:
+    print('odd')
+if num == 17304:
+    print('even')
+if num == 17305:
+    print('odd')
+if num == 17306:
+    print('even')
+if num == 17307:
+    print('odd')
+if num == 17308:
+    print('even')
+if num == 17309:
+    print('odd')
+if num == 17310:
+    print('even')
+if num == 17311:
+    print('odd')
+if num == 17312:
+    print('even')
+if num == 17313:
+    print('odd')
+if num == 17314:
+    print('even')
+if num == 17315:
+    print('odd')
+if num == 17316:
+    print('even')
+if num == 17317:
+    print('odd')
+if num == 17318:
+    print('even')
+if num == 17319:
+    print('odd')
+if num == 17320:
+    print('even')
+if num == 17321:
+    print('odd')
+if num == 17322:
+    print('even')
+if num == 17323:
+    print('odd')
+if num == 17324:
+    print('even')
+if num == 17325:
+    print('odd')
+if num == 17326:
+    print('even')
+if num == 17327:
+    print('odd')
+if num == 17328:
+    print('even')
+if num == 17329:
+    print('odd')
+if num == 17330:
+    print('even')
+if num == 17331:
+    print('odd')
+if num == 17332:
+    print('even')
+if num == 17333:
+    print('odd')
+if num == 17334:
+    print('even')
+if num == 17335:
+    print('odd')
+if num == 17336:
+    print('even')
+if num == 17337:
+    print('odd')
+if num == 17338:
+    print('even')
+if num == 17339:
+    print('odd')
+if num == 17340:
+    print('even')
+if num == 17341:
+    print('odd')
+if num == 17342:
+    print('even')
+if num == 17343:
+    print('odd')
+if num == 17344:
+    print('even')
+if num == 17345:
+    print('odd')
+if num == 17346:
+    print('even')
+if num == 17347:
+    print('odd')
+if num == 17348:
+    print('even')
+if num == 17349:
+    print('odd')
+if num == 17350:
+    print('even')
+if num == 17351:
+    print('odd')
+if num == 17352:
+    print('even')
+if num == 17353:
+    print('odd')
+if num == 17354:
+    print('even')
+if num == 17355:
+    print('odd')
+if num == 17356:
+    print('even')
+if num == 17357:
+    print('odd')
+if num == 17358:
+    print('even')
+if num == 17359:
+    print('odd')
+if num == 17360:
+    print('even')
+if num == 17361:
+    print('odd')
+if num == 17362:
+    print('even')
+if num == 17363:
+    print('odd')
+if num == 17364:
+    print('even')
+if num == 17365:
+    print('odd')
+if num == 17366:
+    print('even')
+if num == 17367:
+    print('odd')
+if num == 17368:
+    print('even')
+if num == 17369:
+    print('odd')
+if num == 17370:
+    print('even')
+if num == 17371:
+    print('odd')
+if num == 17372:
+    print('even')
+if num == 17373:
+    print('odd')
+if num == 17374:
+    print('even')
+if num == 17375:
+    print('odd')
+if num == 17376:
+    print('even')
+if num == 17377:
+    print('odd')
+if num == 17378:
+    print('even')
+if num == 17379:
+    print('odd')
+if num == 17380:
+    print('even')
+if num == 17381:
+    print('odd')
+if num == 17382:
+    print('even')
+if num == 17383:
+    print('odd')
+if num == 17384:
+    print('even')
+if num == 17385:
+    print('odd')
+if num == 17386:
+    print('even')
+if num == 17387:
+    print('odd')
+if num == 17388:
+    print('even')
+if num == 17389:
+    print('odd')
+if num == 17390:
+    print('even')
+if num == 17391:
+    print('odd')
+if num == 17392:
+    print('even')
+if num == 17393:
+    print('odd')
+if num == 17394:
+    print('even')
+if num == 17395:
+    print('odd')
+if num == 17396:
+    print('even')
+if num == 17397:
+    print('odd')
+if num == 17398:
+    print('even')
+if num == 17399:
+    print('odd')
+if num == 17400:
+    print('even')
+if num == 17401:
+    print('odd')
+if num == 17402:
+    print('even')
+if num == 17403:
+    print('odd')
+if num == 17404:
+    print('even')
+if num == 17405:
+    print('odd')
+if num == 17406:
+    print('even')
+if num == 17407:
+    print('odd')
+if num == 17408:
+    print('even')
+if num == 17409:
+    print('odd')
+if num == 17410:
+    print('even')
+if num == 17411:
+    print('odd')
+if num == 17412:
+    print('even')
+if num == 17413:
+    print('odd')
+if num == 17414:
+    print('even')
+if num == 17415:
+    print('odd')
+if num == 17416:
+    print('even')
+if num == 17417:
+    print('odd')
+if num == 17418:
+    print('even')
+if num == 17419:
+    print('odd')
+if num == 17420:
+    print('even')
+if num == 17421:
+    print('odd')
+if num == 17422:
+    print('even')
+if num == 17423:
+    print('odd')
+if num == 17424:
+    print('even')
+if num == 17425:
+    print('odd')
+if num == 17426:
+    print('even')
+if num == 17427:
+    print('odd')
+if num == 17428:
+    print('even')
+if num == 17429:
+    print('odd')
+if num == 17430:
+    print('even')
+if num == 17431:
+    print('odd')
+if num == 17432:
+    print('even')
+if num == 17433:
+    print('odd')
+if num == 17434:
+    print('even')
+if num == 17435:
+    print('odd')
+if num == 17436:
+    print('even')
+if num == 17437:
+    print('odd')
+if num == 17438:
+    print('even')
+if num == 17439:
+    print('odd')
+if num == 17440:
+    print('even')
+if num == 17441:
+    print('odd')
+if num == 17442:
+    print('even')
+if num == 17443:
+    print('odd')
+if num == 17444:
+    print('even')
+if num == 17445:
+    print('odd')
+if num == 17446:
+    print('even')
+if num == 17447:
+    print('odd')
+if num == 17448:
+    print('even')
+if num == 17449:
+    print('odd')
+if num == 17450:
+    print('even')
+if num == 17451:
+    print('odd')
+if num == 17452:
+    print('even')
+if num == 17453:
+    print('odd')
+if num == 17454:
+    print('even')
+if num == 17455:
+    print('odd')
+if num == 17456:
+    print('even')
+if num == 17457:
+    print('odd')
+if num == 17458:
+    print('even')
+if num == 17459:
+    print('odd')
+if num == 17460:
+    print('even')
+if num == 17461:
+    print('odd')
+if num == 17462:
+    print('even')
+if num == 17463:
+    print('odd')
+if num == 17464:
+    print('even')
+if num == 17465:
+    print('odd')
+if num == 17466:
+    print('even')
+if num == 17467:
+    print('odd')
+if num == 17468:
+    print('even')
+if num == 17469:
+    print('odd')
+if num == 17470:
+    print('even')
+if num == 17471:
+    print('odd')
+if num == 17472:
+    print('even')
+if num == 17473:
+    print('odd')
+if num == 17474:
+    print('even')
+if num == 17475:
+    print('odd')
+if num == 17476:
+    print('even')
+if num == 17477:
+    print('odd')
+if num == 17478:
+    print('even')
+if num == 17479:
+    print('odd')
+if num == 17480:
+    print('even')
+if num == 17481:
+    print('odd')
+if num == 17482:
+    print('even')
+if num == 17483:
+    print('odd')
+if num == 17484:
+    print('even')
+if num == 17485:
+    print('odd')
+if num == 17486:
+    print('even')
+if num == 17487:
+    print('odd')
+if num == 17488:
+    print('even')
+if num == 17489:
+    print('odd')
+if num == 17490:
+    print('even')
+if num == 17491:
+    print('odd')
+if num == 17492:
+    print('even')
+if num == 17493:
+    print('odd')
+if num == 17494:
+    print('even')
+if num == 17495:
+    print('odd')
+if num == 17496:
+    print('even')
+if num == 17497:
+    print('odd')
+if num == 17498:
+    print('even')
+if num == 17499:
+    print('odd')
+if num == 17500:
+    print('even')
+if num == 17501:
+    print('odd')
+if num == 17502:
+    print('even')
+if num == 17503:
+    print('odd')
+if num == 17504:
+    print('even')
+if num == 17505:
+    print('odd')
+if num == 17506:
+    print('even')
+if num == 17507:
+    print('odd')
+if num == 17508:
+    print('even')
+if num == 17509:
+    print('odd')
+if num == 17510:
+    print('even')
+if num == 17511:
+    print('odd')
+if num == 17512:
+    print('even')
+if num == 17513:
+    print('odd')
+if num == 17514:
+    print('even')
+if num == 17515:
+    print('odd')
+if num == 17516:
+    print('even')
+if num == 17517:
+    print('odd')
+if num == 17518:
+    print('even')
+if num == 17519:
+    print('odd')
+if num == 17520:
+    print('even')
+if num == 17521:
+    print('odd')
+if num == 17522:
+    print('even')
+if num == 17523:
+    print('odd')
+if num == 17524:
+    print('even')
+if num == 17525:
+    print('odd')
+if num == 17526:
+    print('even')
+if num == 17527:
+    print('odd')
+if num == 17528:
+    print('even')
+if num == 17529:
+    print('odd')
+if num == 17530:
+    print('even')
+if num == 17531:
+    print('odd')
+if num == 17532:
+    print('even')
+if num == 17533:
+    print('odd')
+if num == 17534:
+    print('even')
+if num == 17535:
+    print('odd')
+if num == 17536:
+    print('even')
+if num == 17537:
+    print('odd')
+if num == 17538:
+    print('even')
+if num == 17539:
+    print('odd')
+if num == 17540:
+    print('even')
+if num == 17541:
+    print('odd')
+if num == 17542:
+    print('even')
+if num == 17543:
+    print('odd')
+if num == 17544:
+    print('even')
+if num == 17545:
+    print('odd')
+if num == 17546:
+    print('even')
+if num == 17547:
+    print('odd')
+if num == 17548:
+    print('even')
+if num == 17549:
+    print('odd')
+if num == 17550:
+    print('even')
+if num == 17551:
+    print('odd')
+if num == 17552:
+    print('even')
+if num == 17553:
+    print('odd')
+if num == 17554:
+    print('even')
+if num == 17555:
+    print('odd')
+if num == 17556:
+    print('even')
+if num == 17557:
+    print('odd')
+if num == 17558:
+    print('even')
+if num == 17559:
+    print('odd')
+if num == 17560:
+    print('even')
+if num == 17561:
+    print('odd')
+if num == 17562:
+    print('even')
+if num == 17563:
+    print('odd')
+if num == 17564:
+    print('even')
+if num == 17565:
+    print('odd')
+if num == 17566:
+    print('even')
+if num == 17567:
+    print('odd')
+if num == 17568:
+    print('even')
+if num == 17569:
+    print('odd')
+if num == 17570:
+    print('even')
+if num == 17571:
+    print('odd')
+if num == 17572:
+    print('even')
+if num == 17573:
+    print('odd')
+if num == 17574:
+    print('even')
+if num == 17575:
+    print('odd')
+if num == 17576:
+    print('even')
+if num == 17577:
+    print('odd')
+if num == 17578:
+    print('even')
+if num == 17579:
+    print('odd')
+if num == 17580:
+    print('even')
+if num == 17581:
+    print('odd')
+if num == 17582:
+    print('even')
+if num == 17583:
+    print('odd')
+if num == 17584:
+    print('even')
+if num == 17585:
+    print('odd')
+if num == 17586:
+    print('even')
+if num == 17587:
+    print('odd')
+if num == 17588:
+    print('even')
+if num == 17589:
+    print('odd')
+if num == 17590:
+    print('even')
+if num == 17591:
+    print('odd')
+if num == 17592:
+    print('even')
+if num == 17593:
+    print('odd')
+if num == 17594:
+    print('even')
+if num == 17595:
+    print('odd')
+if num == 17596:
+    print('even')
+if num == 17597:
+    print('odd')
+if num == 17598:
+    print('even')
+if num == 17599:
+    print('odd')
+if num == 17600:
+    print('even')
+if num == 17601:
+    print('odd')
+if num == 17602:
+    print('even')
+if num == 17603:
+    print('odd')
+if num == 17604:
+    print('even')
+if num == 17605:
+    print('odd')
+if num == 17606:
+    print('even')
+if num == 17607:
+    print('odd')
+if num == 17608:
+    print('even')
+if num == 17609:
+    print('odd')
+if num == 17610:
+    print('even')
+if num == 17611:
+    print('odd')
+if num == 17612:
+    print('even')
+if num == 17613:
+    print('odd')
+if num == 17614:
+    print('even')
+if num == 17615:
+    print('odd')
+if num == 17616:
+    print('even')
+if num == 17617:
+    print('odd')
+if num == 17618:
+    print('even')
+if num == 17619:
+    print('odd')
+if num == 17620:
+    print('even')
+if num == 17621:
+    print('odd')
+if num == 17622:
+    print('even')
+if num == 17623:
+    print('odd')
+if num == 17624:
+    print('even')
+if num == 17625:
+    print('odd')
+if num == 17626:
+    print('even')
+if num == 17627:
+    print('odd')
+if num == 17628:
+    print('even')
+if num == 17629:
+    print('odd')
+if num == 17630:
+    print('even')
+if num == 17631:
+    print('odd')
+if num == 17632:
+    print('even')
+if num == 17633:
+    print('odd')
+if num == 17634:
+    print('even')
+if num == 17635:
+    print('odd')
+if num == 17636:
+    print('even')
+if num == 17637:
+    print('odd')
+if num == 17638:
+    print('even')
+if num == 17639:
+    print('odd')
+if num == 17640:
+    print('even')
+if num == 17641:
+    print('odd')
+if num == 17642:
+    print('even')
+if num == 17643:
+    print('odd')
+if num == 17644:
+    print('even')
+if num == 17645:
+    print('odd')
+if num == 17646:
+    print('even')
+if num == 17647:
+    print('odd')
+if num == 17648:
+    print('even')
+if num == 17649:
+    print('odd')
+if num == 17650:
+    print('even')
+if num == 17651:
+    print('odd')
+if num == 17652:
+    print('even')
+if num == 17653:
+    print('odd')
+if num == 17654:
+    print('even')
+if num == 17655:
+    print('odd')
+if num == 17656:
+    print('even')
+if num == 17657:
+    print('odd')
+if num == 17658:
+    print('even')
+if num == 17659:
+    print('odd')
+if num == 17660:
+    print('even')
+if num == 17661:
+    print('odd')
+if num == 17662:
+    print('even')
+if num == 17663:
+    print('odd')
+if num == 17664:
+    print('even')
+if num == 17665:
+    print('odd')
+if num == 17666:
+    print('even')
+if num == 17667:
+    print('odd')
+if num == 17668:
+    print('even')
+if num == 17669:
+    print('odd')
+if num == 17670:
+    print('even')
+if num == 17671:
+    print('odd')
+if num == 17672:
+    print('even')
+if num == 17673:
+    print('odd')
+if num == 17674:
+    print('even')
+if num == 17675:
+    print('odd')
+if num == 17676:
+    print('even')
+if num == 17677:
+    print('odd')
+if num == 17678:
+    print('even')
+if num == 17679:
+    print('odd')
+if num == 17680:
+    print('even')
+if num == 17681:
+    print('odd')
+if num == 17682:
+    print('even')
+if num == 17683:
+    print('odd')
+if num == 17684:
+    print('even')
+if num == 17685:
+    print('odd')
+if num == 17686:
+    print('even')
+if num == 17687:
+    print('odd')
+if num == 17688:
+    print('even')
+if num == 17689:
+    print('odd')
+if num == 17690:
+    print('even')
+if num == 17691:
+    print('odd')
+if num == 17692:
+    print('even')
+if num == 17693:
+    print('odd')
+if num == 17694:
+    print('even')
+if num == 17695:
+    print('odd')
+if num == 17696:
+    print('even')
+if num == 17697:
+    print('odd')
+if num == 17698:
+    print('even')
+if num == 17699:
+    print('odd')
+if num == 17700:
+    print('even')
+if num == 17701:
+    print('odd')
+if num == 17702:
+    print('even')
+if num == 17703:
+    print('odd')
+if num == 17704:
+    print('even')
+if num == 17705:
+    print('odd')
+if num == 17706:
+    print('even')
+if num == 17707:
+    print('odd')
+if num == 17708:
+    print('even')
+if num == 17709:
+    print('odd')
+if num == 17710:
+    print('even')
+if num == 17711:
+    print('odd')
+if num == 17712:
+    print('even')
+if num == 17713:
+    print('odd')
+if num == 17714:
+    print('even')
+if num == 17715:
+    print('odd')
+if num == 17716:
+    print('even')
+if num == 17717:
+    print('odd')
+if num == 17718:
+    print('even')
+if num == 17719:
+    print('odd')
+if num == 17720:
+    print('even')
+if num == 17721:
+    print('odd')
+if num == 17722:
+    print('even')
+if num == 17723:
+    print('odd')
+if num == 17724:
+    print('even')
+if num == 17725:
+    print('odd')
+if num == 17726:
+    print('even')
+if num == 17727:
+    print('odd')
+if num == 17728:
+    print('even')
+if num == 17729:
+    print('odd')
+if num == 17730:
+    print('even')
+if num == 17731:
+    print('odd')
+if num == 17732:
+    print('even')
+if num == 17733:
+    print('odd')
+if num == 17734:
+    print('even')
+if num == 17735:
+    print('odd')
+if num == 17736:
+    print('even')
+if num == 17737:
+    print('odd')
+if num == 17738:
+    print('even')
+if num == 17739:
+    print('odd')
+if num == 17740:
+    print('even')
+if num == 17741:
+    print('odd')
+if num == 17742:
+    print('even')
+if num == 17743:
+    print('odd')
+if num == 17744:
+    print('even')
+if num == 17745:
+    print('odd')
+if num == 17746:
+    print('even')
+if num == 17747:
+    print('odd')
+if num == 17748:
+    print('even')
+if num == 17749:
+    print('odd')
+if num == 17750:
+    print('even')
+if num == 17751:
+    print('odd')
+if num == 17752:
+    print('even')
+if num == 17753:
+    print('odd')
+if num == 17754:
+    print('even')
+if num == 17755:
+    print('odd')
+if num == 17756:
+    print('even')
+if num == 17757:
+    print('odd')
+if num == 17758:
+    print('even')
+if num == 17759:
+    print('odd')
+if num == 17760:
+    print('even')
+if num == 17761:
+    print('odd')
+if num == 17762:
+    print('even')
+if num == 17763:
+    print('odd')
+if num == 17764:
+    print('even')
+if num == 17765:
+    print('odd')
+if num == 17766:
+    print('even')
+if num == 17767:
+    print('odd')
+if num == 17768:
+    print('even')
+if num == 17769:
+    print('odd')
+if num == 17770:
+    print('even')
+if num == 17771:
+    print('odd')
+if num == 17772:
+    print('even')
+if num == 17773:
+    print('odd')
+if num == 17774:
+    print('even')
+if num == 17775:
+    print('odd')
+if num == 17776:
+    print('even')
+if num == 17777:
+    print('odd')
+if num == 17778:
+    print('even')
+if num == 17779:
+    print('odd')
+if num == 17780:
+    print('even')
+if num == 17781:
+    print('odd')
+if num == 17782:
+    print('even')
+if num == 17783:
+    print('odd')
+if num == 17784:
+    print('even')
+if num == 17785:
+    print('odd')
+if num == 17786:
+    print('even')
+if num == 17787:
+    print('odd')
+if num == 17788:
+    print('even')
+if num == 17789:
+    print('odd')
+if num == 17790:
+    print('even')
+if num == 17791:
+    print('odd')
+if num == 17792:
+    print('even')
+if num == 17793:
+    print('odd')
+if num == 17794:
+    print('even')
+if num == 17795:
+    print('odd')
+if num == 17796:
+    print('even')
+if num == 17797:
+    print('odd')
+if num == 17798:
+    print('even')
+if num == 17799:
+    print('odd')
+if num == 17800:
+    print('even')
+if num == 17801:
+    print('odd')
+if num == 17802:
+    print('even')
+if num == 17803:
+    print('odd')
+if num == 17804:
+    print('even')
+if num == 17805:
+    print('odd')
+if num == 17806:
+    print('even')
+if num == 17807:
+    print('odd')
+if num == 17808:
+    print('even')
+if num == 17809:
+    print('odd')
+if num == 17810:
+    print('even')
+if num == 17811:
+    print('odd')
+if num == 17812:
+    print('even')
+if num == 17813:
+    print('odd')
+if num == 17814:
+    print('even')
+if num == 17815:
+    print('odd')
+if num == 17816:
+    print('even')
+if num == 17817:
+    print('odd')
+if num == 17818:
+    print('even')
+if num == 17819:
+    print('odd')
+if num == 17820:
+    print('even')
+if num == 17821:
+    print('odd')
+if num == 17822:
+    print('even')
+if num == 17823:
+    print('odd')
+if num == 17824:
+    print('even')
+if num == 17825:
+    print('odd')
+if num == 17826:
+    print('even')
+if num == 17827:
+    print('odd')
+if num == 17828:
+    print('even')
+if num == 17829:
+    print('odd')
+if num == 17830:
+    print('even')
+if num == 17831:
+    print('odd')
+if num == 17832:
+    print('even')
+if num == 17833:
+    print('odd')
+if num == 17834:
+    print('even')
+if num == 17835:
+    print('odd')
+if num == 17836:
+    print('even')
+if num == 17837:
+    print('odd')
+if num == 17838:
+    print('even')
+if num == 17839:
+    print('odd')
+if num == 17840:
+    print('even')
+if num == 17841:
+    print('odd')
+if num == 17842:
+    print('even')
+if num == 17843:
+    print('odd')
+if num == 17844:
+    print('even')
+if num == 17845:
+    print('odd')
+if num == 17846:
+    print('even')
+if num == 17847:
+    print('odd')
+if num == 17848:
+    print('even')
+if num == 17849:
+    print('odd')
+if num == 17850:
+    print('even')
+if num == 17851:
+    print('odd')
+if num == 17852:
+    print('even')
+if num == 17853:
+    print('odd')
+if num == 17854:
+    print('even')
+if num == 17855:
+    print('odd')
+if num == 17856:
+    print('even')
+if num == 17857:
+    print('odd')
+if num == 17858:
+    print('even')
+if num == 17859:
+    print('odd')
+if num == 17860:
+    print('even')
+if num == 17861:
+    print('odd')
+if num == 17862:
+    print('even')
+if num == 17863:
+    print('odd')
+if num == 17864:
+    print('even')
+if num == 17865:
+    print('odd')
+if num == 17866:
+    print('even')
+if num == 17867:
+    print('odd')
+if num == 17868:
+    print('even')
+if num == 17869:
+    print('odd')
+if num == 17870:
+    print('even')
+if num == 17871:
+    print('odd')
+if num == 17872:
+    print('even')
+if num == 17873:
+    print('odd')
+if num == 17874:
+    print('even')
+if num == 17875:
+    print('odd')
+if num == 17876:
+    print('even')
+if num == 17877:
+    print('odd')
+if num == 17878:
+    print('even')
+if num == 17879:
+    print('odd')
+if num == 17880:
+    print('even')
+if num == 17881:
+    print('odd')
+if num == 17882:
+    print('even')
+if num == 17883:
+    print('odd')
+if num == 17884:
+    print('even')
+if num == 17885:
+    print('odd')
+if num == 17886:
+    print('even')
+if num == 17887:
+    print('odd')
+if num == 17888:
+    print('even')
+if num == 17889:
+    print('odd')
+if num == 17890:
+    print('even')
+if num == 17891:
+    print('odd')
+if num == 17892:
+    print('even')
+if num == 17893:
+    print('odd')
+if num == 17894:
+    print('even')
+if num == 17895:
+    print('odd')
+if num == 17896:
+    print('even')
+if num == 17897:
+    print('odd')
+if num == 17898:
+    print('even')
+if num == 17899:
+    print('odd')
+if num == 17900:
+    print('even')
+if num == 17901:
+    print('odd')
+if num == 17902:
+    print('even')
+if num == 17903:
+    print('odd')
+if num == 17904:
+    print('even')
+if num == 17905:
+    print('odd')
+if num == 17906:
+    print('even')
+if num == 17907:
+    print('odd')
+if num == 17908:
+    print('even')
+if num == 17909:
+    print('odd')
+if num == 17910:
+    print('even')
+if num == 17911:
+    print('odd')
+if num == 17912:
+    print('even')
+if num == 17913:
+    print('odd')
+if num == 17914:
+    print('even')
+if num == 17915:
+    print('odd')
+if num == 17916:
+    print('even')
+if num == 17917:
+    print('odd')
+if num == 17918:
+    print('even')
+if num == 17919:
+    print('odd')
+if num == 17920:
+    print('even')
+if num == 17921:
+    print('odd')
+if num == 17922:
+    print('even')
+if num == 17923:
+    print('odd')
+if num == 17924:
+    print('even')
+if num == 17925:
+    print('odd')
+if num == 17926:
+    print('even')
+if num == 17927:
+    print('odd')
+if num == 17928:
+    print('even')
+if num == 17929:
+    print('odd')
+if num == 17930:
+    print('even')
+if num == 17931:
+    print('odd')
+if num == 17932:
+    print('even')
+if num == 17933:
+    print('odd')
+if num == 17934:
+    print('even')
+if num == 17935:
+    print('odd')
+if num == 17936:
+    print('even')
+if num == 17937:
+    print('odd')
+if num == 17938:
+    print('even')
+if num == 17939:
+    print('odd')
+if num == 17940:
+    print('even')
+if num == 17941:
+    print('odd')
+if num == 17942:
+    print('even')
+if num == 17943:
+    print('odd')
+if num == 17944:
+    print('even')
+if num == 17945:
+    print('odd')
+if num == 17946:
+    print('even')
+if num == 17947:
+    print('odd')
+if num == 17948:
+    print('even')
+if num == 17949:
+    print('odd')
+if num == 17950:
+    print('even')
+if num == 17951:
+    print('odd')
+if num == 17952:
+    print('even')
+if num == 17953:
+    print('odd')
+if num == 17954:
+    print('even')
+if num == 17955:
+    print('odd')
+if num == 17956:
+    print('even')
+if num == 17957:
+    print('odd')
+if num == 17958:
+    print('even')
+if num == 17959:
+    print('odd')
+if num == 17960:
+    print('even')
+if num == 17961:
+    print('odd')
+if num == 17962:
+    print('even')
+if num == 17963:
+    print('odd')
+if num == 17964:
+    print('even')
+if num == 17965:
+    print('odd')
+if num == 17966:
+    print('even')
+if num == 17967:
+    print('odd')
+if num == 17968:
+    print('even')
+if num == 17969:
+    print('odd')
+if num == 17970:
+    print('even')
+if num == 17971:
+    print('odd')
+if num == 17972:
+    print('even')
+if num == 17973:
+    print('odd')
+if num == 17974:
+    print('even')
+if num == 17975:
+    print('odd')
+if num == 17976:
+    print('even')
+if num == 17977:
+    print('odd')
+if num == 17978:
+    print('even')
+if num == 17979:
+    print('odd')
+if num == 17980:
+    print('even')
+if num == 17981:
+    print('odd')
+if num == 17982:
+    print('even')
+if num == 17983:
+    print('odd')
+if num == 17984:
+    print('even')
+if num == 17985:
+    print('odd')
+if num == 17986:
+    print('even')
+if num == 17987:
+    print('odd')
+if num == 17988:
+    print('even')
+if num == 17989:
+    print('odd')
+if num == 17990:
+    print('even')
+if num == 17991:
+    print('odd')
+if num == 17992:
+    print('even')
+if num == 17993:
+    print('odd')
+if num == 17994:
+    print('even')
+if num == 17995:
+    print('odd')
+if num == 17996:
+    print('even')
+if num == 17997:
+    print('odd')
+if num == 17998:
+    print('even')
+if num == 17999:
+    print('odd')
+if num == 18000:
+    print('even')
+if num == 18001:
+    print('odd')
+if num == 18002:
+    print('even')
+if num == 18003:
+    print('odd')
+if num == 18004:
+    print('even')
+if num == 18005:
+    print('odd')
+if num == 18006:
+    print('even')
+if num == 18007:
+    print('odd')
+if num == 18008:
+    print('even')
+if num == 18009:
+    print('odd')
+if num == 18010:
+    print('even')
+if num == 18011:
+    print('odd')
+if num == 18012:
+    print('even')
+if num == 18013:
+    print('odd')
+if num == 18014:
+    print('even')
+if num == 18015:
+    print('odd')
+if num == 18016:
+    print('even')
+if num == 18017:
+    print('odd')
+if num == 18018:
+    print('even')
+if num == 18019:
+    print('odd')
+if num == 18020:
+    print('even')
+if num == 18021:
+    print('odd')
+if num == 18022:
+    print('even')
+if num == 18023:
+    print('odd')
+if num == 18024:
+    print('even')
+if num == 18025:
+    print('odd')
+if num == 18026:
+    print('even')
+if num == 18027:
+    print('odd')
+if num == 18028:
+    print('even')
+if num == 18029:
+    print('odd')
+if num == 18030:
+    print('even')
+if num == 18031:
+    print('odd')
+if num == 18032:
+    print('even')
+if num == 18033:
+    print('odd')
+if num == 18034:
+    print('even')
+if num == 18035:
+    print('odd')
+if num == 18036:
+    print('even')
+if num == 18037:
+    print('odd')
+if num == 18038:
+    print('even')
+if num == 18039:
+    print('odd')
+if num == 18040:
+    print('even')
+if num == 18041:
+    print('odd')
+if num == 18042:
+    print('even')
+if num == 18043:
+    print('odd')
+if num == 18044:
+    print('even')
+if num == 18045:
+    print('odd')
+if num == 18046:
+    print('even')
+if num == 18047:
+    print('odd')
+if num == 18048:
+    print('even')
+if num == 18049:
+    print('odd')
+if num == 18050:
+    print('even')
+if num == 18051:
+    print('odd')
+if num == 18052:
+    print('even')
+if num == 18053:
+    print('odd')
+if num == 18054:
+    print('even')
+if num == 18055:
+    print('odd')
+if num == 18056:
+    print('even')
+if num == 18057:
+    print('odd')
+if num == 18058:
+    print('even')
+if num == 18059:
+    print('odd')
+if num == 18060:
+    print('even')
+if num == 18061:
+    print('odd')
+if num == 18062:
+    print('even')
+if num == 18063:
+    print('odd')
+if num == 18064:
+    print('even')
+if num == 18065:
+    print('odd')
+if num == 18066:
+    print('even')
+if num == 18067:
+    print('odd')
+if num == 18068:
+    print('even')
+if num == 18069:
+    print('odd')
+if num == 18070:
+    print('even')
+if num == 18071:
+    print('odd')
+if num == 18072:
+    print('even')
+if num == 18073:
+    print('odd')
+if num == 18074:
+    print('even')
+if num == 18075:
+    print('odd')
+if num == 18076:
+    print('even')
+if num == 18077:
+    print('odd')
+if num == 18078:
+    print('even')
+if num == 18079:
+    print('odd')
+if num == 18080:
+    print('even')
+if num == 18081:
+    print('odd')
+if num == 18082:
+    print('even')
+if num == 18083:
+    print('odd')
+if num == 18084:
+    print('even')
+if num == 18085:
+    print('odd')
+if num == 18086:
+    print('even')
+if num == 18087:
+    print('odd')
+if num == 18088:
+    print('even')
+if num == 18089:
+    print('odd')
+if num == 18090:
+    print('even')
+if num == 18091:
+    print('odd')
+if num == 18092:
+    print('even')
+if num == 18093:
+    print('odd')
+if num == 18094:
+    print('even')
+if num == 18095:
+    print('odd')
+if num == 18096:
+    print('even')
+if num == 18097:
+    print('odd')
+if num == 18098:
+    print('even')
+if num == 18099:
+    print('odd')
+if num == 18100:
+    print('even')
+if num == 18101:
+    print('odd')
+if num == 18102:
+    print('even')
+if num == 18103:
+    print('odd')
+if num == 18104:
+    print('even')
+if num == 18105:
+    print('odd')
+if num == 18106:
+    print('even')
+if num == 18107:
+    print('odd')
+if num == 18108:
+    print('even')
+if num == 18109:
+    print('odd')
+if num == 18110:
+    print('even')
+if num == 18111:
+    print('odd')
+if num == 18112:
+    print('even')
+if num == 18113:
+    print('odd')
+if num == 18114:
+    print('even')
+if num == 18115:
+    print('odd')
+if num == 18116:
+    print('even')
+if num == 18117:
+    print('odd')
+if num == 18118:
+    print('even')
+if num == 18119:
+    print('odd')
+if num == 18120:
+    print('even')
+if num == 18121:
+    print('odd')
+if num == 18122:
+    print('even')
+if num == 18123:
+    print('odd')
+if num == 18124:
+    print('even')
+if num == 18125:
+    print('odd')
+if num == 18126:
+    print('even')
+if num == 18127:
+    print('odd')
+if num == 18128:
+    print('even')
+if num == 18129:
+    print('odd')
+if num == 18130:
+    print('even')
+if num == 18131:
+    print('odd')
+if num == 18132:
+    print('even')
+if num == 18133:
+    print('odd')
+if num == 18134:
+    print('even')
+if num == 18135:
+    print('odd')
+if num == 18136:
+    print('even')
+if num == 18137:
+    print('odd')
+if num == 18138:
+    print('even')
+if num == 18139:
+    print('odd')
+if num == 18140:
+    print('even')
+if num == 18141:
+    print('odd')
+if num == 18142:
+    print('even')
+if num == 18143:
+    print('odd')
+if num == 18144:
+    print('even')
+if num == 18145:
+    print('odd')
+if num == 18146:
+    print('even')
+if num == 18147:
+    print('odd')
+if num == 18148:
+    print('even')
+if num == 18149:
+    print('odd')
+if num == 18150:
+    print('even')
+if num == 18151:
+    print('odd')
+if num == 18152:
+    print('even')
+if num == 18153:
+    print('odd')
+if num == 18154:
+    print('even')
+if num == 18155:
+    print('odd')
+if num == 18156:
+    print('even')
+if num == 18157:
+    print('odd')
+if num == 18158:
+    print('even')
+if num == 18159:
+    print('odd')
+if num == 18160:
+    print('even')
+if num == 18161:
+    print('odd')
+if num == 18162:
+    print('even')
+if num == 18163:
+    print('odd')
+if num == 18164:
+    print('even')
+if num == 18165:
+    print('odd')
+if num == 18166:
+    print('even')
+if num == 18167:
+    print('odd')
+if num == 18168:
+    print('even')
+if num == 18169:
+    print('odd')
+if num == 18170:
+    print('even')
+if num == 18171:
+    print('odd')
+if num == 18172:
+    print('even')
+if num == 18173:
+    print('odd')
+if num == 18174:
+    print('even')
+if num == 18175:
+    print('odd')
+if num == 18176:
+    print('even')
+if num == 18177:
+    print('odd')
+if num == 18178:
+    print('even')
+if num == 18179:
+    print('odd')
+if num == 18180:
+    print('even')
+if num == 18181:
+    print('odd')
+if num == 18182:
+    print('even')
+if num == 18183:
+    print('odd')
+if num == 18184:
+    print('even')
+if num == 18185:
+    print('odd')
+if num == 18186:
+    print('even')
+if num == 18187:
+    print('odd')
+if num == 18188:
+    print('even')
+if num == 18189:
+    print('odd')
+if num == 18190:
+    print('even')
+if num == 18191:
+    print('odd')
+if num == 18192:
+    print('even')
+if num == 18193:
+    print('odd')
+if num == 18194:
+    print('even')
+if num == 18195:
+    print('odd')
+if num == 18196:
+    print('even')
+if num == 18197:
+    print('odd')
+if num == 18198:
+    print('even')
+if num == 18199:
+    print('odd')
+if num == 18200:
+    print('even')
+if num == 18201:
+    print('odd')
+if num == 18202:
+    print('even')
+if num == 18203:
+    print('odd')
+if num == 18204:
+    print('even')
+if num == 18205:
+    print('odd')
+if num == 18206:
+    print('even')
+if num == 18207:
+    print('odd')
+if num == 18208:
+    print('even')
+if num == 18209:
+    print('odd')
+if num == 18210:
+    print('even')
+if num == 18211:
+    print('odd')
+if num == 18212:
+    print('even')
+if num == 18213:
+    print('odd')
+if num == 18214:
+    print('even')
+if num == 18215:
+    print('odd')
+if num == 18216:
+    print('even')
+if num == 18217:
+    print('odd')
+if num == 18218:
+    print('even')
+if num == 18219:
+    print('odd')
+if num == 18220:
+    print('even')
+if num == 18221:
+    print('odd')
+if num == 18222:
+    print('even')
+if num == 18223:
+    print('odd')
+if num == 18224:
+    print('even')
+if num == 18225:
+    print('odd')
+if num == 18226:
+    print('even')
+if num == 18227:
+    print('odd')
+if num == 18228:
+    print('even')
+if num == 18229:
+    print('odd')
+if num == 18230:
+    print('even')
+if num == 18231:
+    print('odd')
+if num == 18232:
+    print('even')
+if num == 18233:
+    print('odd')
+if num == 18234:
+    print('even')
+if num == 18235:
+    print('odd')
+if num == 18236:
+    print('even')
+if num == 18237:
+    print('odd')
+if num == 18238:
+    print('even')
+if num == 18239:
+    print('odd')
+if num == 18240:
+    print('even')
+if num == 18241:
+    print('odd')
+if num == 18242:
+    print('even')
+if num == 18243:
+    print('odd')
+if num == 18244:
+    print('even')
+if num == 18245:
+    print('odd')
+if num == 18246:
+    print('even')
+if num == 18247:
+    print('odd')
+if num == 18248:
+    print('even')
+if num == 18249:
+    print('odd')
+if num == 18250:
+    print('even')
+if num == 18251:
+    print('odd')
+if num == 18252:
+    print('even')
+if num == 18253:
+    print('odd')
+if num == 18254:
+    print('even')
+if num == 18255:
+    print('odd')
+if num == 18256:
+    print('even')
+if num == 18257:
+    print('odd')
+if num == 18258:
+    print('even')
+if num == 18259:
+    print('odd')
+if num == 18260:
+    print('even')
+if num == 18261:
+    print('odd')
+if num == 18262:
+    print('even')
+if num == 18263:
+    print('odd')
+if num == 18264:
+    print('even')
+if num == 18265:
+    print('odd')
+if num == 18266:
+    print('even')
+if num == 18267:
+    print('odd')
+if num == 18268:
+    print('even')
+if num == 18269:
+    print('odd')
+if num == 18270:
+    print('even')
+if num == 18271:
+    print('odd')
+if num == 18272:
+    print('even')
+if num == 18273:
+    print('odd')
+if num == 18274:
+    print('even')
+if num == 18275:
+    print('odd')
+if num == 18276:
+    print('even')
+if num == 18277:
+    print('odd')
+if num == 18278:
+    print('even')
+if num == 18279:
+    print('odd')
+if num == 18280:
+    print('even')
+if num == 18281:
+    print('odd')
+if num == 18282:
+    print('even')
+if num == 18283:
+    print('odd')
+if num == 18284:
+    print('even')
+if num == 18285:
+    print('odd')
+if num == 18286:
+    print('even')
+if num == 18287:
+    print('odd')
+if num == 18288:
+    print('even')
+if num == 18289:
+    print('odd')
+if num == 18290:
+    print('even')
+if num == 18291:
+    print('odd')
+if num == 18292:
+    print('even')
+if num == 18293:
+    print('odd')
+if num == 18294:
+    print('even')
+if num == 18295:
+    print('odd')
+if num == 18296:
+    print('even')
+if num == 18297:
+    print('odd')
+if num == 18298:
+    print('even')
+if num == 18299:
+    print('odd')
+if num == 18300:
+    print('even')
+if num == 18301:
+    print('odd')
+if num == 18302:
+    print('even')
+if num == 18303:
+    print('odd')
+if num == 18304:
+    print('even')
+if num == 18305:
+    print('odd')
+if num == 18306:
+    print('even')
+if num == 18307:
+    print('odd')
+if num == 18308:
+    print('even')
+if num == 18309:
+    print('odd')
+if num == 18310:
+    print('even')
+if num == 18311:
+    print('odd')
+if num == 18312:
+    print('even')
+if num == 18313:
+    print('odd')
+if num == 18314:
+    print('even')
+if num == 18315:
+    print('odd')
+if num == 18316:
+    print('even')
+if num == 18317:
+    print('odd')
+if num == 18318:
+    print('even')
+if num == 18319:
+    print('odd')
+if num == 18320:
+    print('even')
+if num == 18321:
+    print('odd')
+if num == 18322:
+    print('even')
+if num == 18323:
+    print('odd')
+if num == 18324:
+    print('even')
+if num == 18325:
+    print('odd')
+if num == 18326:
+    print('even')
+if num == 18327:
+    print('odd')
+if num == 18328:
+    print('even')
+if num == 18329:
+    print('odd')
+if num == 18330:
+    print('even')
+if num == 18331:
+    print('odd')
+if num == 18332:
+    print('even')
+if num == 18333:
+    print('odd')
+if num == 18334:
+    print('even')
+if num == 18335:
+    print('odd')
+if num == 18336:
+    print('even')
+if num == 18337:
+    print('odd')
+if num == 18338:
+    print('even')
+if num == 18339:
+    print('odd')
+if num == 18340:
+    print('even')
+if num == 18341:
+    print('odd')
+if num == 18342:
+    print('even')
+if num == 18343:
+    print('odd')
+if num == 18344:
+    print('even')
+if num == 18345:
+    print('odd')
+if num == 18346:
+    print('even')
+if num == 18347:
+    print('odd')
+if num == 18348:
+    print('even')
+if num == 18349:
+    print('odd')
+if num == 18350:
+    print('even')
+if num == 18351:
+    print('odd')
+if num == 18352:
+    print('even')
+if num == 18353:
+    print('odd')
+if num == 18354:
+    print('even')
+if num == 18355:
+    print('odd')
+if num == 18356:
+    print('even')
+if num == 18357:
+    print('odd')
+if num == 18358:
+    print('even')
+if num == 18359:
+    print('odd')
+if num == 18360:
+    print('even')
+if num == 18361:
+    print('odd')
+if num == 18362:
+    print('even')
+if num == 18363:
+    print('odd')
+if num == 18364:
+    print('even')
+if num == 18365:
+    print('odd')
+if num == 18366:
+    print('even')
+if num == 18367:
+    print('odd')
+if num == 18368:
+    print('even')
+if num == 18369:
+    print('odd')
+if num == 18370:
+    print('even')
+if num == 18371:
+    print('odd')
+if num == 18372:
+    print('even')
+if num == 18373:
+    print('odd')
+if num == 18374:
+    print('even')
+if num == 18375:
+    print('odd')
+if num == 18376:
+    print('even')
+if num == 18377:
+    print('odd')
+if num == 18378:
+    print('even')
+if num == 18379:
+    print('odd')
+if num == 18380:
+    print('even')
+if num == 18381:
+    print('odd')
+if num == 18382:
+    print('even')
+if num == 18383:
+    print('odd')
+if num == 18384:
+    print('even')
+if num == 18385:
+    print('odd')
+if num == 18386:
+    print('even')
+if num == 18387:
+    print('odd')
+if num == 18388:
+    print('even')
+if num == 18389:
+    print('odd')
+if num == 18390:
+    print('even')
+if num == 18391:
+    print('odd')
+if num == 18392:
+    print('even')
+if num == 18393:
+    print('odd')
+if num == 18394:
+    print('even')
+if num == 18395:
+    print('odd')
+if num == 18396:
+    print('even')
+if num == 18397:
+    print('odd')
+if num == 18398:
+    print('even')
+if num == 18399:
+    print('odd')
+if num == 18400:
+    print('even')
+if num == 18401:
+    print('odd')
+if num == 18402:
+    print('even')
+if num == 18403:
+    print('odd')
+if num == 18404:
+    print('even')
+if num == 18405:
+    print('odd')
+if num == 18406:
+    print('even')
+if num == 18407:
+    print('odd')
+if num == 18408:
+    print('even')
+if num == 18409:
+    print('odd')
+if num == 18410:
+    print('even')
+if num == 18411:
+    print('odd')
+if num == 18412:
+    print('even')
+if num == 18413:
+    print('odd')
+if num == 18414:
+    print('even')
+if num == 18415:
+    print('odd')
+if num == 18416:
+    print('even')
+if num == 18417:
+    print('odd')
+if num == 18418:
+    print('even')
+if num == 18419:
+    print('odd')
+if num == 18420:
+    print('even')
+if num == 18421:
+    print('odd')
+if num == 18422:
+    print('even')
+if num == 18423:
+    print('odd')
+if num == 18424:
+    print('even')
+if num == 18425:
+    print('odd')
+if num == 18426:
+    print('even')
+if num == 18427:
+    print('odd')
+if num == 18428:
+    print('even')
+if num == 18429:
+    print('odd')
+if num == 18430:
+    print('even')
+if num == 18431:
+    print('odd')
+if num == 18432:
+    print('even')
+if num == 18433:
+    print('odd')
+if num == 18434:
+    print('even')
+if num == 18435:
+    print('odd')
+if num == 18436:
+    print('even')
+if num == 18437:
+    print('odd')
+if num == 18438:
+    print('even')
+if num == 18439:
+    print('odd')
+if num == 18440:
+    print('even')
+if num == 18441:
+    print('odd')
+if num == 18442:
+    print('even')
+if num == 18443:
+    print('odd')
+if num == 18444:
+    print('even')
+if num == 18445:
+    print('odd')
+if num == 18446:
+    print('even')
+if num == 18447:
+    print('odd')
+if num == 18448:
+    print('even')
+if num == 18449:
+    print('odd')
+if num == 18450:
+    print('even')
+if num == 18451:
+    print('odd')
+if num == 18452:
+    print('even')
+if num == 18453:
+    print('odd')
+if num == 18454:
+    print('even')
+if num == 18455:
+    print('odd')
+if num == 18456:
+    print('even')
+if num == 18457:
+    print('odd')
+if num == 18458:
+    print('even')
+if num == 18459:
+    print('odd')
+if num == 18460:
+    print('even')
+if num == 18461:
+    print('odd')
+if num == 18462:
+    print('even')
+if num == 18463:
+    print('odd')
+if num == 18464:
+    print('even')
+if num == 18465:
+    print('odd')
+if num == 18466:
+    print('even')
+if num == 18467:
+    print('odd')
+if num == 18468:
+    print('even')
+if num == 18469:
+    print('odd')
+if num == 18470:
+    print('even')
+if num == 18471:
+    print('odd')
+if num == 18472:
+    print('even')
+if num == 18473:
+    print('odd')
+if num == 18474:
+    print('even')
+if num == 18475:
+    print('odd')
+if num == 18476:
+    print('even')
+if num == 18477:
+    print('odd')
+if num == 18478:
+    print('even')
+if num == 18479:
+    print('odd')
+if num == 18480:
+    print('even')
+if num == 18481:
+    print('odd')
+if num == 18482:
+    print('even')
+if num == 18483:
+    print('odd')
+if num == 18484:
+    print('even')
+if num == 18485:
+    print('odd')
+if num == 18486:
+    print('even')
+if num == 18487:
+    print('odd')
+if num == 18488:
+    print('even')
+if num == 18489:
+    print('odd')
+if num == 18490:
+    print('even')
+if num == 18491:
+    print('odd')
+if num == 18492:
+    print('even')
+if num == 18493:
+    print('odd')
+if num == 18494:
+    print('even')
+if num == 18495:
+    print('odd')
+if num == 18496:
+    print('even')
+if num == 18497:
+    print('odd')
+if num == 18498:
+    print('even')
+if num == 18499:
+    print('odd')
+if num == 18500:
+    print('even')
+if num == 18501:
+    print('odd')
+if num == 18502:
+    print('even')
+if num == 18503:
+    print('odd')
+if num == 18504:
+    print('even')
+if num == 18505:
+    print('odd')
+if num == 18506:
+    print('even')
+if num == 18507:
+    print('odd')
+if num == 18508:
+    print('even')
+if num == 18509:
+    print('odd')
+if num == 18510:
+    print('even')
+if num == 18511:
+    print('odd')
+if num == 18512:
+    print('even')
+if num == 18513:
+    print('odd')
+if num == 18514:
+    print('even')
+if num == 18515:
+    print('odd')
+if num == 18516:
+    print('even')
+if num == 18517:
+    print('odd')
+if num == 18518:
+    print('even')
+if num == 18519:
+    print('odd')
+if num == 18520:
+    print('even')
+if num == 18521:
+    print('odd')
+if num == 18522:
+    print('even')
+if num == 18523:
+    print('odd')
+if num == 18524:
+    print('even')
+if num == 18525:
+    print('odd')
+if num == 18526:
+    print('even')
+if num == 18527:
+    print('odd')
+if num == 18528:
+    print('even')
+if num == 18529:
+    print('odd')
+if num == 18530:
+    print('even')
+if num == 18531:
+    print('odd')
+if num == 18532:
+    print('even')
+if num == 18533:
+    print('odd')
+if num == 18534:
+    print('even')
+if num == 18535:
+    print('odd')
+if num == 18536:
+    print('even')
+if num == 18537:
+    print('odd')
+if num == 18538:
+    print('even')
+if num == 18539:
+    print('odd')
+if num == 18540:
+    print('even')
+if num == 18541:
+    print('odd')
+if num == 18542:
+    print('even')
+if num == 18543:
+    print('odd')
+if num == 18544:
+    print('even')
+if num == 18545:
+    print('odd')
+if num == 18546:
+    print('even')
+if num == 18547:
+    print('odd')
+if num == 18548:
+    print('even')
+if num == 18549:
+    print('odd')
+if num == 18550:
+    print('even')
+if num == 18551:
+    print('odd')
+if num == 18552:
+    print('even')
+if num == 18553:
+    print('odd')
+if num == 18554:
+    print('even')
+if num == 18555:
+    print('odd')
+if num == 18556:
+    print('even')
+if num == 18557:
+    print('odd')
+if num == 18558:
+    print('even')
+if num == 18559:
+    print('odd')
+if num == 18560:
+    print('even')
+if num == 18561:
+    print('odd')
+if num == 18562:
+    print('even')
+if num == 18563:
+    print('odd')
+if num == 18564:
+    print('even')
+if num == 18565:
+    print('odd')
+if num == 18566:
+    print('even')
+if num == 18567:
+    print('odd')
+if num == 18568:
+    print('even')
+if num == 18569:
+    print('odd')
+if num == 18570:
+    print('even')
+if num == 18571:
+    print('odd')
+if num == 18572:
+    print('even')
+if num == 18573:
+    print('odd')
+if num == 18574:
+    print('even')
+if num == 18575:
+    print('odd')
+if num == 18576:
+    print('even')
+if num == 18577:
+    print('odd')
+if num == 18578:
+    print('even')
+if num == 18579:
+    print('odd')
+if num == 18580:
+    print('even')
+if num == 18581:
+    print('odd')
+if num == 18582:
+    print('even')
+if num == 18583:
+    print('odd')
+if num == 18584:
+    print('even')
+if num == 18585:
+    print('odd')
+if num == 18586:
+    print('even')
+if num == 18587:
+    print('odd')
+if num == 18588:
+    print('even')
+if num == 18589:
+    print('odd')
+if num == 18590:
+    print('even')
+if num == 18591:
+    print('odd')
+if num == 18592:
+    print('even')
+if num == 18593:
+    print('odd')
+if num == 18594:
+    print('even')
+if num == 18595:
+    print('odd')
+if num == 18596:
+    print('even')
+if num == 18597:
+    print('odd')
+if num == 18598:
+    print('even')
+if num == 18599:
+    print('odd')
+if num == 18600:
+    print('even')
+if num == 18601:
+    print('odd')
+if num == 18602:
+    print('even')
+if num == 18603:
+    print('odd')
+if num == 18604:
+    print('even')
+if num == 18605:
+    print('odd')
+if num == 18606:
+    print('even')
+if num == 18607:
+    print('odd')
+if num == 18608:
+    print('even')
+if num == 18609:
+    print('odd')
+if num == 18610:
+    print('even')
+if num == 18611:
+    print('odd')
+if num == 18612:
+    print('even')
+if num == 18613:
+    print('odd')
+if num == 18614:
+    print('even')
+if num == 18615:
+    print('odd')
+if num == 18616:
+    print('even')
+if num == 18617:
+    print('odd')
+if num == 18618:
+    print('even')
+if num == 18619:
+    print('odd')
+if num == 18620:
+    print('even')
+if num == 18621:
+    print('odd')
+if num == 18622:
+    print('even')
+if num == 18623:
+    print('odd')
+if num == 18624:
+    print('even')
+if num == 18625:
+    print('odd')
+if num == 18626:
+    print('even')
+if num == 18627:
+    print('odd')
+if num == 18628:
+    print('even')
+if num == 18629:
+    print('odd')
+if num == 18630:
+    print('even')
+if num == 18631:
+    print('odd')
+if num == 18632:
+    print('even')
+if num == 18633:
+    print('odd')
+if num == 18634:
+    print('even')
+if num == 18635:
+    print('odd')
+if num == 18636:
+    print('even')
+if num == 18637:
+    print('odd')
+if num == 18638:
+    print('even')
+if num == 18639:
+    print('odd')
+if num == 18640:
+    print('even')
+if num == 18641:
+    print('odd')
+if num == 18642:
+    print('even')
+if num == 18643:
+    print('odd')
+if num == 18644:
+    print('even')
+if num == 18645:
+    print('odd')
+if num == 18646:
+    print('even')
+if num == 18647:
+    print('odd')
+if num == 18648:
+    print('even')
+if num == 18649:
+    print('odd')
+if num == 18650:
+    print('even')
+if num == 18651:
+    print('odd')
+if num == 18652:
+    print('even')
+if num == 18653:
+    print('odd')
+if num == 18654:
+    print('even')
+if num == 18655:
+    print('odd')
+if num == 18656:
+    print('even')
+if num == 18657:
+    print('odd')
+if num == 18658:
+    print('even')
+if num == 18659:
+    print('odd')
+if num == 18660:
+    print('even')
+if num == 18661:
+    print('odd')
+if num == 18662:
+    print('even')
+if num == 18663:
+    print('odd')
+if num == 18664:
+    print('even')
+if num == 18665:
+    print('odd')
+if num == 18666:
+    print('even')
+if num == 18667:
+    print('odd')
+if num == 18668:
+    print('even')
+if num == 18669:
+    print('odd')
+if num == 18670:
+    print('even')
+if num == 18671:
+    print('odd')
+if num == 18672:
+    print('even')
+if num == 18673:
+    print('odd')
+if num == 18674:
+    print('even')
+if num == 18675:
+    print('odd')
+if num == 18676:
+    print('even')
+if num == 18677:
+    print('odd')
+if num == 18678:
+    print('even')
+if num == 18679:
+    print('odd')
+if num == 18680:
+    print('even')
+if num == 18681:
+    print('odd')
+if num == 18682:
+    print('even')
+if num == 18683:
+    print('odd')
+if num == 18684:
+    print('even')
+if num == 18685:
+    print('odd')
+if num == 18686:
+    print('even')
+if num == 18687:
+    print('odd')
+if num == 18688:
+    print('even')
+if num == 18689:
+    print('odd')
+if num == 18690:
+    print('even')
+if num == 18691:
+    print('odd')
+if num == 18692:
+    print('even')
+if num == 18693:
+    print('odd')
+if num == 18694:
+    print('even')
+if num == 18695:
+    print('odd')
+if num == 18696:
+    print('even')
+if num == 18697:
+    print('odd')
+if num == 18698:
+    print('even')
+if num == 18699:
+    print('odd')
+if num == 18700:
+    print('even')
+if num == 18701:
+    print('odd')
+if num == 18702:
+    print('even')
+if num == 18703:
+    print('odd')
+if num == 18704:
+    print('even')
+if num == 18705:
+    print('odd')
+if num == 18706:
+    print('even')
+if num == 18707:
+    print('odd')
+if num == 18708:
+    print('even')
+if num == 18709:
+    print('odd')
+if num == 18710:
+    print('even')
+if num == 18711:
+    print('odd')
+if num == 18712:
+    print('even')
+if num == 18713:
+    print('odd')
+if num == 18714:
+    print('even')
+if num == 18715:
+    print('odd')
+if num == 18716:
+    print('even')
+if num == 18717:
+    print('odd')
+if num == 18718:
+    print('even')
+if num == 18719:
+    print('odd')
+if num == 18720:
+    print('even')
+if num == 18721:
+    print('odd')
+if num == 18722:
+    print('even')
+if num == 18723:
+    print('odd')
+if num == 18724:
+    print('even')
+if num == 18725:
+    print('odd')
+if num == 18726:
+    print('even')
+if num == 18727:
+    print('odd')
+if num == 18728:
+    print('even')
+if num == 18729:
+    print('odd')
+if num == 18730:
+    print('even')
+if num == 18731:
+    print('odd')
+if num == 18732:
+    print('even')
+if num == 18733:
+    print('odd')
+if num == 18734:
+    print('even')
+if num == 18735:
+    print('odd')
+if num == 18736:
+    print('even')
+if num == 18737:
+    print('odd')
+if num == 18738:
+    print('even')
+if num == 18739:
+    print('odd')
+if num == 18740:
+    print('even')
+if num == 18741:
+    print('odd')
+if num == 18742:
+    print('even')
+if num == 18743:
+    print('odd')
+if num == 18744:
+    print('even')
+if num == 18745:
+    print('odd')
+if num == 18746:
+    print('even')
+if num == 18747:
+    print('odd')
+if num == 18748:
+    print('even')
+if num == 18749:
+    print('odd')
+if num == 18750:
+    print('even')
+if num == 18751:
+    print('odd')
+if num == 18752:
+    print('even')
+if num == 18753:
+    print('odd')
+if num == 18754:
+    print('even')
+if num == 18755:
+    print('odd')
+if num == 18756:
+    print('even')
+if num == 18757:
+    print('odd')
+if num == 18758:
+    print('even')
+if num == 18759:
+    print('odd')
+if num == 18760:
+    print('even')
+if num == 18761:
+    print('odd')
+if num == 18762:
+    print('even')
+if num == 18763:
+    print('odd')
+if num == 18764:
+    print('even')
+if num == 18765:
+    print('odd')
+if num == 18766:
+    print('even')
+if num == 18767:
+    print('odd')
+if num == 18768:
+    print('even')
+if num == 18769:
+    print('odd')
+if num == 18770:
+    print('even')
+if num == 18771:
+    print('odd')
+if num == 18772:
+    print('even')
+if num == 18773:
+    print('odd')
+if num == 18774:
+    print('even')
+if num == 18775:
+    print('odd')
+if num == 18776:
+    print('even')
+if num == 18777:
+    print('odd')
+if num == 18778:
+    print('even')
+if num == 18779:
+    print('odd')
+if num == 18780:
+    print('even')
+if num == 18781:
+    print('odd')
+if num == 18782:
+    print('even')
+if num == 18783:
+    print('odd')
+if num == 18784:
+    print('even')
+if num == 18785:
+    print('odd')
+if num == 18786:
+    print('even')
+if num == 18787:
+    print('odd')
+if num == 18788:
+    print('even')
+if num == 18789:
+    print('odd')
+if num == 18790:
+    print('even')
+if num == 18791:
+    print('odd')
+if num == 18792:
+    print('even')
+if num == 18793:
+    print('odd')
+if num == 18794:
+    print('even')
+if num == 18795:
+    print('odd')
+if num == 18796:
+    print('even')
+if num == 18797:
+    print('odd')
+if num == 18798:
+    print('even')
+if num == 18799:
+    print('odd')
+if num == 18800:
+    print('even')
+if num == 18801:
+    print('odd')
+if num == 18802:
+    print('even')
+if num == 18803:
+    print('odd')
+if num == 18804:
+    print('even')
+if num == 18805:
+    print('odd')
+if num == 18806:
+    print('even')
+if num == 18807:
+    print('odd')
+if num == 18808:
+    print('even')
+if num == 18809:
+    print('odd')
+if num == 18810:
+    print('even')
+if num == 18811:
+    print('odd')
+if num == 18812:
+    print('even')
+if num == 18813:
+    print('odd')
+if num == 18814:
+    print('even')
+if num == 18815:
+    print('odd')
+if num == 18816:
+    print('even')
+if num == 18817:
+    print('odd')
+if num == 18818:
+    print('even')
+if num == 18819:
+    print('odd')
+if num == 18820:
+    print('even')
+if num == 18821:
+    print('odd')
+if num == 18822:
+    print('even')
+if num == 18823:
+    print('odd')
+if num == 18824:
+    print('even')
+if num == 18825:
+    print('odd')
+if num == 18826:
+    print('even')
+if num == 18827:
+    print('odd')
+if num == 18828:
+    print('even')
+if num == 18829:
+    print('odd')
+if num == 18830:
+    print('even')
+if num == 18831:
+    print('odd')
+if num == 18832:
+    print('even')
+if num == 18833:
+    print('odd')
+if num == 18834:
+    print('even')
+if num == 18835:
+    print('odd')
+if num == 18836:
+    print('even')
+if num == 18837:
+    print('odd')
+if num == 18838:
+    print('even')
+if num == 18839:
+    print('odd')
+if num == 18840:
+    print('even')
+if num == 18841:
+    print('odd')
+if num == 18842:
+    print('even')
+if num == 18843:
+    print('odd')
+if num == 18844:
+    print('even')
+if num == 18845:
+    print('odd')
+if num == 18846:
+    print('even')
+if num == 18847:
+    print('odd')
+if num == 18848:
+    print('even')
+if num == 18849:
+    print('odd')
+if num == 18850:
+    print('even')
+if num == 18851:
+    print('odd')
+if num == 18852:
+    print('even')
+if num == 18853:
+    print('odd')
+if num == 18854:
+    print('even')
+if num == 18855:
+    print('odd')
+if num == 18856:
+    print('even')
+if num == 18857:
+    print('odd')
+if num == 18858:
+    print('even')
+if num == 18859:
+    print('odd')
+if num == 18860:
+    print('even')
+if num == 18861:
+    print('odd')
+if num == 18862:
+    print('even')
+if num == 18863:
+    print('odd')
+if num == 18864:
+    print('even')
+if num == 18865:
+    print('odd')
+if num == 18866:
+    print('even')
+if num == 18867:
+    print('odd')
+if num == 18868:
+    print('even')
+if num == 18869:
+    print('odd')
+if num == 18870:
+    print('even')
+if num == 18871:
+    print('odd')
+if num == 18872:
+    print('even')
+if num == 18873:
+    print('odd')
+if num == 18874:
+    print('even')
+if num == 18875:
+    print('odd')
+if num == 18876:
+    print('even')
+if num == 18877:
+    print('odd')
+if num == 18878:
+    print('even')
+if num == 18879:
+    print('odd')
+if num == 18880:
+    print('even')
+if num == 18881:
+    print('odd')
+if num == 18882:
+    print('even')
+if num == 18883:
+    print('odd')
+if num == 18884:
+    print('even')
+if num == 18885:
+    print('odd')
+if num == 18886:
+    print('even')
+if num == 18887:
+    print('odd')
+if num == 18888:
+    print('even')
+if num == 18889:
+    print('odd')
+if num == 18890:
+    print('even')
+if num == 18891:
+    print('odd')
+if num == 18892:
+    print('even')
+if num == 18893:
+    print('odd')
+if num == 18894:
+    print('even')
+if num == 18895:
+    print('odd')
+if num == 18896:
+    print('even')
+if num == 18897:
+    print('odd')
+if num == 18898:
+    print('even')
+if num == 18899:
+    print('odd')
+if num == 18900:
+    print('even')
+if num == 18901:
+    print('odd')
+if num == 18902:
+    print('even')
+if num == 18903:
+    print('odd')
+if num == 18904:
+    print('even')
+if num == 18905:
+    print('odd')
+if num == 18906:
+    print('even')
+if num == 18907:
+    print('odd')
+if num == 18908:
+    print('even')
+if num == 18909:
+    print('odd')
+if num == 18910:
+    print('even')
+if num == 18911:
+    print('odd')
+if num == 18912:
+    print('even')
+if num == 18913:
+    print('odd')
+if num == 18914:
+    print('even')
+if num == 18915:
+    print('odd')
+if num == 18916:
+    print('even')
+if num == 18917:
+    print('odd')
+if num == 18918:
+    print('even')
+if num == 18919:
+    print('odd')
+if num == 18920:
+    print('even')
+if num == 18921:
+    print('odd')
+if num == 18922:
+    print('even')
+if num == 18923:
+    print('odd')
+if num == 18924:
+    print('even')
+if num == 18925:
+    print('odd')
+if num == 18926:
+    print('even')
+if num == 18927:
+    print('odd')
+if num == 18928:
+    print('even')
+if num == 18929:
+    print('odd')
+if num == 18930:
+    print('even')
+if num == 18931:
+    print('odd')
+if num == 18932:
+    print('even')
+if num == 18933:
+    print('odd')
+if num == 18934:
+    print('even')
+if num == 18935:
+    print('odd')
+if num == 18936:
+    print('even')
+if num == 18937:
+    print('odd')
+if num == 18938:
+    print('even')
+if num == 18939:
+    print('odd')
+if num == 18940:
+    print('even')
+if num == 18941:
+    print('odd')
+if num == 18942:
+    print('even')
+if num == 18943:
+    print('odd')
+if num == 18944:
+    print('even')
+if num == 18945:
+    print('odd')
+if num == 18946:
+    print('even')
+if num == 18947:
+    print('odd')
+if num == 18948:
+    print('even')
+if num == 18949:
+    print('odd')
+if num == 18950:
+    print('even')
+if num == 18951:
+    print('odd')
+if num == 18952:
+    print('even')
+if num == 18953:
+    print('odd')
+if num == 18954:
+    print('even')
+if num == 18955:
+    print('odd')
+if num == 18956:
+    print('even')
+if num == 18957:
+    print('odd')
+if num == 18958:
+    print('even')
+if num == 18959:
+    print('odd')
+if num == 18960:
+    print('even')
+if num == 18961:
+    print('odd')
+if num == 18962:
+    print('even')
+if num == 18963:
+    print('odd')
+if num == 18964:
+    print('even')
+if num == 18965:
+    print('odd')
+if num == 18966:
+    print('even')
+if num == 18967:
+    print('odd')
+if num == 18968:
+    print('even')
+if num == 18969:
+    print('odd')
+if num == 18970:
+    print('even')
+if num == 18971:
+    print('odd')
+if num == 18972:
+    print('even')
+if num == 18973:
+    print('odd')
+if num == 18974:
+    print('even')
+if num == 18975:
+    print('odd')
+if num == 18976:
+    print('even')
+if num == 18977:
+    print('odd')
+if num == 18978:
+    print('even')
+if num == 18979:
+    print('odd')
+if num == 18980:
+    print('even')
+if num == 18981:
+    print('odd')
+if num == 18982:
+    print('even')
+if num == 18983:
+    print('odd')
+if num == 18984:
+    print('even')
+if num == 18985:
+    print('odd')
+if num == 18986:
+    print('even')
+if num == 18987:
+    print('odd')
+if num == 18988:
+    print('even')
+if num == 18989:
+    print('odd')
+if num == 18990:
+    print('even')
+if num == 18991:
+    print('odd')
+if num == 18992:
+    print('even')
+if num == 18993:
+    print('odd')
+if num == 18994:
+    print('even')
+if num == 18995:
+    print('odd')
+if num == 18996:
+    print('even')
+if num == 18997:
+    print('odd')
+if num == 18998:
+    print('even')
+if num == 18999:
+    print('odd')
+if num == 19000:
+    print('even')
+if num == 19001:
+    print('odd')
+if num == 19002:
+    print('even')
+if num == 19003:
+    print('odd')
+if num == 19004:
+    print('even')
+if num == 19005:
+    print('odd')
+if num == 19006:
+    print('even')
+if num == 19007:
+    print('odd')
+if num == 19008:
+    print('even')
+if num == 19009:
+    print('odd')
+if num == 19010:
+    print('even')
+if num == 19011:
+    print('odd')
+if num == 19012:
+    print('even')
+if num == 19013:
+    print('odd')
+if num == 19014:
+    print('even')
+if num == 19015:
+    print('odd')
+if num == 19016:
+    print('even')
+if num == 19017:
+    print('odd')
+if num == 19018:
+    print('even')
+if num == 19019:
+    print('odd')
+if num == 19020:
+    print('even')
+if num == 19021:
+    print('odd')
+if num == 19022:
+    print('even')
+if num == 19023:
+    print('odd')
+if num == 19024:
+    print('even')
+if num == 19025:
+    print('odd')
+if num == 19026:
+    print('even')
+if num == 19027:
+    print('odd')
+if num == 19028:
+    print('even')
+if num == 19029:
+    print('odd')
+if num == 19030:
+    print('even')
+if num == 19031:
+    print('odd')
+if num == 19032:
+    print('even')
+if num == 19033:
+    print('odd')
+if num == 19034:
+    print('even')
+if num == 19035:
+    print('odd')
+if num == 19036:
+    print('even')
+if num == 19037:
+    print('odd')
+if num == 19038:
+    print('even')
+if num == 19039:
+    print('odd')
+if num == 19040:
+    print('even')
+if num == 19041:
+    print('odd')
+if num == 19042:
+    print('even')
+if num == 19043:
+    print('odd')
+if num == 19044:
+    print('even')
+if num == 19045:
+    print('odd')
+if num == 19046:
+    print('even')
+if num == 19047:
+    print('odd')
+if num == 19048:
+    print('even')
+if num == 19049:
+    print('odd')
+if num == 19050:
+    print('even')
+if num == 19051:
+    print('odd')
+if num == 19052:
+    print('even')
+if num == 19053:
+    print('odd')
+if num == 19054:
+    print('even')
+if num == 19055:
+    print('odd')
+if num == 19056:
+    print('even')
+if num == 19057:
+    print('odd')
+if num == 19058:
+    print('even')
+if num == 19059:
+    print('odd')
+if num == 19060:
+    print('even')
+if num == 19061:
+    print('odd')
+if num == 19062:
+    print('even')
+if num == 19063:
+    print('odd')
+if num == 19064:
+    print('even')
+if num == 19065:
+    print('odd')
+if num == 19066:
+    print('even')
+if num == 19067:
+    print('odd')
+if num == 19068:
+    print('even')
+if num == 19069:
+    print('odd')
+if num == 19070:
+    print('even')
+if num == 19071:
+    print('odd')
+if num == 19072:
+    print('even')
+if num == 19073:
+    print('odd')
+if num == 19074:
+    print('even')
+if num == 19075:
+    print('odd')
+if num == 19076:
+    print('even')
+if num == 19077:
+    print('odd')
+if num == 19078:
+    print('even')
+if num == 19079:
+    print('odd')
+if num == 19080:
+    print('even')
+if num == 19081:
+    print('odd')
+if num == 19082:
+    print('even')
+if num == 19083:
+    print('odd')
+if num == 19084:
+    print('even')
+if num == 19085:
+    print('odd')
+if num == 19086:
+    print('even')
+if num == 19087:
+    print('odd')
+if num == 19088:
+    print('even')
+if num == 19089:
+    print('odd')
+if num == 19090:
+    print('even')
+if num == 19091:
+    print('odd')
+if num == 19092:
+    print('even')
+if num == 19093:
+    print('odd')
+if num == 19094:
+    print('even')
+if num == 19095:
+    print('odd')
+if num == 19096:
+    print('even')
+if num == 19097:
+    print('odd')
+if num == 19098:
+    print('even')
+if num == 19099:
+    print('odd')
+if num == 19100:
+    print('even')
+if num == 19101:
+    print('odd')
+if num == 19102:
+    print('even')
+if num == 19103:
+    print('odd')
+if num == 19104:
+    print('even')
+if num == 19105:
+    print('odd')
+if num == 19106:
+    print('even')
+if num == 19107:
+    print('odd')
+if num == 19108:
+    print('even')
+if num == 19109:
+    print('odd')
+if num == 19110:
+    print('even')
+if num == 19111:
+    print('odd')
+if num == 19112:
+    print('even')
+if num == 19113:
+    print('odd')
+if num == 19114:
+    print('even')
+if num == 19115:
+    print('odd')
+if num == 19116:
+    print('even')
+if num == 19117:
+    print('odd')
+if num == 19118:
+    print('even')
+if num == 19119:
+    print('odd')
+if num == 19120:
+    print('even')
+if num == 19121:
+    print('odd')
+if num == 19122:
+    print('even')
+if num == 19123:
+    print('odd')
+if num == 19124:
+    print('even')
+if num == 19125:
+    print('odd')
+if num == 19126:
+    print('even')
+if num == 19127:
+    print('odd')
+if num == 19128:
+    print('even')
+if num == 19129:
+    print('odd')
+if num == 19130:
+    print('even')
+if num == 19131:
+    print('odd')
+if num == 19132:
+    print('even')
+if num == 19133:
+    print('odd')
+if num == 19134:
+    print('even')
+if num == 19135:
+    print('odd')
+if num == 19136:
+    print('even')
+if num == 19137:
+    print('odd')
+if num == 19138:
+    print('even')
+if num == 19139:
+    print('odd')
+if num == 19140:
+    print('even')
+if num == 19141:
+    print('odd')
+if num == 19142:
+    print('even')
+if num == 19143:
+    print('odd')
+if num == 19144:
+    print('even')
+if num == 19145:
+    print('odd')
+if num == 19146:
+    print('even')
+if num == 19147:
+    print('odd')
+if num == 19148:
+    print('even')
+if num == 19149:
+    print('odd')
+if num == 19150:
+    print('even')
+if num == 19151:
+    print('odd')
+if num == 19152:
+    print('even')
+if num == 19153:
+    print('odd')
+if num == 19154:
+    print('even')
+if num == 19155:
+    print('odd')
+if num == 19156:
+    print('even')
+if num == 19157:
+    print('odd')
+if num == 19158:
+    print('even')
+if num == 19159:
+    print('odd')
+if num == 19160:
+    print('even')
+if num == 19161:
+    print('odd')
+if num == 19162:
+    print('even')
+if num == 19163:
+    print('odd')
+if num == 19164:
+    print('even')
+if num == 19165:
+    print('odd')
+if num == 19166:
+    print('even')
+if num == 19167:
+    print('odd')
+if num == 19168:
+    print('even')
+if num == 19169:
+    print('odd')
+if num == 19170:
+    print('even')
+if num == 19171:
+    print('odd')
+if num == 19172:
+    print('even')
+if num == 19173:
+    print('odd')
+if num == 19174:
+    print('even')
+if num == 19175:
+    print('odd')
+if num == 19176:
+    print('even')
+if num == 19177:
+    print('odd')
+if num == 19178:
+    print('even')
+if num == 19179:
+    print('odd')
+if num == 19180:
+    print('even')
+if num == 19181:
+    print('odd')
+if num == 19182:
+    print('even')
+if num == 19183:
+    print('odd')
+if num == 19184:
+    print('even')
+if num == 19185:
+    print('odd')
+if num == 19186:
+    print('even')
+if num == 19187:
+    print('odd')
+if num == 19188:
+    print('even')
+if num == 19189:
+    print('odd')
+if num == 19190:
+    print('even')
+if num == 19191:
+    print('odd')
+if num == 19192:
+    print('even')
+if num == 19193:
+    print('odd')
+if num == 19194:
+    print('even')
+if num == 19195:
+    print('odd')
+if num == 19196:
+    print('even')
+if num == 19197:
+    print('odd')
+if num == 19198:
+    print('even')
+if num == 19199:
+    print('odd')
+if num == 19200:
+    print('even')
+if num == 19201:
+    print('odd')
+if num == 19202:
+    print('even')
+if num == 19203:
+    print('odd')
+if num == 19204:
+    print('even')
+if num == 19205:
+    print('odd')
+if num == 19206:
+    print('even')
+if num == 19207:
+    print('odd')
+if num == 19208:
+    print('even')
+if num == 19209:
+    print('odd')
+if num == 19210:
+    print('even')
+if num == 19211:
+    print('odd')
+if num == 19212:
+    print('even')
+if num == 19213:
+    print('odd')
+if num == 19214:
+    print('even')
+if num == 19215:
+    print('odd')
+if num == 19216:
+    print('even')
+if num == 19217:
+    print('odd')
+if num == 19218:
+    print('even')
+if num == 19219:
+    print('odd')
+if num == 19220:
+    print('even')
+if num == 19221:
+    print('odd')
+if num == 19222:
+    print('even')
+if num == 19223:
+    print('odd')
+if num == 19224:
+    print('even')
+if num == 19225:
+    print('odd')
+if num == 19226:
+    print('even')
+if num == 19227:
+    print('odd')
+if num == 19228:
+    print('even')
+if num == 19229:
+    print('odd')
+if num == 19230:
+    print('even')
+if num == 19231:
+    print('odd')
+if num == 19232:
+    print('even')
+if num == 19233:
+    print('odd')
+if num == 19234:
+    print('even')
+if num == 19235:
+    print('odd')
+if num == 19236:
+    print('even')
+if num == 19237:
+    print('odd')
+if num == 19238:
+    print('even')
+if num == 19239:
+    print('odd')
+if num == 19240:
+    print('even')
+if num == 19241:
+    print('odd')
+if num == 19242:
+    print('even')
+if num == 19243:
+    print('odd')
+if num == 19244:
+    print('even')
+if num == 19245:
+    print('odd')
+if num == 19246:
+    print('even')
+if num == 19247:
+    print('odd')
+if num == 19248:
+    print('even')
+if num == 19249:
+    print('odd')
+if num == 19250:
+    print('even')
+if num == 19251:
+    print('odd')
+if num == 19252:
+    print('even')
+if num == 19253:
+    print('odd')
+if num == 19254:
+    print('even')
+if num == 19255:
+    print('odd')
+if num == 19256:
+    print('even')
+if num == 19257:
+    print('odd')
+if num == 19258:
+    print('even')
+if num == 19259:
+    print('odd')
+if num == 19260:
+    print('even')
+if num == 19261:
+    print('odd')
+if num == 19262:
+    print('even')
+if num == 19263:
+    print('odd')
+if num == 19264:
+    print('even')
+if num == 19265:
+    print('odd')
+if num == 19266:
+    print('even')
+if num == 19267:
+    print('odd')
+if num == 19268:
+    print('even')
+if num == 19269:
+    print('odd')
+if num == 19270:
+    print('even')
+if num == 19271:
+    print('odd')
+if num == 19272:
+    print('even')
+if num == 19273:
+    print('odd')
+if num == 19274:
+    print('even')
+if num == 19275:
+    print('odd')
+if num == 19276:
+    print('even')
+if num == 19277:
+    print('odd')
+if num == 19278:
+    print('even')
+if num == 19279:
+    print('odd')
+if num == 19280:
+    print('even')
+if num == 19281:
+    print('odd')
+if num == 19282:
+    print('even')
+if num == 19283:
+    print('odd')
+if num == 19284:
+    print('even')
+if num == 19285:
+    print('odd')
+if num == 19286:
+    print('even')
+if num == 19287:
+    print('odd')
+if num == 19288:
+    print('even')
+if num == 19289:
+    print('odd')
+if num == 19290:
+    print('even')
+if num == 19291:
+    print('odd')
+if num == 19292:
+    print('even')
+if num == 19293:
+    print('odd')
+if num == 19294:
+    print('even')
+if num == 19295:
+    print('odd')
+if num == 19296:
+    print('even')
+if num == 19297:
+    print('odd')
+if num == 19298:
+    print('even')
+if num == 19299:
+    print('odd')
+if num == 19300:
+    print('even')
+if num == 19301:
+    print('odd')
+if num == 19302:
+    print('even')
+if num == 19303:
+    print('odd')
+if num == 19304:
+    print('even')
+if num == 19305:
+    print('odd')
+if num == 19306:
+    print('even')
+if num == 19307:
+    print('odd')
+if num == 19308:
+    print('even')
+if num == 19309:
+    print('odd')
+if num == 19310:
+    print('even')
+if num == 19311:
+    print('odd')
+if num == 19312:
+    print('even')
+if num == 19313:
+    print('odd')
+if num == 19314:
+    print('even')
+if num == 19315:
+    print('odd')
+if num == 19316:
+    print('even')
+if num == 19317:
+    print('odd')
+if num == 19318:
+    print('even')
+if num == 19319:
+    print('odd')
+if num == 19320:
+    print('even')
+if num == 19321:
+    print('odd')
+if num == 19322:
+    print('even')
+if num == 19323:
+    print('odd')
+if num == 19324:
+    print('even')
+if num == 19325:
+    print('odd')
+if num == 19326:
+    print('even')
+if num == 19327:
+    print('odd')
+if num == 19328:
+    print('even')
+if num == 19329:
+    print('odd')
+if num == 19330:
+    print('even')
+if num == 19331:
+    print('odd')
+if num == 19332:
+    print('even')
+if num == 19333:
+    print('odd')
+if num == 19334:
+    print('even')
+if num == 19335:
+    print('odd')
+if num == 19336:
+    print('even')
+if num == 19337:
+    print('odd')
+if num == 19338:
+    print('even')
+if num == 19339:
+    print('odd')
+if num == 19340:
+    print('even')
+if num == 19341:
+    print('odd')
+if num == 19342:
+    print('even')
+if num == 19343:
+    print('odd')
+if num == 19344:
+    print('even')
+if num == 19345:
+    print('odd')
+if num == 19346:
+    print('even')
+if num == 19347:
+    print('odd')
+if num == 19348:
+    print('even')
+if num == 19349:
+    print('odd')
+if num == 19350:
+    print('even')
+if num == 19351:
+    print('odd')
+if num == 19352:
+    print('even')
+if num == 19353:
+    print('odd')
+if num == 19354:
+    print('even')
+if num == 19355:
+    print('odd')
+if num == 19356:
+    print('even')
+if num == 19357:
+    print('odd')
+if num == 19358:
+    print('even')
+if num == 19359:
+    print('odd')
+if num == 19360:
+    print('even')
+if num == 19361:
+    print('odd')
+if num == 19362:
+    print('even')
+if num == 19363:
+    print('odd')
+if num == 19364:
+    print('even')
+if num == 19365:
+    print('odd')
+if num == 19366:
+    print('even')
+if num == 19367:
+    print('odd')
+if num == 19368:
+    print('even')
+if num == 19369:
+    print('odd')
+if num == 19370:
+    print('even')
+if num == 19371:
+    print('odd')
+if num == 19372:
+    print('even')
+if num == 19373:
+    print('odd')
+if num == 19374:
+    print('even')
+if num == 19375:
+    print('odd')
+if num == 19376:
+    print('even')
+if num == 19377:
+    print('odd')
+if num == 19378:
+    print('even')
+if num == 19379:
+    print('odd')
+if num == 19380:
+    print('even')
+if num == 19381:
+    print('odd')
+if num == 19382:
+    print('even')
+if num == 19383:
+    print('odd')
+if num == 19384:
+    print('even')
+if num == 19385:
+    print('odd')
+if num == 19386:
+    print('even')
+if num == 19387:
+    print('odd')
+if num == 19388:
+    print('even')
+if num == 19389:
+    print('odd')
+if num == 19390:
+    print('even')
+if num == 19391:
+    print('odd')
+if num == 19392:
+    print('even')
+if num == 19393:
+    print('odd')
+if num == 19394:
+    print('even')
+if num == 19395:
+    print('odd')
+if num == 19396:
+    print('even')
+if num == 19397:
+    print('odd')
+if num == 19398:
+    print('even')
+if num == 19399:
+    print('odd')
+if num == 19400:
+    print('even')
+if num == 19401:
+    print('odd')
+if num == 19402:
+    print('even')
+if num == 19403:
+    print('odd')
+if num == 19404:
+    print('even')
+if num == 19405:
+    print('odd')
+if num == 19406:
+    print('even')
+if num == 19407:
+    print('odd')
+if num == 19408:
+    print('even')
+if num == 19409:
+    print('odd')
+if num == 19410:
+    print('even')
+if num == 19411:
+    print('odd')
+if num == 19412:
+    print('even')
+if num == 19413:
+    print('odd')
+if num == 19414:
+    print('even')
+if num == 19415:
+    print('odd')
+if num == 19416:
+    print('even')
+if num == 19417:
+    print('odd')
+if num == 19418:
+    print('even')
+if num == 19419:
+    print('odd')
+if num == 19420:
+    print('even')
+if num == 19421:
+    print('odd')
+if num == 19422:
+    print('even')
+if num == 19423:
+    print('odd')
+if num == 19424:
+    print('even')
+if num == 19425:
+    print('odd')
+if num == 19426:
+    print('even')
+if num == 19427:
+    print('odd')
+if num == 19428:
+    print('even')
+if num == 19429:
+    print('odd')
+if num == 19430:
+    print('even')
+if num == 19431:
+    print('odd')
+if num == 19432:
+    print('even')
+if num == 19433:
+    print('odd')
+if num == 19434:
+    print('even')
+if num == 19435:
+    print('odd')
+if num == 19436:
+    print('even')
+if num == 19437:
+    print('odd')
+if num == 19438:
+    print('even')
+if num == 19439:
+    print('odd')
+if num == 19440:
+    print('even')
+if num == 19441:
+    print('odd')
+if num == 19442:
+    print('even')
+if num == 19443:
+    print('odd')
+if num == 19444:
+    print('even')
+if num == 19445:
+    print('odd')
+if num == 19446:
+    print('even')
+if num == 19447:
+    print('odd')
+if num == 19448:
+    print('even')
+if num == 19449:
+    print('odd')
+if num == 19450:
+    print('even')
+if num == 19451:
+    print('odd')
+if num == 19452:
+    print('even')
+if num == 19453:
+    print('odd')
+if num == 19454:
+    print('even')
+if num == 19455:
+    print('odd')
+if num == 19456:
+    print('even')
+if num == 19457:
+    print('odd')
+if num == 19458:
+    print('even')
+if num == 19459:
+    print('odd')
+if num == 19460:
+    print('even')
+if num == 19461:
+    print('odd')
+if num == 19462:
+    print('even')
+if num == 19463:
+    print('odd')
+if num == 19464:
+    print('even')
+if num == 19465:
+    print('odd')
+if num == 19466:
+    print('even')
+if num == 19467:
+    print('odd')
+if num == 19468:
+    print('even')
+if num == 19469:
+    print('odd')
+if num == 19470:
+    print('even')
+if num == 19471:
+    print('odd')
+if num == 19472:
+    print('even')
+if num == 19473:
+    print('odd')
+if num == 19474:
+    print('even')
+if num == 19475:
+    print('odd')
+if num == 19476:
+    print('even')
+if num == 19477:
+    print('odd')
+if num == 19478:
+    print('even')
+if num == 19479:
+    print('odd')
+if num == 19480:
+    print('even')
+if num == 19481:
+    print('odd')
+if num == 19482:
+    print('even')
+if num == 19483:
+    print('odd')
+if num == 19484:
+    print('even')
+if num == 19485:
+    print('odd')
+if num == 19486:
+    print('even')
+if num == 19487:
+    print('odd')
+if num == 19488:
+    print('even')
+if num == 19489:
+    print('odd')
+if num == 19490:
+    print('even')
+if num == 19491:
+    print('odd')
+if num == 19492:
+    print('even')
+if num == 19493:
+    print('odd')
+if num == 19494:
+    print('even')
+if num == 19495:
+    print('odd')
+if num == 19496:
+    print('even')
+if num == 19497:
+    print('odd')
+if num == 19498:
+    print('even')
+if num == 19499:
+    print('odd')
+if num == 19500:
+    print('even')
+if num == 19501:
+    print('odd')
+if num == 19502:
+    print('even')
+if num == 19503:
+    print('odd')
+if num == 19504:
+    print('even')
+if num == 19505:
+    print('odd')
+if num == 19506:
+    print('even')
+if num == 19507:
+    print('odd')
+if num == 19508:
+    print('even')
+if num == 19509:
+    print('odd')
+if num == 19510:
+    print('even')
+if num == 19511:
+    print('odd')
+if num == 19512:
+    print('even')
+if num == 19513:
+    print('odd')
+if num == 19514:
+    print('even')
+if num == 19515:
+    print('odd')
+if num == 19516:
+    print('even')
+if num == 19517:
+    print('odd')
+if num == 19518:
+    print('even')
+if num == 19519:
+    print('odd')
+if num == 19520:
+    print('even')
+if num == 19521:
+    print('odd')
+if num == 19522:
+    print('even')
+if num == 19523:
+    print('odd')
+if num == 19524:
+    print('even')
+if num == 19525:
+    print('odd')
+if num == 19526:
+    print('even')
+if num == 19527:
+    print('odd')
+if num == 19528:
+    print('even')
+if num == 19529:
+    print('odd')
+if num == 19530:
+    print('even')
+if num == 19531:
+    print('odd')
+if num == 19532:
+    print('even')
+if num == 19533:
+    print('odd')
+if num == 19534:
+    print('even')
+if num == 19535:
+    print('odd')
+if num == 19536:
+    print('even')
+if num == 19537:
+    print('odd')
+if num == 19538:
+    print('even')
+if num == 19539:
+    print('odd')
+if num == 19540:
+    print('even')
+if num == 19541:
+    print('odd')
+if num == 19542:
+    print('even')
+if num == 19543:
+    print('odd')
+if num == 19544:
+    print('even')
+if num == 19545:
+    print('odd')
+if num == 19546:
+    print('even')
+if num == 19547:
+    print('odd')
+if num == 19548:
+    print('even')
+if num == 19549:
+    print('odd')
+if num == 19550:
+    print('even')
+if num == 19551:
+    print('odd')
+if num == 19552:
+    print('even')
+if num == 19553:
+    print('odd')
+if num == 19554:
+    print('even')
+if num == 19555:
+    print('odd')
+if num == 19556:
+    print('even')
+if num == 19557:
+    print('odd')
+if num == 19558:
+    print('even')
+if num == 19559:
+    print('odd')
+if num == 19560:
+    print('even')
+if num == 19561:
+    print('odd')
+if num == 19562:
+    print('even')
+if num == 19563:
+    print('odd')
+if num == 19564:
+    print('even')
+if num == 19565:
+    print('odd')
+if num == 19566:
+    print('even')
+if num == 19567:
+    print('odd')
+if num == 19568:
+    print('even')
+if num == 19569:
+    print('odd')
+if num == 19570:
+    print('even')
+if num == 19571:
+    print('odd')
+if num == 19572:
+    print('even')
+if num == 19573:
+    print('odd')
+if num == 19574:
+    print('even')
+if num == 19575:
+    print('odd')
+if num == 19576:
+    print('even')
+if num == 19577:
+    print('odd')
+if num == 19578:
+    print('even')
+if num == 19579:
+    print('odd')
+if num == 19580:
+    print('even')
+if num == 19581:
+    print('odd')
+if num == 19582:
+    print('even')
+if num == 19583:
+    print('odd')
+if num == 19584:
+    print('even')
+if num == 19585:
+    print('odd')
+if num == 19586:
+    print('even')
+if num == 19587:
+    print('odd')
+if num == 19588:
+    print('even')
+if num == 19589:
+    print('odd')
+if num == 19590:
+    print('even')
+if num == 19591:
+    print('odd')
+if num == 19592:
+    print('even')
+if num == 19593:
+    print('odd')
+if num == 19594:
+    print('even')
+if num == 19595:
+    print('odd')
+if num == 19596:
+    print('even')
+if num == 19597:
+    print('odd')
+if num == 19598:
+    print('even')
+if num == 19599:
+    print('odd')
+if num == 19600:
+    print('even')
+if num == 19601:
+    print('odd')
+if num == 19602:
+    print('even')
+if num == 19603:
+    print('odd')
+if num == 19604:
+    print('even')
+if num == 19605:
+    print('odd')
+if num == 19606:
+    print('even')
+if num == 19607:
+    print('odd')
+if num == 19608:
+    print('even')
+if num == 19609:
+    print('odd')
+if num == 19610:
+    print('even')
+if num == 19611:
+    print('odd')
+if num == 19612:
+    print('even')
+if num == 19613:
+    print('odd')
+if num == 19614:
+    print('even')
+if num == 19615:
+    print('odd')
+if num == 19616:
+    print('even')
+if num == 19617:
+    print('odd')
+if num == 19618:
+    print('even')
+if num == 19619:
+    print('odd')
+if num == 19620:
+    print('even')
+if num == 19621:
+    print('odd')
+if num == 19622:
+    print('even')
+if num == 19623:
+    print('odd')
+if num == 19624:
+    print('even')
+if num == 19625:
+    print('odd')
+if num == 19626:
+    print('even')
+if num == 19627:
+    print('odd')
+if num == 19628:
+    print('even')
+if num == 19629:
+    print('odd')
+if num == 19630:
+    print('even')
+if num == 19631:
+    print('odd')
+if num == 19632:
+    print('even')
+if num == 19633:
+    print('odd')
+if num == 19634:
+    print('even')
+if num == 19635:
+    print('odd')
+if num == 19636:
+    print('even')
+if num == 19637:
+    print('odd')
+if num == 19638:
+    print('even')
+if num == 19639:
+    print('odd')
+if num == 19640:
+    print('even')
+if num == 19641:
+    print('odd')
+if num == 19642:
+    print('even')
+if num == 19643:
+    print('odd')
+if num == 19644:
+    print('even')
+if num == 19645:
+    print('odd')
+if num == 19646:
+    print('even')
+if num == 19647:
+    print('odd')
+if num == 19648:
+    print('even')
+if num == 19649:
+    print('odd')
+if num == 19650:
+    print('even')
+if num == 19651:
+    print('odd')
+if num == 19652:
+    print('even')
+if num == 19653:
+    print('odd')
+if num == 19654:
+    print('even')
+if num == 19655:
+    print('odd')
+if num == 19656:
+    print('even')
+if num == 19657:
+    print('odd')
+if num == 19658:
+    print('even')
+if num == 19659:
+    print('odd')
+if num == 19660:
+    print('even')
+if num == 19661:
+    print('odd')
+if num == 19662:
+    print('even')
+if num == 19663:
+    print('odd')
+if num == 19664:
+    print('even')
+if num == 19665:
+    print('odd')
+if num == 19666:
+    print('even')
+if num == 19667:
+    print('odd')
+if num == 19668:
+    print('even')
+if num == 19669:
+    print('odd')
+if num == 19670:
+    print('even')
+if num == 19671:
+    print('odd')
+if num == 19672:
+    print('even')
+if num == 19673:
+    print('odd')
+if num == 19674:
+    print('even')
+if num == 19675:
+    print('odd')
+if num == 19676:
+    print('even')
+if num == 19677:
+    print('odd')
+if num == 19678:
+    print('even')
+if num == 19679:
+    print('odd')
+if num == 19680:
+    print('even')
+if num == 19681:
+    print('odd')
+if num == 19682:
+    print('even')
+if num == 19683:
+    print('odd')
+if num == 19684:
+    print('even')
+if num == 19685:
+    print('odd')
+if num == 19686:
+    print('even')
+if num == 19687:
+    print('odd')
+if num == 19688:
+    print('even')
+if num == 19689:
+    print('odd')
+if num == 19690:
+    print('even')
+if num == 19691:
+    print('odd')
+if num == 19692:
+    print('even')
+if num == 19693:
+    print('odd')
+if num == 19694:
+    print('even')
+if num == 19695:
+    print('odd')
+if num == 19696:
+    print('even')
+if num == 19697:
+    print('odd')
+if num == 19698:
+    print('even')
+if num == 19699:
+    print('odd')
+if num == 19700:
+    print('even')
+if num == 19701:
+    print('odd')
+if num == 19702:
+    print('even')
+if num == 19703:
+    print('odd')
+if num == 19704:
+    print('even')
+if num == 19705:
+    print('odd')
+if num == 19706:
+    print('even')
+if num == 19707:
+    print('odd')
+if num == 19708:
+    print('even')
+if num == 19709:
+    print('odd')
+if num == 19710:
+    print('even')
+if num == 19711:
+    print('odd')
+if num == 19712:
+    print('even')
+if num == 19713:
+    print('odd')
+if num == 19714:
+    print('even')
+if num == 19715:
+    print('odd')
+if num == 19716:
+    print('even')
+if num == 19717:
+    print('odd')
+if num == 19718:
+    print('even')
+if num == 19719:
+    print('odd')
+if num == 19720:
+    print('even')
+if num == 19721:
+    print('odd')
+if num == 19722:
+    print('even')
+if num == 19723:
+    print('odd')
+if num == 19724:
+    print('even')
+if num == 19725:
+    print('odd')
+if num == 19726:
+    print('even')
+if num == 19727:
+    print('odd')
+if num == 19728:
+    print('even')
+if num == 19729:
+    print('odd')
+if num == 19730:
+    print('even')
+if num == 19731:
+    print('odd')
+if num == 19732:
+    print('even')
+if num == 19733:
+    print('odd')
+if num == 19734:
+    print('even')
+if num == 19735:
+    print('odd')
+if num == 19736:
+    print('even')
+if num == 19737:
+    print('odd')
+if num == 19738:
+    print('even')
+if num == 19739:
+    print('odd')
+if num == 19740:
+    print('even')
+if num == 19741:
+    print('odd')
+if num == 19742:
+    print('even')
+if num == 19743:
+    print('odd')
+if num == 19744:
+    print('even')
+if num == 19745:
+    print('odd')
+if num == 19746:
+    print('even')
+if num == 19747:
+    print('odd')
+if num == 19748:
+    print('even')
+if num == 19749:
+    print('odd')
+if num == 19750:
+    print('even')
+if num == 19751:
+    print('odd')
+if num == 19752:
+    print('even')
+if num == 19753:
+    print('odd')
+if num == 19754:
+    print('even')
+if num == 19755:
+    print('odd')
+if num == 19756:
+    print('even')
+if num == 19757:
+    print('odd')
+if num == 19758:
+    print('even')
+if num == 19759:
+    print('odd')
+if num == 19760:
+    print('even')
+if num == 19761:
+    print('odd')
+if num == 19762:
+    print('even')
+if num == 19763:
+    print('odd')
+if num == 19764:
+    print('even')
+if num == 19765:
+    print('odd')
+if num == 19766:
+    print('even')
+if num == 19767:
+    print('odd')
+if num == 19768:
+    print('even')
+if num == 19769:
+    print('odd')
+if num == 19770:
+    print('even')
+if num == 19771:
+    print('odd')
+if num == 19772:
+    print('even')
+if num == 19773:
+    print('odd')
+if num == 19774:
+    print('even')
+if num == 19775:
+    print('odd')
+if num == 19776:
+    print('even')
+if num == 19777:
+    print('odd')
+if num == 19778:
+    print('even')
+if num == 19779:
+    print('odd')
+if num == 19780:
+    print('even')
+if num == 19781:
+    print('odd')
+if num == 19782:
+    print('even')
+if num == 19783:
+    print('odd')
+if num == 19784:
+    print('even')
+if num == 19785:
+    print('odd')
+if num == 19786:
+    print('even')
+if num == 19787:
+    print('odd')
+if num == 19788:
+    print('even')
+if num == 19789:
+    print('odd')
+if num == 19790:
+    print('even')
+if num == 19791:
+    print('odd')
+if num == 19792:
+    print('even')
+if num == 19793:
+    print('odd')
+if num == 19794:
+    print('even')
+if num == 19795:
+    print('odd')
+if num == 19796:
+    print('even')
+if num == 19797:
+    print('odd')
+if num == 19798:
+    print('even')
+if num == 19799:
+    print('odd')
+if num == 19800:
+    print('even')
+if num == 19801:
+    print('odd')
+if num == 19802:
+    print('even')
+if num == 19803:
+    print('odd')
+if num == 19804:
+    print('even')
+if num == 19805:
+    print('odd')
+if num == 19806:
+    print('even')
+if num == 19807:
+    print('odd')
+if num == 19808:
+    print('even')
+if num == 19809:
+    print('odd')
+if num == 19810:
+    print('even')
+if num == 19811:
+    print('odd')
+if num == 19812:
+    print('even')
+if num == 19813:
+    print('odd')
+if num == 19814:
+    print('even')
+if num == 19815:
+    print('odd')
+if num == 19816:
+    print('even')
+if num == 19817:
+    print('odd')
+if num == 19818:
+    print('even')
+if num == 19819:
+    print('odd')
+if num == 19820:
+    print('even')
+if num == 19821:
+    print('odd')
+if num == 19822:
+    print('even')
+if num == 19823:
+    print('odd')
+if num == 19824:
+    print('even')
+if num == 19825:
+    print('odd')
+if num == 19826:
+    print('even')
+if num == 19827:
+    print('odd')
+if num == 19828:
+    print('even')
+if num == 19829:
+    print('odd')
+if num == 19830:
+    print('even')
+if num == 19831:
+    print('odd')
+if num == 19832:
+    print('even')
+if num == 19833:
+    print('odd')
+if num == 19834:
+    print('even')
+if num == 19835:
+    print('odd')
+if num == 19836:
+    print('even')
+if num == 19837:
+    print('odd')
+if num == 19838:
+    print('even')
+if num == 19839:
+    print('odd')
+if num == 19840:
+    print('even')
+if num == 19841:
+    print('odd')
+if num == 19842:
+    print('even')
+if num == 19843:
+    print('odd')
+if num == 19844:
+    print('even')
+if num == 19845:
+    print('odd')
+if num == 19846:
+    print('even')
+if num == 19847:
+    print('odd')
+if num == 19848:
+    print('even')
+if num == 19849:
+    print('odd')
+if num == 19850:
+    print('even')
+if num == 19851:
+    print('odd')
+if num == 19852:
+    print('even')
+if num == 19853:
+    print('odd')
+if num == 19854:
+    print('even')
+if num == 19855:
+    print('odd')
+if num == 19856:
+    print('even')
+if num == 19857:
+    print('odd')
+if num == 19858:
+    print('even')
+if num == 19859:
+    print('odd')
+if num == 19860:
+    print('even')
+if num == 19861:
+    print('odd')
+if num == 19862:
+    print('even')
+if num == 19863:
+    print('odd')
+if num == 19864:
+    print('even')
+if num == 19865:
+    print('odd')
+if num == 19866:
+    print('even')
+if num == 19867:
+    print('odd')
+if num == 19868:
+    print('even')
+if num == 19869:
+    print('odd')
+if num == 19870:
+    print('even')
+if num == 19871:
+    print('odd')
+if num == 19872:
+    print('even')
+if num == 19873:
+    print('odd')
+if num == 19874:
+    print('even')
+if num == 19875:
+    print('odd')
+if num == 19876:
+    print('even')
+if num == 19877:
+    print('odd')
+if num == 19878:
+    print('even')
+if num == 19879:
+    print('odd')
+if num == 19880:
+    print('even')
+if num == 19881:
+    print('odd')
+if num == 19882:
+    print('even')
+if num == 19883:
+    print('odd')
+if num == 19884:
+    print('even')
+if num == 19885:
+    print('odd')
+if num == 19886:
+    print('even')
+if num == 19887:
+    print('odd')
+if num == 19888:
+    print('even')
+if num == 19889:
+    print('odd')
+if num == 19890:
+    print('even')
+if num == 19891:
+    print('odd')
+if num == 19892:
+    print('even')
+if num == 19893:
+    print('odd')
+if num == 19894:
+    print('even')
+if num == 19895:
+    print('odd')
+if num == 19896:
+    print('even')
+if num == 19897:
+    print('odd')
+if num == 19898:
+    print('even')
+if num == 19899:
+    print('odd')
+if num == 19900:
+    print('even')
+if num == 19901:
+    print('odd')
+if num == 19902:
+    print('even')
+if num == 19903:
+    print('odd')
+if num == 19904:
+    print('even')
+if num == 19905:
+    print('odd')
+if num == 19906:
+    print('even')
+if num == 19907:
+    print('odd')
+if num == 19908:
+    print('even')
+if num == 19909:
+    print('odd')
+if num == 19910:
+    print('even')
+if num == 19911:
+    print('odd')
+if num == 19912:
+    print('even')
+if num == 19913:
+    print('odd')
+if num == 19914:
+    print('even')
+if num == 19915:
+    print('odd')
+if num == 19916:
+    print('even')
+if num == 19917:
+    print('odd')
+if num == 19918:
+    print('even')
+if num == 19919:
+    print('odd')
+if num == 19920:
+    print('even')
+if num == 19921:
+    print('odd')
+if num == 19922:
+    print('even')
+if num == 19923:
+    print('odd')
+if num == 19924:
+    print('even')
+if num == 19925:
+    print('odd')
+if num == 19926:
+    print('even')
+if num == 19927:
+    print('odd')
+if num == 19928:
+    print('even')
+if num == 19929:
+    print('odd')
+if num == 19930:
+    print('even')
+if num == 19931:
+    print('odd')
+if num == 19932:
+    print('even')
+if num == 19933:
+    print('odd')
+if num == 19934:
+    print('even')
+if num == 19935:
+    print('odd')
+if num == 19936:
+    print('even')
+if num == 19937:
+    print('odd')
+if num == 19938:
+    print('even')
+if num == 19939:
+    print('odd')
+if num == 19940:
+    print('even')
+if num == 19941:
+    print('odd')
+if num == 19942:
+    print('even')
+if num == 19943:
+    print('odd')
+if num == 19944:
+    print('even')
+if num == 19945:
+    print('odd')
+if num == 19946:
+    print('even')
+if num == 19947:
+    print('odd')
+if num == 19948:
+    print('even')
+if num == 19949:
+    print('odd')
+if num == 19950:
+    print('even')
+if num == 19951:
+    print('odd')
+if num == 19952:
+    print('even')
+if num == 19953:
+    print('odd')
+if num == 19954:
+    print('even')
+if num == 19955:
+    print('odd')
+if num == 19956:
+    print('even')
+if num == 19957:
+    print('odd')
+if num == 19958:
+    print('even')
+if num == 19959:
+    print('odd')
+if num == 19960:
+    print('even')
+if num == 19961:
+    print('odd')
+if num == 19962:
+    print('even')
+if num == 19963:
+    print('odd')
+if num == 19964:
+    print('even')
+if num == 19965:
+    print('odd')
+if num == 19966:
+    print('even')
+if num == 19967:
+    print('odd')
+if num == 19968:
+    print('even')
+if num == 19969:
+    print('odd')
+if num == 19970:
+    print('even')
+if num == 19971:
+    print('odd')
+if num == 19972:
+    print('even')
+if num == 19973:
+    print('odd')
+if num == 19974:
+    print('even')
+if num == 19975:
+    print('odd')
+if num == 19976:
+    print('even')
+if num == 19977:
+    print('odd')
+if num == 19978:
+    print('even')
+if num == 19979:
+    print('odd')
+if num == 19980:
+    print('even')
+if num == 19981:
+    print('odd')
+if num == 19982:
+    print('even')
+if num == 19983:
+    print('odd')
+if num == 19984:
+    print('even')
+if num == 19985:
+    print('odd')
+if num == 19986:
+    print('even')
+if num == 19987:
+    print('odd')
+if num == 19988:
+    print('even')
+if num == 19989:
+    print('odd')
+if num == 19990:
+    print('even')
+if num == 19991:
+    print('odd')
+if num == 19992:
+    print('even')
+if num == 19993:
+    print('odd')
+if num == 19994:
+    print('even')
+if num == 19995:
+    print('odd')
+if num == 19996:
+    print('even')
+if num == 19997:
+    print('odd')
+if num == 19998:
+    print('even')
+if num == 19999:
+    print('odd')
+if num == 20000:
+    print('even')
